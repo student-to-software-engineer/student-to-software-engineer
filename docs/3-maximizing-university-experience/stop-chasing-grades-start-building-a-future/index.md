@@ -10,7 +10,11 @@ For the first time, the path ahead isn’t so clear. You're not just working tow
 
 Most students don’t stop to think about this early enough. They treat university like high school: go to class, get good grades, move on. But here’s the problem—grades don’t matter nearly as much as you think they do. Not in the way they used to.
 
-Especially in computer science, your degree doesn’t automatically land you a job. So if your main goal is to get hired after school—and for most people it is—then you need to start acting like it.
+**Just getting good grades is less than the bare minimum.** It’s not enough to get you a job in tech. In fact, it’s not even enough to get you an interview at most companies.
+
+Everyone around you is doing the same courses as you, so you need to do more to actually stand out.
+
+You may be getting a **As** in your courses, but in regards to the grade you would receive on your career growth, it's probably closer to a **C**.
 
 That doesn’t mean skipping class or flunking your courses. It means rethinking what university is for. It’s no longer about just proving you’re smart on paper. It’s about building real skills, real experience, and real connections.
 
