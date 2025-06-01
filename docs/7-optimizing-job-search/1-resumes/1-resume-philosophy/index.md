@@ -4,7 +4,7 @@ Before you worry about actually writing your resume, you need to understand who 
 
 There are typically two types of people who will be reading your resume:
 
-## 1. Human Resources / Talent Acquisition
+### 1. Human Resources / Talent Acquisition
 
 These are recruiters and HR staff. They’re often the first to see your resume, and they usually aren’t engineers themselves. Their job is to screen candidates based on:
 
@@ -20,7 +20,7 @@ Buzzword-friendly (mention relevant languages, tools, and frameworks)
 
 Free of fluff (no vague claims or dense paragraphs)
 
-## 2. Engineering Managers / Developers
+### 2. Engineering Managers / Developers
 
 If your resume passes the first screen, it may land in front of a technical person. This audience actually understands what you built and will assess:
 
