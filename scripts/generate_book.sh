@@ -4,15 +4,26 @@
 DOCS_ROOT="docs"
 OUTPUT_MD="combined.md"
 OUTPUT_PDF="book.pdf"
+TITLE_PAGE="title.md"
 
 # === Reset output ===
 echo "🧹 Clearing previous output..."
 echo "" > "$OUTPUT_MD"
 
+# === Create title page ===
+cat > "$TITLE_PAGE" <<EOF
+# Student To Software Engineer
+### By: Matthew MacRae-Bovell
+\today
+\newpage
+EOF
+
+cat "$TITLE_PAGE" >> "$OUTPUT_MD"
+echo -e "\n" >> "$OUTPUT_MD"
+
 # === Helper: Clean markdown content ===
 clean_markdown() {
   local file="$1"
-  # Remove heading lines that match patterns like "## 1-a-thing" or "## 2.3.1-another-thing"
   sed '/^## [0-9][0-9.]*-[a-z0-9-]\+$/d' "$file"
 }
 
@@ -52,3 +63,4 @@ pandoc "$OUTPUT_MD" -o "$OUTPUT_PDF" --pdf-engine=xelatex -V mainfont="Palatino"
 
 # === Done ===
 echo "✅ PDF generated: $OUTPUT_PDF"
+
