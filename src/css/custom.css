@@ -1,5 +1,5 @@
 :root {
-  --ifm-color-primary: #223A78;
+  --ifm-color-primary: #223a78;
   --ifm-color-primary-dark: #1f346c;
   --ifm-color-primary-darker: #1c2f61;
   --ifm-color-primary-darkest: #182750;
@@ -11,8 +11,8 @@
   --docusaurus-highlighted-code-line-bg: rgba(34, 58, 120, 0.1);
 }
 
-[data-theme='dark'] {
-  --ifm-color-primary: #FFD740;
+[data-theme="dark"] {
+  --ifm-color-primary: #ffd740;
   --ifm-color-primary-dark: #e6c238;
   --ifm-color-primary-darker: #ccae32;
   --ifm-color-primary-darkest: #b3992b;
@@ -23,7 +23,6 @@
   --docusaurus-highlighted-code-line-bg: rgba(255, 215, 64, 0.2);
 }
 
-
 .navbar__logo {
-    height: 2.5rem !important;
+  height: 2.5rem !important;
 }
