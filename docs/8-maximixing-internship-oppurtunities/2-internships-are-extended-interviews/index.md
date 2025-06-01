@@ -6,4 +6,4 @@ For companies, it’s essentially a probation period to evaluate whether you hav
 
 But it’s a two-way street. Just as the company is evaluating you, this is your chance to evaluate them. Are there signs that the company prioritizes career growth for junior developers? Are they giving interns and junior developers meaningful work? Are you surrounded by people you can look up to, learn from, and see yourself working with in the long term?
 
-Remember, an internship is more than just getting experience. It’s a chance to test-drve a workplace and team. Use this time to determine if it’s the kind of environment where you’d want to invest your energy and grow into a full-time role.
+Remember, an internship is more than just getting experience. It’s a chance to test-drive a workplace and team. Use this time to determine if it’s the kind of environment where you’d want to invest your energy and grow into a full-time role.

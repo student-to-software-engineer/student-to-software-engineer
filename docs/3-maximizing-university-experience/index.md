@@ -1,3 +1,3 @@
-# 3. How to Maximize your University Experience
+# 3. How to Maximize University Experience
 
 Coming Soon!
