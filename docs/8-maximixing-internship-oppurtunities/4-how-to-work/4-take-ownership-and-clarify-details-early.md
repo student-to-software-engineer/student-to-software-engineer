@@ -1,4 +1,4 @@
-# 8.3.4. Take Ownership and Clarify Details Early
+# 8.4.4. Take Ownership and Clarify Details Early
 
 One of the most common pitfalls for interns, junior developers—and even seasoned programmers—is diving into implementation before fully understanding the requirements or assumptions behind a task. Instead, you should take ownership and work to fully understand a ticket’s scope and ensure that all requirements are met when it’s delivered.
 

@@ -1,4 +1,4 @@
-# 8.3.5. Pair on Tickets Outside Your Depth
+# 8.4.5. Pair on Tickets Outside Your Depth
 
 As an intern, you’re going to see tickets that you just don’t feel you have the experience to take on.
 

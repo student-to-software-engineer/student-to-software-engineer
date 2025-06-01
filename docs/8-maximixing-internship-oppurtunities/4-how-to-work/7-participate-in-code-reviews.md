@@ -1,4 +1,4 @@
-# 8.3.7. Participate in Code Reviews
+# 8.4.7. Participate in Code Reviews
 
 As an intern, you might not feel comfortable or ready to contribute to code reviews. It’s natural to worry about saying the wrong thing or not understanding enough to provide valuable feedback. But remember, no one expects you to be an expert as a newcomer. Code reviews are not just about spotting issues—they’re also an excellent learning opportunity for you.
 

@@ -1,4 +1,4 @@
-# 8.3.1. There Are Bad Questions
+# 8.4.1. There Are Bad Questions
 
 When you join a team, you might hear the phrase, “there are no bad questions.” While the intent behind this sentiment is to encourage curiosity, it’s not entirely accurate. The way you ask questions can leave a lasting impression, and asking poorly thought-out or vague questions can reflect negatively on you.
 

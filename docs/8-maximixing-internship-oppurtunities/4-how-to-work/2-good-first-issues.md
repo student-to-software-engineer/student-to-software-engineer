@@ -1,4 +1,4 @@
-# 8.3.2 Start With Good First Issues & Pairing
+# 8.4.2 Start With Good First Issues & Pairing
 
 Starting in a new codebase can feel overwhelming, but there are ways to ease the transition and make a strong impression on your team.
 

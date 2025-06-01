@@ -1,4 +1,4 @@
-# 8.3.7. Every Meeting is a Presentation
+# 8.4.7. Every Meeting is a Presentation
 
 Come to every meeting prepared.
 

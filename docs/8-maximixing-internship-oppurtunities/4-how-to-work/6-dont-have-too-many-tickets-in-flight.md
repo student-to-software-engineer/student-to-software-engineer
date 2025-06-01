@@ -1,4 +1,4 @@
-# 8.3.6. Don't Have Too Many Tickets in Flight
+# 8.4.6. Don't Have Too Many Tickets in Flight
 
 Aim to keep no more than two tickets in progress at a time.
 

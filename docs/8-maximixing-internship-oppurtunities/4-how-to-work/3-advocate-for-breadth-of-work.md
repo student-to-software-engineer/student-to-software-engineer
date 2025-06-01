@@ -1,4 +1,4 @@
-# 8.3.3. Advocate for Breadth of Work
+# 8.4.3. Advocate for Breadth of Work
 
 If you’re new to a codebase, it’s easy to get pigeonholed into working on similar tasks or focusing on a specific area, especially as an intern who hasn’t yet built trust with your team members.
 

@@ -1,4 +1,4 @@
-# 8.1. Internships are Extended Interviews
+# 8.2. Internships are Extended Interviews
 
 At their core, an internship is an extended interview.
 
