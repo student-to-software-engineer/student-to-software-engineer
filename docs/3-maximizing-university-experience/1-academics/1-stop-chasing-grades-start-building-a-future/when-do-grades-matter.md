@@ -1,4 +1,4 @@
-# 3.1.1. When Do Grades Matter?
+# 3.1.1.1. When Do Grades Matter?
 
 While it's true that grades aren’t the golden ticket to a job in tech, that doesn’t mean they’re completely irrelevant.
 

@@ -1,3 +1,3 @@
-# 4. Understanding the Tech Industry
+# 4. Understanding the Tech Field
 
 Coming Soon!
