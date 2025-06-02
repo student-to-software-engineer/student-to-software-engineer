@@ -1,4 +1,4 @@
-# 7.1.2.2. Education
+# 7.2.2.2. Education
 
 List your degree, major, university, and any specializations. Include relevant coursework if applicable.
 

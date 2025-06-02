@@ -1,4 +1,4 @@
-# 7.1.1. Understand Your Audience
+# 7.2.1. Understand Your Audience
 
 Before you worry about actually writing your resume, you need to understand who you’re writing your resume for.
 

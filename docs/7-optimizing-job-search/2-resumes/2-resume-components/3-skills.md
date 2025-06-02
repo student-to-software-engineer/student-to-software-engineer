@@ -1,4 +1,4 @@
-# 7.1.2.3. Skills
+# 7.2.2.3. Skills
 
 List programming languages, frameworks, tools, and technologies you are proficient in.
 

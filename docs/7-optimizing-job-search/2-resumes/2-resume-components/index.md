@@ -1,4 +1,4 @@
-# 7.1.2. Resume Components
+# 7.2.2. Resume Components
 
 As a student, even with zero work experience, you should aim to include the following sections in your resume in **this order**:
 
