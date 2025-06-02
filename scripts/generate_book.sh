@@ -5,6 +5,9 @@ DOCS_ROOT="docs"
 OUTPUT_MD="combined.md"
 OUTPUT_PDF="book.pdf"
 TITLE_PAGE="title.md"
+EMOJI_FILTER="Pandoc-Emojis-Filter/emoji_filter.js"
+TEMPLATE_FILE="Pandoc-Emojis-Filter/template.tex"
+EMOJI_STYLE="twemoji"  # or "noto-emoji"
 
 # === Reset output ===
 echo "🧹 Clearing previous output..."
@@ -12,9 +15,17 @@ echo "" > "$OUTPUT_MD"
 
 # === Create title page ===
 cat > "$TITLE_PAGE" <<EOF
-# Student To Software Engineer
-### By: Matthew MacRae-Bovell
+\begin{titlepage}
+\centering
+{\Huge\bfseries Student to Software Engineer\par}
+{\Large By: Matthew MacRae-Bovell\par}
+\vspace{1cm}
+\includegraphics[width=1.0\textwidth]{cover.png}
+
+\vfill
+
 \today
+\end{titlepage}
 \newpage
 EOF
 
@@ -57,10 +68,18 @@ walk() {
 echo "🚶 Walking directory tree..."
 walk "$DOCS_ROOT" 1
 
-# === Convert to PDF ===
-echo "🖨️ Generating PDF with Pandoc..."
-pandoc "$OUTPUT_MD" -o "$OUTPUT_PDF" --pdf-engine=xelatex -V mainfont="Palatino"
+# === Convert to PDF using emoji filter ===
+echo "🧠 Running emoji filter with: $EMOJI_STYLE"
+echo "🖨️ Generating PDF with Pandoc and emoji support..."
+
+pandoc "$OUTPUT_MD" -o "$OUTPUT_PDF" \
+  --template="$TEMPLATE_FILE" \
+  --pdf-engine=xelatex \
+  --filter="$EMOJI_FILTER" \
+  -M emoji="$EMOJI_STYLE" \
+  -V mainfont="Palatino" \
+  -V fontsize=12pt \
+  -V graphics=true
 
 # === Done ===
 echo "✅ PDF generated: $OUTPUT_PDF"
-
