@@ -78,24 +78,25 @@ const config: Config = {
     },
   },
     navbar: {
-      title: 'Textbook',
+      title: 'Student To Software Engineer',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.png',
       },
       items: [
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Content',
-        },
+        // {
+        //   type: 'docSidebar',
+        //   sidebarId: 'tutorialSidebar',
+        //   position: 'left',
+        //   label: 'Content',
+        // },
         // {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
           position: 'right',
-        },
+          className: 'header-github-link',
+          'aria-label': 'GitHub repository',
+        }
       ],
     },
     footer: {

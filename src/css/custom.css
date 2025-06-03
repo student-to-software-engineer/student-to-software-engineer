@@ -39,3 +39,17 @@
   margin-top: 0.5rem;
   font-size: 2.6rem !important;
 }
+
+.header-github-link {
+  mask-image: url("https://simpleicons.org/icons/github.svg");
+  -webkit-mask-image: url("https://simpleicons.org/icons/github.svg");
+  mask-repeat: no-repeat;
+  -webkit-mask-repeat: no-repeat;
+  mask-size: contain;
+  -webkit-mask-size: contain;
+  background-color: currentColor;
+  width: 1.45rem;
+  height: 1.45rem;
+  margin-right: 0.5rem;
+  display: inline-block;
+}
