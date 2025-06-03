@@ -38,10 +38,23 @@ clean_markdown() {
   sed '/^## [0-9][0-9.]*-[a-z0-9-]\+$/d' "$file"
 }
 
+# === Include preface explicitly ===
+PREFACE_FILE="$DOCS_ROOT/preface/index.md"
+if [[ -f "$PREFACE_FILE" ]]; then
+  echo "📄 Including Preface: $PREFACE_FILE"
+  clean_markdown "$PREFACE_FILE" >> "$OUTPUT_MD"
+  echo -e "\n\n\\\\newpage\n" >> "$OUTPUT_MD"
+fi
+
 # === Recursively walk directory ===
 walk() {
   local current_dir="$1"
   local depth="$2"
+
+  # Skip 'preface' since it's already included
+  if [[ "$current_dir" == "$DOCS_ROOT/preface" ]]; then
+    return
+  fi
 
   # Include index.md first, if present
   if [[ -f "$current_dir/index.md" ]]; then
