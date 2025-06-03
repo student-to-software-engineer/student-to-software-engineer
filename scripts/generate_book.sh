@@ -2,40 +2,74 @@
 
 # === Config ===
 DOCS_ROOT="docs"
-OUTPUT_MD="combined.md"
-OUTPUT_PDF="book.pdf"
-TITLE_PAGE="title.md"
+BOOK_DIR="book"
+OUTPUT_MD="$BOOK_DIR/combined.md"
+OUTPUT_PDF="$BOOK_DIR/book.pdf"
+TITLE_PAGE="$BOOK_DIR/title.md"
+COVER_IMAGE="assets/img/cover.png"
 EMOJI_FILTER="Pandoc-Emojis-Filter/emoji_filter.js"
 TEMPLATE_FILE="Pandoc-Emojis-Filter/template.tex"
 EMOJI_STYLE="twemoji"  # or "noto-emoji"
+
+# === Ensure book directory exists ===
+mkdir -p "$BOOK_DIR"
 
 # === Reset output ===
 echo "🧹 Clearing previous output..."
 echo "" > "$OUTPUT_MD"
 
-# === Create title page ===
+# === Create main title page ===
 cat > "$TITLE_PAGE" <<EOF
 \begin{titlepage}
 \centering
 {\Huge\bfseries Student to Software Engineer\par}
 {\Large By: Matthew MacRae-Bovell\par}
 \vspace{1cm}
-\includegraphics[width=1.0\textwidth]{cover.png}
+\includegraphics[width=1.0\textwidth]{$COVER_IMAGE}
 
 \vfill
 
 \today
 \end{titlepage}
-\newpage
 EOF
 
 cat "$TITLE_PAGE" >> "$OUTPUT_MD"
 echo -e "\n" >> "$OUTPUT_MD"
 
-# === Helper: Clean markdown content ===
+# === Chapter title generator ===
+generate_chapter_page() {
+  local major="$1"
+  local title="Chapter ${major}"
+  cat <<EOF
+
+\`\`\`{=latex}
+\begin{titlepage}
+\centering
+{\Huge\bfseries ${title}\par}
+\vspace{1cm}
+\includegraphics[width=1.0\textwidth]{$COVER_IMAGE}
+\vfill
+\newpage
+\end{titlepage}
+\`\`\`
+
+EOF
+}
+
+# === Helpers ===
 clean_markdown() {
   local file="$1"
   sed '/^## [0-9][0-9.]*-[a-z0-9-]\+$/d' "$file"
+}
+
+extract_chapter_headers() {
+  local file="$1"
+  grep -E '^# [0-9]+\.' "$file"
+}
+
+extract_major_version() {
+  local file="$1"
+  extract_chapter_headers "$file" | grep -oE '^# [0-9]+' | head -n 1 | awk '{print $2}'
 }
 
 # === Include preface explicitly ===
@@ -43,38 +77,48 @@ PREFACE_FILE="$DOCS_ROOT/preface/index.md"
 if [[ -f "$PREFACE_FILE" ]]; then
   echo "📄 Including Preface: $PREFACE_FILE"
   clean_markdown "$PREFACE_FILE" >> "$OUTPUT_MD"
-  echo -e "\n\n\\\\newpage\n" >> "$OUTPUT_MD"
 fi
 
-# === Recursively walk directory ===
+# === Recursively walk directory and inject chapter pages ===
 walk() {
   local current_dir="$1"
   local depth="$2"
 
-  # Skip 'preface' since it's already included
+  # Static var to track across function calls
+  declare -g last_major_version=""
+
+  # Skip preface
   if [[ "$current_dir" == "$DOCS_ROOT/preface" ]]; then
     return
   fi
 
-  # Include index.md first, if present
+  local files=()
   if [[ -f "$current_dir/index.md" ]]; then
-    echo "📄 Including: $current_dir/index.md"
-    clean_markdown "$current_dir/index.md" >> "$OUTPUT_MD"
-    echo -e "\n" >> "$OUTPUT_MD"
+    files+=("$current_dir/index.md")
   fi
 
-  # Include other markdown files, sorted
-  find "$current_dir" -maxdepth 1 -type f -name '*.md' ! -name 'index.md' \
-    | sort -V | while read -r file; do
-      echo "📄 Including: $file"
-      clean_markdown "$file" >> "$OUTPUT_MD"
-      echo -e "\n" >> "$OUTPUT_MD"
+  while IFS= read -r -d '' file; do
+    files+=("$file")
+  done < <(find "$current_dir" -maxdepth 1 -type f -name '*.md' ! -name 'index.md' -print0 | sort -zV)
+
+  for file in "${files[@]}"; do
+    echo "📄 Including: $file"
+
+    major_version=$(extract_major_version "$file")
+    if [[ -n "$major_version" && "$major_version" != "$last_major_version" ]]; then
+      echo "🔖 New chapter: $major_version"
+      generate_chapter_page "$major_version" >> "$OUTPUT_MD"
+      last_major_version="$major_version"
+    fi
+
+    clean_markdown "$file" >> "$OUTPUT_MD"
+    echo -e "\n" >> "$OUTPUT_MD"
   done
 
-  # Recurse into sorted subdirectories
-  find "$current_dir" -mindepth 1 -maxdepth 1 -type d | sort -V | while read -r dir; do
+  # Recurse into subdirectories
+  while IFS= read -r -d '' dir; do
     walk "$dir" $((depth + 1))
-  done
+  done < <(find "$current_dir" -mindepth 1 -maxdepth 1 -type d -print0 | sort -zV)
 }
 
 # === Run walker ===
@@ -85,14 +129,18 @@ walk "$DOCS_ROOT" 1
 echo "🧠 Running emoji filter with: $EMOJI_STYLE"
 echo "🖨️ Generating PDF with Pandoc and emoji support..."
 
-pandoc "$OUTPUT_MD" -o "$OUTPUT_PDF" \
-  --template="$TEMPLATE_FILE" \
-  --pdf-engine=xelatex \
-  --filter="$EMOJI_FILTER" \
-  -M emoji="$EMOJI_STYLE" \
-  -V mainfont="Palatino" \
-  -V fontsize=12pt \
-  -V graphics=true
+(
+  cd "$BOOK_DIR"
+  pandoc "combined.md" -o "book.pdf" \
+    --template="../$TEMPLATE_FILE" \
+    --pdf-engine=xelatex \
+    --filter="../$EMOJI_FILTER" \
+    -M emoji="$EMOJI_STYLE" \
+    -V mainfont="Palatino" \
+    -V fontsize=12pt \
+    -V graphics=true
+)
 
 # === Done ===
 echo "✅ PDF generated: $OUTPUT_PDF"
+echo "📖 Book generation complete! Check the $BOOK_DIR directory for the output."

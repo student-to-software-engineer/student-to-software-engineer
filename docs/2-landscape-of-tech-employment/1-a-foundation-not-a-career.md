@@ -1,4 +1,4 @@
-# 2.1. The Degree is a Foundation, Not a Career
+# 2.1. Computer Science is a Foundation, Not a Career
 
 A key reason many computer science students are struggling to find employment is due to a lack of understanding of what computer science actually is.
 

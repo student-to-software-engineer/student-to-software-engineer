@@ -18,7 +18,7 @@ You may be getting a **As** in your courses, but in regards to the grade you wou
 
 That doesn’t mean skipping class or flunking your courses. It means rethinking what university is for.
 
-### When Do Grades Matter?
+## When Do Grades Matter?
 
 While it's true that grades aren’t the golden ticket to a job in tech, that doesn’t mean they’re completely irrelevant.
 

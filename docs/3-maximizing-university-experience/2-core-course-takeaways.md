@@ -8,13 +8,13 @@ Knowing what to focus on in each course will help you get the most out of your t
 
 Here are some of the core courses you will likely take in a computer science program, and what you should focus on in each one.
 
-### Data Structures and Algorithms Analysis Course
+## Data Structures and Algorithms Analysis Course
 
 This course is NOT about memorizing algorithms, data structures, and their runtimes. It's about learning the common patterns so that you are capable of designing your own algorithms and data structures to solve problems.
 
 Many students will tell you this course is important "because it teaches you how to code for job interviews." and while there is some truth to that, you will enivitable have to build some kind of performance critical system in your career, and this course will help give you the foundations for that.
 
-#### What Is Typically Covered
+### What Is Typically Covered
 
 - Sorting and searching algorithms
 - Recursion and divide & conquer
@@ -22,19 +22,19 @@ Many students will tell you this course is important "because it teaches you how
 - Big-O complexity analysis
 - Greedy, dynamic programming, and backtracking techniques
 
-#### What You Should Focus On
+### What You Should Focus On
 
 - Pattern recognition: understand why and when to use certain algorithms
 - Tradeoffs between different data structures
 - Developing strong problem-solving habits and code clarity
 - Practicing writing code under constraints (interview prep can actually help with this!)
 
-#### What Not to do
+### What Not to do
 
 - Don’t just memorize algorithms—focus on understanding the underlying principles
 - Don't get bogged down in theoretical proofs; focus on practical applications
 
-### Operating Systems Course
+## Operating Systems Course
 
 This course usually focusses on the fundamentals of how operating systems work, including process management, memory management, file systems, and concurrency.
 
@@ -48,15 +48,15 @@ Concepts like resiliency, fault tolerance, and concurrency are all critical to b
 
 Additionally, containers and container orchestration (e.g. Kubernetes) technology critical to building horizontal scaling systems are built on top of operating system concepts, so having a solid understanding of operating systems will help you understand how these technologies work.
 
-### Computer Networks Course
+## Computer Networks Course
 
-### Database Course
+## Database Course
 
 Every software engineer will work with databases at some point in their career, so this course is essential.
 
-#### What Is Typically Covered
+### What Is Typically Covered
 
-#### What You Should Focus On
+### What You Should Focus On
 
 Do you need to memorize all the fancy proofs for relational algebra and normalization? No.
 

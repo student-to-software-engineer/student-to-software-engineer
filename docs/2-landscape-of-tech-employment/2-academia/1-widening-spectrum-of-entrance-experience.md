@@ -6,7 +6,7 @@ Some students arrive with years of programming experience, having built games, w
 
 And while this has always been the case to some extent, the gap has widened significantly in recent years thanks to the rise of simplified tech like iPads and Chromebooks, which have become common as early as elementary school.
 
-### No Standardized Starting Line
+## No Standardized Starting Line
 
 Part of the issue stems from the fact that there is no universal or standardized high school curriculum for computer science.
 
@@ -16,7 +16,7 @@ Similarly, while programs like the International Baccalaureate (IB) or Advanced 
 
 The result is a fragmented pipeline: incoming university students might have vastly different levels of experience, and yet they are forced into a one-size-fits-all curriculum with few options for differentiation or acceleration.
 
-### Increased Lack of Tech Literacy
+## Increased Lack of Tech Literacy
 
 As a student mentor at Carleton University, I frequently meet first-year CS students who:
 
@@ -34,7 +34,7 @@ This lack of foundational literacy creates a cascading effect:
 
 And while most computer science programs are designed with the assumption that students have no prior programming experience, they are rarely designed to handle students with no practical computing experience at all. Many courses continue to assume students understand basic ideas like files, directories, or how to use a terminal, when a growing portion of students do not.
 
-### Experienced Students Are Systematically Held Back
+## Experienced Students Are Systematically Held Back
 
 Ironically, the opposite problem also exists. Technological accessibility has allowed many students to gain significant programming experience before entering university—having built games, web apps, or completed online courses at even earlier ages than ever before.
 
@@ -48,13 +48,13 @@ This creates several problems:
 
 The ability to skip early courses or take accelerated paths is often limited or non-existent.
 
-### Lack of Acceleration in Canada
+## Lack of Acceleration in Canada
 
 In Canada, only the University of British Columbia (UBC) offers a placement exam that allows students to test out of introductory courses. Most other universities, including Waterloo—which is widely considered the top CS school in the country—only “strongly encourage” experienced students to take advanced introductory courses (e.g. CS 145 instead of CS 135). However, CS 145 is not a true acceleration path, as it covers the same material with only a more theoretical framing.
 
 Many of these students could be thriving if offered higher-level electives earlier or given opportunities to accelerate—but few programs offer formal pathways for this. As a result, high-potential students often go unchallenged and unsupported, drifting through their degree without any clear direction on how to continue growing.
 
-### Acceleration in the United States
+## Acceleration in the United States
 
 In the United States, there are slightly more options—but they vary dramatically from school to school.
 
