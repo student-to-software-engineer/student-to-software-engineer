@@ -39,13 +39,17 @@ echo -e "\n" >> "$OUTPUT_MD"
 # === Chapter title generator ===
 generate_chapter_page() {
   local major="$1"
-  local title="Chapter ${major}"
+  local title_line="$2"
   local image_path="assets/img/chapter_${major}_cover.png"
 
   if [[ ! -f "$BOOK_DIR/$image_path" ]]; then
     echo "⚠️  Warning: $image_path not found, using default cover."
     image_path="assets/img/cover.png"
   fi
+
+  # Escape LaTeX special characters in title
+  local clean_title
+  clean_title=$(echo "$title_line" | sed 's/# //; s/_/\\_/g; s/&/\\&/g; s/%/\\%/g')
 
   cat <<EOF
 
@@ -54,7 +58,7 @@ generate_chapter_page() {
 \setcounter{savedpage}{\value{page}}
 \begin{titlepage}
 \centering
-{\Huge\bfseries ${title}\par}
+{\Huge\bfseries $clean_title\par}
 \vspace{1cm}
 \includegraphics[width=1.0\textwidth]{${image_path}}
 \vfill
@@ -66,7 +70,6 @@ generate_chapter_page() {
 
 EOF
 }
-
 
 # === Helpers ===
 clean_markdown() {
@@ -117,9 +120,11 @@ walk() {
     echo "📄 Including: $file"
 
     major_version=$(extract_major_version "$file")
+    chapter_title=$(extract_chapter_headers "$file" | head -n 1)
+
     if [[ -n "$major_version" && "$major_version" != "$last_major_version" ]]; then
       echo "🔖 New chapter: $major_version"
-      generate_chapter_page "$major_version" >> "$OUTPUT_MD"
+      generate_chapter_page "$major_version" "$chapter_title" >> "$OUTPUT_MD"
       last_major_version="$major_version"
     fi
 
