@@ -40,6 +40,14 @@ echo -e "\n" >> "$OUTPUT_MD"
 generate_chapter_page() {
   local major="$1"
   local title="Chapter ${major}"
+  local image_path="assets/img/chapter_${major}_cover.png"
+
+  # Fallback if the chapter image doesn't exist
+  if [[ ! -f "$BOOK_DIR/$image_path" ]]; then
+    echo "⚠️  Warning: $image_path not found, using default cover."
+    image_path="assets/img/cover.png"
+  fi
+
   cat <<EOF
 
 \`\`\`{=latex}
@@ -47,7 +55,7 @@ generate_chapter_page() {
 \centering
 {\Huge\bfseries ${title}\par}
 \vspace{1cm}
-\includegraphics[width=1.0\textwidth]{$COVER_IMAGE}
+\includegraphics[width=1.0\textwidth]{${image_path}}
 \vfill
 \newpage
 \end{titlepage}
