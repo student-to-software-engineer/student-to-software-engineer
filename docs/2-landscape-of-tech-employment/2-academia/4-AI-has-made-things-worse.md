@@ -1,13 +1,11 @@
 # 2.2.4. AI’s Educational Shift
 
-The recent explosion of AI tools has only amplified these issues. With many assignments designed to have one correct answer (for grading convenience), AI tools can often generate those answers with little effort.
+While the rise of large language models (LLMs) like ChatGPT offer new learning opportunities, it has also made _“cheating”_ more accessible and widespread than ever before.
 
-This means students can:
+Assignments that were already simplified to accommodate overcrowded classes and limited TA support—multiple choice, fill-in-the-blanks, auto-graded code problems—are now trivial to solve using AI.
 
-- Submit assignments they don’t understand
-- Bypass the learning process entirely
-- Appear competent without building real skills
+Students are increasingly relying on AI to do their assignments for them, often without any real understanding of the material. This is not just a problem of academic integrity; it’s a fundamental issue of learning and skill development.
 
-Educators are now facing a serious challenge: how to distinguish between students who genuinely know the material and those who know how to write a clever ChatGPT prompt.
+Like it or not, tools like ChatGPT are here to stay. And just like calculators were eventually accepted in math education, universities must evolve rather than resist.
 
-Unless universities evolve their assessment methods, students will continue graduating without the critical thinking, problem-solving, and creative abilities required in industry.
+But the reality is that many universities are struggling to adapt. They cling to outdated assessment methods, failing to recognize that the traditional model of education is no longer effective in the age of AI.
