@@ -47,7 +47,6 @@ generate_chapter_page() {
     image_path="assets/img/cover.png"
   fi
 
-  # Escape LaTeX special characters in title
   local clean_title
   clean_title=$(echo "$title_line" | sed 's/# //; s/_/\\_/g; s/&/\\&/g; s/%/\\%/g')
 
@@ -56,7 +55,7 @@ generate_chapter_page() {
 \`\`\`{=latex}
 \clearpage
 \thispagestyle{my_sectionpage}
-\vspace*{\fill}
+\vspace*{0cm}
 \begin{center}
 {\Huge\bfseries $clean_title\par}
 \vspace{1cm}
@@ -68,7 +67,6 @@ generate_chapter_page() {
 
 EOF
 }
-
 # === Helpers ===
 clean_markdown() {
   local file="$1"
