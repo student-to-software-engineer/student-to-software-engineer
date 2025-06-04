@@ -2,7 +2,7 @@
 
 When you start your internship, it’s natural to want to make a good impression. You want to show that you’re capable, eager to learn, and ready to contribute. But how do you do that in a way that stands out?
 
-### Don't Ask Bad Questions
+## Don't Ask Bad Questions
 
 When you join a team, you might hear the phrase, “there are no bad questions.”
 
@@ -23,19 +23,19 @@ By showing that you’ve taken the initiative to research, test, or troubleshoot
 
 Consistently asking questions without context or preparation suggests a lack of independence or effort, which can erode trust over time.
 
-### Start With Good First Issues & Pairing
+## Start With Good First Issues & Pairing
 
 Starting in a new codebase can feel overwhelming, but there are ways to ease the transition and make a strong impression on your team.
 
 When starting out in a new codebase, I recommend asking to pair program with one of the full-time developers on your team while working on “good first issue” tickets when they are busy.
 
-#### Pair Programming
+### Pair Programming
 
 Pair programming involves collaborating with a teammate to work through a piece of code together.
 
 Ask to pair program with one of the full-time developers on your team. This is a great way to get an applied understanding of your team’s immediate work as opposed to reading through documentation or getting an oral overview of the codebase.
 
-#### Good First Issues
+### Good First Issues
 
 “Good first issues” are curated tasks designed to be approachable for new contributors. These tickets are typically non-urgent, low-risk, and great opportunities to get familiar with the codebase while contributing something meaningful.
 
@@ -43,7 +43,7 @@ Once your development environment is set up, proactively ask your mentor or engi
 
 Not every team has a list of curated tasks ready for new members. If that’s the case, bring up the idea early. By asking for good first issues, you encourage your manager or mentor to prepare tasks that will help you contribute sooner.
 
-### Advocate for Breadth of Work
+## Advocate for Breadth of Work
 
 If you’re new to a codebase, it’s easy to get pigeonholed into working on similar tasks or focusing on a specific area, especially as an intern who hasn’t yet built trust with your team members.
 
@@ -57,7 +57,7 @@ Also consider what you’ve done in previous internships. If you already have ex
 
 If your workplace doesn’t naturally offer opportunities to explore different areas, consider raising this with your manager or mentor during a 1:1 meeting.
 
-### Take Ownership and Clarify Details Early
+## Take Ownership and Clarify Details Early
 
 One of the most common pitfalls for interns, junior developers—and even seasoned programmers—is diving into implementation before fully understanding the requirements or assumptions behind a task. Instead, you should take ownership and work to fully understand a ticket’s scope and ensure that all requirements are met when it’s delivered.
 
@@ -69,7 +69,7 @@ For design or product driven tasks, share screenshots and video updates to confi
 
 By seeking clarification early and staying aligned with your team, you’ll build trust with your colleagues and have more time to take on a greater breadth of tickets.
 
-### Pair on Tickets Outside Your Depth
+## Pair on Tickets Outside Your Depth
 
 As an intern, you’re going to see tickets that you just don’t feel you have the experience to take on.
 
@@ -79,7 +79,7 @@ Instead of shying away, consider taking a proactive approach: while continuing t
 
 Especially for tickets like research tasks or spikes, it’s great to pair with someone so you can observe how they break down ambiguous problems, structure their research, and prioritize key insights.
 
-### Don't Have Too Many Tickets in Flight
+## Don't Have Too Many Tickets in Flight
 
 Aim to keep no more than two tickets in progress at a time.
 
@@ -97,7 +97,7 @@ Some valid reasons for taking on a second ticket might include waiting for:
 
 If you know a ticket is going to be blocked for an extended period (e.g., over a week) and it’s unclear when it will be unblocked, let your manager know and ask to be unassigned and explain the situation and the uncertainty around resolution timelines.
 
-### Participate in Code Reviews
+## Participate in Code Reviews
 
 As an intern, you might not feel comfortable or ready to contribute to code reviews. It’s natural to worry about saying the wrong thing or not understanding enough to provide valuable feedback. But remember, no one expects you to be an expert as a newcomer. Code reviews are not just about spotting issues—they’re also an excellent learning opportunity for you.
 
@@ -111,7 +111,7 @@ If you’re struggling to think of questions, start small. Look for areas in the
 
 At the very least, just read code reviews. Pay attention to how other team members provide feedback during reviews. Notice the types of comments they leave and over time, you’ll gain confidence and start contributing more meaningfully.
 
-### Every Meeting is a Presentation
+## Every Meeting is a Presentation
 
 Come to every meeting prepared.
 
