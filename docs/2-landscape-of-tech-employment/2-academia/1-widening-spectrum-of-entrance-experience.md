@@ -14,7 +14,7 @@ Across North America, some high schools offer AP Computer Science or teach Pytho
 
 Similarly, while programs like the International Baccalaureate (IB) or Advanced Placement (AP) exist, they are not universally recognized. Even students who complete these advanced high school courses often find that universities do not allow them to skip introductory material.
 
-The result is a fragmented pipeline: incoming university students might have vastly different levels of experience, and yet they are forced into a one-size-fits-all curriculum with few options for differentiation or acceleration.
+The result is a fragmented pipeline: incoming university students might have vastly different levels of experience, and yet unless they go to one of the best schools on the continent, they are forced into a one-size-fits-all curriculum with few options for acceleration.
 
 ## Increased Lack of Tech Literacy
 
@@ -50,7 +50,7 @@ The ability to skip early courses or take accelerated paths is often limited or 
 
 ## Lack of Acceleration in Canada
 
-In Canada, only the University of British Columbia (UBC) offers a placement exam that allows students to test out of introductory courses. Most other universities, including Waterloo—which is widely considered the top CS school in the country—only “strongly encourage” experienced students to take advanced introductory courses (e.g. CS 145 instead of CS 135). However, CS 145 is not a true acceleration path, as it covers the same material with only a more theoretical framing.
+In Canada, only the University of British Columbia (UBC) offers a placement exam that allows students to test out of introductory courses. Most other universities, including Waterloo—which is widely considered the top CS school in the country—only “strongly encourage” experienced students to take advanced introductory courses (e.g. CS 145 instead of CS 135). However, CS 145 is not a true acceleration path, it advertises that it covers the same material with only a more theoretical framing.
 
 Many of these students could be thriving if offered higher-level electives earlier or given opportunities to accelerate—but few programs offer formal pathways for this. As a result, high-potential students often go unchallenged and unsupported, drifting through their degree without any clear direction on how to continue growing.
 

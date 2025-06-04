@@ -1,11 +1,11 @@
 # 2.2. State of Academia
 
-While the COVID-19 pandemic and the rise of AI have undoubtedly reshaped education, many of the issues in computer science education were already well underway. CS programs, in particular, have become increasingly overcrowded over the past decade.
+The rapid growth in enrollment in undergraduate computer science programs has outpaced the resources available to support students, leading to overcrowded classrooms, limited faculty attention, and a decline in the quality of education.
 
-In both the U.S. and Canada, the number of undergraduate computer science majors tripled in the decade following 2005, and it has only continued to grow. At Carleton University, for example, the number of undergraduate CS students increased from 998 in 2013 to 2,791 in 2023.
+This mixed with COVID-19 disruptions and the rise of AI tools like ChatGPT has created a perfect storm that is making it increasingly difficult for students to get the education they need to succeed in the tech industry.
 
-However, this growth has not been matched by a proportional increase in faculty. The number of full-time instructors—particularly tenure-track professors—has remained relatively stagnant, placing increasing strain on the teaching capacity of departments.
+To add more complexity, university programs must now accommodate a broader range of prior programming experience.
 
-Adding to the complexity, CS programs must now accommodate a far wider range of incoming student backgrounds. Some students arrive with years of programming experience; others have never written a single line of code.
+The increasing simplification of technology for everyday consumers has led to a surge in students with limited tech literacy entering these programs. Additionally, there is a sizeable subset of students who are enrolling primarily for financial incentives rather than out of genuine interest. The influx of less capable and less motivated students is adding a strain on resources and bringing down the quality of the experience for those who are genuinely passionate.
 
-This diversity in experience, combined with enrollment pressures and limited teaching resources, has had serious consequences for the quality of education, student engagement, and career readiness.
+To cope with these overpopulated classrooms, university programs are often forced to opt for course assessments that prioritize minimizing marking time over giving students creative freedom or meaningful feedback; this diminishes the quality of the university experience and leaves students less prepared for the job market.
