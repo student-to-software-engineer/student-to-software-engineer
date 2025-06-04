@@ -25,7 +25,6 @@ def greet(name):
 
 greet("Alice") # Prints: Hello, Alice
 greet("Bob") # Prints: Hello, Bob
-
 ```
 
 **Conditionals** — Code that runs only if certain things are true
@@ -33,7 +32,7 @@ greet("Bob") # Prints: Hello, Bob
 ```python
 if age > 18:
     # Only prints if age is greater than 18
-    print("You’re an adult.") 
+    print("You’re an adult.")
 ```
 
 **Loops** — Repeating actions
@@ -56,5 +55,4 @@ I'd recommend starting with a beginner-friendly Python (or your chosen language)
 - [ ] I can use `if` statements to run code conditionally.
 - [ ] I can use `for` or `while` loops to repeat actions.
 - [ ] I can write simple functions and call them with arguments.
-- [ ] I can write and read basic error messages.
 - [ ] I feel more confident reading and modifying basic code examples.
