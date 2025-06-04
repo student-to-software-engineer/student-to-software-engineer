@@ -33,8 +33,38 @@ cat > "$TITLE_PAGE" <<EOF
 \end{titlepage}
 EOF
 
-cat "$TITLE_PAGE" >> "$OUTPUT_MD"
+# Append title page
+cat > "$OUTPUT_MD" <<EOF
+```{=latex}
+\begin{titlepage}
+\centering
+{\Huge\bfseries Student to Software Engineer\par}
+{\Large By: Matthew MacRae-Bovell\par}
+\vspace{1cm}
+\includegraphics[width=1.0\textwidth]{$COVER_IMAGE}
+
+\vfill
+
+\today
+\end{titlepage}
+\clearpage
+EOF
+
+
 echo -e "\n" >> "$OUTPUT_MD"
+
+# # === Add Table of Contents page ===
+# cat >> "$OUTPUT_MD" <<EOF
+
+# \`\`\`{=latex}
+# \clearpage
+# \pagenumbering{roman}
+# \tableofcontents
+# \clearpage
+# \pagenumbering{arabic}
+# \`\`\`
+
+# EOF
 
 # === Chapter title generator ===
 generate_chapter_page() {
@@ -166,7 +196,10 @@ echo "🖨️ Generating PDF with Pandoc and emoji support..."
     -M emoji="$EMOJI_STYLE" \
     -V mainfont="Palatino" \
     -V fontsize=12pt \
-    -V graphics=true
+    -V graphics=true \
+    --include-before-body=title.md \
+    --toc \
+    --toc-depth=1
 )
 
 # === Done ===
