@@ -74,7 +74,15 @@ EOF
 # === Helpers ===
 clean_markdown() {
   local file="$1"
-  sed '/^## [0-9][0-9.]*-[a-z0-9-]\+$/d' "$file"
+  local file_dir
+  file_dir=$(dirname "$file")
+  file_dir="${file_dir#./}"  # normalize
+
+  perl -pe '
+    s/^## \d\d?\.\d?-[-a-z0-9]+$//;
+  ' "$file" | perl -pe "
+    s|!\\[([^\\]]+)\\]\\(\\./img/([^\\)]+)\\)|![\$1](../$file_dir/img/\$2)|g;
+  "
 }
 
 extract_chapter_headers() {

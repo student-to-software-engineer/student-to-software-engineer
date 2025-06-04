@@ -12,6 +12,8 @@ Although there are many jobs in tech, the vast majority are for roles like **Sof
 
 This is an important distinction. Computer science is the _foundation_ of many of these roles in the same way that math is the foundation of physics, and physics is the foundation of chemistry. But just as knowing calculus doesn’t make someone an engineer, knowing how to write a sorting algorithm doesn’t make someone a professional software developer.
 
+![Computer Science is a Foundation, Not a Career](./img/fields.png)
+
 ## What Software Developers Actually Do
 
 The best way to understand the difference is through analogy. As a software developer, I often describe my job as being like a mechanic.
