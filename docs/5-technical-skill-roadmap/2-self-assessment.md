@@ -1,4 +1,4 @@
-# 5.2. A Self-Assessment Roadmap
+# 5.2. Level Self-Assessment
 
 Everyone starts their journey at a different point. Some of you might be writing your first lines of code, while others already have real-world projects under your belt. This roadmap will help you identify what you already know and what you still need to learn to be industry-ready.
 
@@ -13,15 +13,15 @@ You’re just getting started, or you’ve recently completed an intro course.
 - [ ] 📚 I know basic data structures (arrays, lists, maps) and simple algorithms.
 - [ ] 🐛 I can debug simple issues in my code using console logs or debugging tools.
 - [ ] 🧱 I understand the basics of object-oriented programming (OOP) concepts like objects, inheritance, and encapsulation.
+- [ ] 🤝 I understand how to use Git and GitHub for version control.
 
-## Level 2: Essential Application Development
+## Level 2: Beginner Applications
 
 You can build a basic CRUD web app with a frontend, backend, and database.
 
 - [ ] 🎨 I can build simple web pages using HTML, CSS, and JavaScript.
 - [ ] 🖥️ I have built a RESTful API that supports CRUD operations and understand the basics of HTTP.
 - [ ] 🗄️ I can connect to and query a database (e.g., SQLite, MongoDB).
-- [ ] 🤝 I understand how to use Git and GitHub for version control.
 - [ ] 🚀 I can deploy a basic web application to a platform like Heroku or Vercel.
 - [ ] 🧪 I write unit tests for my code and understand the importance of testing.
 

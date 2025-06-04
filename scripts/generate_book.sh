@@ -195,7 +195,7 @@ echo "🖨️ Generating PDF with Pandoc and emoji support..."
     --filter="../$EMOJI_FILTER" \
     -M emoji="$EMOJI_STYLE" \
     -V mainfont="Palatino" \
-    -V fontsize=12pt \
+    -V fontsize=9pt \
     -V graphics=true \
     --include-before-body=title.md \
     --toc \
