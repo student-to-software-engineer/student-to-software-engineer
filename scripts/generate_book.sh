@@ -47,8 +47,14 @@ generate_chapter_page() {
     image_path="assets/img/cover.png"
   fi
 
-  local clean_title
-  clean_title=$(echo "$title_line" | sed 's/# //; s/_/\\_/g; s/&/\\&/g; s/%/\\%/g')
+  # Extract the actual chapter number and title text
+  # Input: "# 1. Introduction"
+  local chapter_number chapter_title clean_title
+  chapter_number=$(echo "$title_line" | grep -oE '[0-9]+')
+  chapter_title=$(echo "$title_line" | sed -E 's/^# [0-9]+\. //')
+
+  # Escape LaTeX special characters
+  clean_title=$(echo "Chapter $chapter_number: $chapter_title" | sed 's/_/\\_/g; s/&/\\&/g; s/%/\\%/g')
 
   cat <<EOF
 
@@ -67,6 +73,7 @@ generate_chapter_page() {
 
 EOF
 }
+
 # === Helpers ===
 clean_markdown() {
   local file="$1"
