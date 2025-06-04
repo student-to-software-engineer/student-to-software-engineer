@@ -54,18 +54,16 @@ generate_chapter_page() {
   cat <<EOF
 
 \`\`\`{=latex}
-% Save and restore page number to avoid counter reset
-\setcounter{savedpage}{\value{page}}
-\begin{titlepage}
-\centering
+\clearpage
+\thispagestyle{my_sectionpage}
+\vspace*{\fill}
+\begin{center}
 {\Huge\bfseries $clean_title\par}
 \vspace{1cm}
 \includegraphics[width=1.0\textwidth]{${image_path}}
+\end{center}
 \vfill
-\end{titlepage}
-\setcounter{page}{\value{savedpage}}
-\addtocounter{page}{1}
-\newpage
+\clearpage
 \`\`\`
 
 EOF
