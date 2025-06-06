@@ -1,4 +1,4 @@
-# 3. How to Maximize University Experience
+# 3. How to Make The Most of University
 
 University isn’t just about lectures and exams. It’s a once-in-a-lifetime environment that gives you access to resources, people, and opportunities you’ll never have in the same way again.
 

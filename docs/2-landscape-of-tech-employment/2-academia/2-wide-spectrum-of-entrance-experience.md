@@ -1,4 +1,4 @@
-# 2.2.1 Widening Spectrum of Entrance Experience
+# 2.2.2. Wide Spectrum of Entrance Experience
 
 While technology is more present in everyday life than ever before, the actual technical experience of students entering computer science programs has become increasingly polarized.
 
