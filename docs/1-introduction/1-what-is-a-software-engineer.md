@@ -1,7 +1,5 @@
 # 1.1. What is a Software Engineer?
 
-Before you even read this book, you need to understand what a software engineer is and whether this is actually the job you want.
-
 A lot of the students and young professionals I talk to have the mindset of "just wanting a job in tech" and their idea of a "job in tech" is often a _programmer_.
 
 While programming is a part of being a software engineer, it's one of many possible roles that are made possible with a background in computer science which is why It's important to understand that **just having a degree in computer science does not make you a software engineer**.
@@ -18,7 +16,7 @@ We will dive deeper into the all of these different ideas in chapter 4: "underst
 
 ## Computer Science vs Software Engineering
 
-Software engineering is field that is built on top of computer science. They are not one in the same, but they are closely related.
+Software engineering is a field that is built on top of computer science. They are not one in the same, but they are closely related.
 
 Computer science is a theoretical discipline that focuses on the principles of computation, algorithms, data structures, and the underlying mathematics of computing. It provides a foundation for understanding how computers work and how to solve problems using computational methods.
 
@@ -28,7 +26,7 @@ For example, a Computer Scientist might develop a new algorithm for sorting data
 
 Here's a simple analogy to help clarify the difference:
 
-Software Engineering is built off of Computer Science in the same way Physics is built off of Mathematics, and Chemistry is built off of Physics.
+Software Engineering is built off of Computer Science in the same way Physics is built off of Mathematics.
 
 Knowing how to do complicated math proofs doesn't mean you know the physics to build a bridge, and knowing how to write a sorting algorithm doesn't mean you can build an app.
 

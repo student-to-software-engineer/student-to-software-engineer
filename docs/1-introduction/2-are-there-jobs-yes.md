@@ -14,8 +14,6 @@ As these tools become more reliable and more powerful, companies need fewer peop
 
 Instead, they need people who are really good at _wiring everything together_—people who understand how to configure services, respond to issues, monitor performance, and keep the entire system stable. These aren’t traditional “software engineering” roles. They're more like _software operations_.
 
-This trend has created a new class of technical workers—people who aren’t necessarily building software in the conventional sense, but are essential to running it. The title might still say “engineer,” but the day-to-day job often looks more like high-level plumbing than inventing something new.
-
 Right now, many companies still reimplement the same features over and over again: authentication, notifications, analytics dashboards, email templates, etc. But that’s slowly changing. Every time a new standardized SaaS product enters the market, it replaces something that used to require in-house code.
 
 As this trend continues, fewer engineers will be needed to write foundational features. More and more of the value will come from integrating existing tools in a smart way—not from building everything from zero.
@@ -38,17 +36,19 @@ One area where demand isn’t slowing down is data—and especially AI. Companie
 
 While the hype around “AI replacing engineers” is often exaggerated, it's true that AI is reshaping the kinds of jobs available. There’s growing demand for people who understand how to _use_ AI tools effectively, how to build reliable pipelines, how to tune models, and how to make them usable inside real applications.
 
-In short: AI isn’t killing jobs. It’s changing what they look like.
+In short: AI isn’t entirely killing jobs. It’s changing what they look like.
 
 ## Forgotten Foundations: The Lost Art of Systems Work
 
-While SaaS and cloud tools are eating up most of the application-layer work, there are still critical areas of computing that are quietly starving for talent. Operating systems. Kernels. Networking stacks. Compiler design. These are fields where expertise is vanishing—often lumped under vague terms like “DevOps” or “platform engineering.”
+While SaaS and cloud tools are eating up most of the application-layer work, there are still critical areas of computing that are quietly starving for talent. 
+
+Operating systems. Kernels. Networking stacks. Compiler design. These are fields where expertise is vanishing—often lumped under vague terms like “DevOps” or “platform engineering.”
 
 It’s easy to forget, but every flashy web app still depends on thousands of layers of foundational software to function. These low-level components don’t change much, but when they do, it’s hard work—and it takes a certain kind of engineer to do it right.
 
 With how much the industry has shifted toward high-level abstractions, many students never even learn about these foundational areas. They focus on web development, mobile apps, and data science, leaving behind the core principles that make all of it possible.
 
-Despite their being jobs in this area, fewer students pursue this path because today it's harder to learn, not as glamorous. But the industry desperately needs more people in these areas. If you want to stand out, this is a place where deep knowledge can still command serious respect.
+Despite their being jobs in this area, fewer students pursue this path because today it's harder to learn, and not as glamorous. But the industry desperately needs more people in these areas. If you want to stand out, this is a place where deep knowledge can still command serious respect.
 
 ## So… Are There Jobs?
 
