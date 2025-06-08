@@ -1,8 +1,8 @@
-# 7.2.2. Resume Components
+# 7.2.2. Top Resume Sections
 
-As a student, even with zero work experience, you should aim to include the following sections in your resume in **this order**:
+As a student, with zero experience, your resume should ideally start with the following sections
 
-## Header
+## 1. Header
 
 The header of your resume is the first thing employers see, so it should be clear and professional.
 
@@ -26,7 +26,7 @@ Your GitHub already serves as a portfolio, but a personal website allows you to 
 
 For one of my first jobs, I was told the reason I landed it because of my personal website. I was told I was the only candidate who had shown evidence they actually could build a website.
 
-## Education
+## 2. Education
 
 List your degree, major, university, and any specializations. Include relevant coursework if applicable.
 
@@ -66,7 +66,7 @@ This means that if you are a student nearly the end of your degree, it's in your
 
 If you are a first or second year student, including start and end dates can potentially hurt your chances of getting an interview with companies that are looking for students who can convert to full-time employees in the near future.
 
-## Skills
+## 3. Skills
 
 List programming languages, frameworks, tools, and technologies you are proficient in.
 
@@ -108,15 +108,3 @@ Do not rank your skills by proficiency, as this is subjective and can be mislead
 As a student, you likely have limited experience with each skill, so it's better to simply list them without trying to rank them.
 
 A student with 5/5 proficiency in Python is likely not as proficient as a full-time software engineer with 5 years of experience with Python. So these proficiency rankings are meaningless.
-
-## Experience
-
-Coming Soon!
-
-## Projects
-
-Coming Soon!
-
-## Community Involvement
-
-Coming Soon!
