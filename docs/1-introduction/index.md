@@ -12,39 +12,39 @@ Whether you're just beginning your university journey or already deep in the job
 
 The chapters are structured to build on each other. Each one answers a different set of questions that students commonly face on their career journey:
 
-### **Chapter 2: Why It’s So Hard To Get Hired**
+### Chapter 2: Why It’s So Hard To Get Hired
 
 This chapter explains why the job market is saturated with developers, and most aren't getting hired. This chapter explains the big-picture reasons why: skyrocketing university enrollment, AI, industry shifts, and a mismatch between what schools teach and what employers need.
 
-### **Chapter 3: How To Make The Most Of University**
+### Chapter 3: How To Make The Most Of University
 
 This chapter covers how university can (and can’t) prepare you for your career, and how to make the most of your time there—academically, socially, and strategically.
 
-### **Chapter 4: Understanding the Workplace**
+### Chapter 4: Understanding the Workplace
 
 To succeed not only in finding a job, but also a job you actually enjoy, you need to understand what roles exist, how teams are structured, and most importantly what is actually expected of junior developers.
 
-### **Chapter 5: The Skills You Need To Get Hired**
+### Chapter 5: The Skills You Need To Get Hired
 
 This chapter is structured as a massive checklist of the skills you need to get hired, their justifications, and how to learn them.
 
-### **Chapter 6: Gain Experience Without a Job**
+### Chapter 6: Gain Experience Without a Job
 
 This chapter answers the question: "How do I get experience if I can’t get a job?" It covers how to build a portfolio, contribute to open source, and create personal projects that demonstrate your skills.
 
-### **Chapter 7: Find Your First Internship**
+### Chapter 7: Find Your First Internship
 
 This chapter covers how to apply for internships, what to include in your resume, how to prepare for interviews, and how to stand out from the competition. It also includes tips for networking and leveraging connections.
 
-### **Chapter 8: Maximizing Internships**
+### Chapter 8: Maximizing Internships
 
 This chapter explains how to make the most of your internship experience, from onboarding effectively to building relationships with your team.
 
-### **Chapter 9: Full-Time Job Search**
+### Chapter 9: Full-Time Job Search
 
 This chapter covers how to transition from an internship to a full-time job, including how full-time roles differ from internships, how to leverage your internship experience, and how to prepare for full-time interviews.
 
-### **Chapter 10: How To Progress Towards Senior**
+### Chapter 10: How To Progress Towards Senior
 
 This chapter explains how to transition from a junior developer to a senior developer, including what skills and mindset you need to develop, how to take initiative, and how to own your career growth.
 
