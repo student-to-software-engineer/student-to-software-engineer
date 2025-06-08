@@ -85,8 +85,9 @@ const config: Config = {
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          // type: 'docSidebar',
+          // sidebarId: 'tutorialSidebar',
+          to: 'docs/introduction',
           position: 'left',
           label: 'Start Reading',
         },

@@ -1,13 +1,12 @@
-# 2. Why It’s So Hard To Get Hired
+# 2. Why It’s So Hard to Get Hired
 
-As complex as things may seem, the reality of why there are no jobs for junior developers is actually quite simple.
+The reason it’s so hard to get a junior developer job is actually quite simple.
 
-It really comes down to two ideas:
+It comes down to two notions:
 
-- **1. The number of developers it takes to build a product has gone down.**
-- **2. The number of developers looking for jobs has gone up.**
+1. Fewer developers are needed to build products.
 
-(TODO: add a graph showing the number of developers vs. the number of jobs available over time.)
+2. More people are looking for jobs than ever before.
 
 ## Why does it take fewer developers to build in 2025?
 

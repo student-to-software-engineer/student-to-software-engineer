@@ -4,7 +4,7 @@ sidebar_position: 0
 
 # Preface
 
-This handbook is for university students looking to launch their careers in software development.
+This handbook is for those early in their career (primarily university students) looking to launch their careers in software development.
 
 It’s shaped by my experiences as a computer science student navigating internships, full-time roles, and the tech industry—as well as the insights of thousands of peers, mentors, and mentees I’ve connected with over the years.
 

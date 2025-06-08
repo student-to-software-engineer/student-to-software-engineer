@@ -1,4 +1,4 @@
-# 1.2. Are There Jobs? Yes.
+# 1.2. Will there be jobs? Yes.
 
 Yes, there are jobs in tech—and there always will be.
 
@@ -8,7 +8,9 @@ Let’s take a closer look at where the industry is heading.
 
 ## Decline of Developers, Rise of "Operators"
 
-Over the past decade, common areas of work that used to require full engineering teams have been turned into SaaS products and businesses. Need to process payments? Stripe. Need user authentication and identity management? Okta. Need a full data warehouse? Snowflake. Want to deploy your code? Vercel, Netlify, and AWS all have you covered.
+As the tech industry has matured, the tools and frameworks available to developers have become more powerful and efficient.
+
+Additionally common areas of work that used to require full engineering teams have been turned into SaaS products and businesses. Need to process payments? Stripe. Need user authentication and identity management? Okta. Need a full data warehouse? Snowflake. Want to deploy your code? Vercel, Netlify, and AWS all have you covered.
 
 As these tools become more reliable and more powerful, companies need fewer people to build things from scratch. The recent productivity boost that AI tools and LLMs are providing has further reduced the number of developers needed to build new products.
 
@@ -40,7 +42,7 @@ In short: AI isn’t entirely killing jobs. It’s changing what they look like.
 
 ## Forgotten Foundations: The Lost Art of Systems Work
 
-While SaaS and cloud tools are eating up most of the application-layer work, there are still critical areas of computing that are quietly starving for talent. 
+While SaaS and cloud tools are eating up most of the application-layer work, there are still critical areas of computing that are quietly starving for talent.
 
 Operating systems. Kernels. Networking stacks. Compiler design. These are fields where expertise is vanishing—often lumped under vague terms like “DevOps” or “platform engineering.”
 

@@ -2,7 +2,7 @@
 
 A lot of the students and young professionals I talk to have the mindset of "just wanting a job in tech" and their idea of a "job in tech" is often a _programmer_.
 
-While programming is a part of being a software engineer, it's one of many possible roles that are made possible with a background in computer science which is why It's important to understand that **just having a degree in computer science does not make you a software engineer**.
+While programming is a part of being a software engineer, it's one of many possible roles that are made possible with a background in computer science which is why It's important to understand that just having a degree in computer science does not make you a software engineer.
 
 ## What Does a Software Engineer Do?
 
