@@ -1,0 +1,35 @@
+.heroBanner {
+  padding: 4rem 1rem;
+  background-color: var(--ifm-background-color);
+  height: 90vh;
+}
+
+.heroImage {
+  max-width: 200px;
+  margin-bottom: 1.5rem;
+}
+
+.heroTitle {
+  font-size: 2.75rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.heroSubtitle {
+  font-size: 1.25rem;
+  color: var(--ifm-font-color-base);
+  margin-bottom: 2rem;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.buttons {
+  margin-bottom: 1rem;
+}
+
+.freeNote {
+  margin-top: 0.5rem;
+  color: var(--ifm-color-gray-600);
+  font-size: 0.9rem;
+}

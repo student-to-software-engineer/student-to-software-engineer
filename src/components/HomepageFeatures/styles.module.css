@@ -1,11 +1,14 @@
-.features {
-  display: flex;
-  align-items: center;
-  padding: 2rem 0;
-  width: 100%;
+.featureSvg {
+  height: 180px;
+  margin-bottom: 1rem;
 }
 
-.featureSvg {
-  height: 200px;
-  width: 200px;
+.featureTitle {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.featureDescription {
+  font-size: 1rem;
+  line-height: 1.6;
 }

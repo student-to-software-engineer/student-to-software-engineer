@@ -64,3 +64,7 @@
 img[alt="Developer Jobs On Indeed Over Time"] {
   max-width: 30rem;
 }
+
+.main-wrapper {
+  justify-content: center;
+}
