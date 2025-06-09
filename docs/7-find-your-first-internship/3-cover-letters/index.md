@@ -27,5 +27,3 @@ Will every company read your cover letter? No.
 Smaller companies and those that you know have a human review applicants have a higher chance of reading your cover letter.
 
 I recommend only writing a fully personalized cover letter for companies you really care about. For other companies, just use a template and fill in the blanks.
-
-
