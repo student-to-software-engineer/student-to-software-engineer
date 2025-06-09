@@ -97,6 +97,12 @@ const config: Config = {
           position: 'right',
           className: 'header-github-link',
           'aria-label': 'GitHub repository',
+        },
+        {
+          href: 'https://www.linkedin.com/in/matthewmacraebovell/',
+          position: 'right',
+          className: 'header-linkedin-link',
+          'aria-label': 'LinkedIn profile',
         }
       ],
     },

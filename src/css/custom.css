@@ -50,7 +50,21 @@
   background-color: currentColor;
   width: 1.45rem;
   height: 1.45rem;
-  margin-right: 0.5rem;
+  margin-right: 1.5rem;
+  display: inline-block;
+}
+
+.header-linkedin-link {
+  mask-image: url("https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg");
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg");
+  mask-repeat: no-repeat;
+  -webkit-mask-repeat: no-repeat;
+  mask-size: contain;
+  -webkit-mask-size: contain;
+  background-color: currentColor;
+  width: 1.42rem;
+  height: 1.42rem;
+  margin-right: 1.5rem;
   display: inline-block;
 }
 
