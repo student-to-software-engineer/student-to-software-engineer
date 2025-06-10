@@ -17,3 +17,29 @@ For **summer internships**, large tech companies often open applications as earl
 Keep in mind that North American universities operate on different academic calendars—some use **semesters (three terms)** while others use **quarters (four terms)**—so adjust your timeline accordingly.
 
 ## Where to Search
+
+There are lots of places to look for internships.
+
+### Surface Level Job Boards
+
+LinkedIn, Indeed, Glassdoor, etc all have job boards where companies post their open positions.
+
+My advice with these is to make sure you are searching every "permutation" of the job title you are looking for.
+
+For example, if you are looking for a "Software Engineer Intern" position, make sure you also search for "Software Developer Intern", "Software Intern", "Software Developer Co-op", "Developer Intern", "Developer Co-op", etc.
+
+### Online Communities
+
+Online communities like Reddit, Discord, and Slack can be great places to find internship opportunities. Many tech-focused communities have dedicated job boards or channels where companies post openings.
+
+The cscareers Discord for example has a bot that posts new job listings from various sources, including company websites and job boards as they are posted.
+
+### University Career Services
+
+Most universities have a career services office that can help you find internships. They often have job boards, resume workshops, and interview prep resources specifically for students.
+
+This may or may not be coupled to your university has a co-op program.
+
+### University Related Opportunities
+
+Does your university have opportunities like research internships? Although these might not necessarily be software engineering roles, they can still provide valuable experience and networking opportunities.

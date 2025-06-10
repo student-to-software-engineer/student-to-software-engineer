@@ -6,7 +6,7 @@ The content of baseline undergraduate computer science courses is easily availab
 
 The people you meet in university can become your future coworkers, mentors, and life-long friends. They can help you find internships, give you advice on projects, and even refer you to jobs later on.
 
-You are wasting your money if you are not:
+**You are wasting your money if you are not:**
 
 - Getting to know the students you're going to class with
 - Meeting upper-year students
@@ -55,7 +55,7 @@ Saying on your resume that "you have leadership experience" or good "communicati
 
 Instead show it by saying "I led the organization of a hackathon with 200+ participants" or "I organized a workshop on web development that had 50+ attendees".
 
-"leadership experience" and "communication skills" might sound like dumb buzzwords to you now, but there is real value in knowing how to divide work, delegate tasks, and communicate effectively with a team.
+"Leadership experience" and "communication skills" might sound like dumb buzzwords to you now, but there is real value in knowing how to divide work, delegate tasks, and communicate effectively with a team.
 
 These are all skills that you will need in the workplace as you eventually work towards more senior roles, and you can start developing them now by getting involved in student leadership.
 
