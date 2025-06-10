@@ -1,4 +1,4 @@
-# 3.3. Build Your Portfolio
+# 3.4. Build Your Portfolio
 
 You're going to build some projects during university and (especially during your upper year electives) your going to often have the ability to choose what you want to build.
 

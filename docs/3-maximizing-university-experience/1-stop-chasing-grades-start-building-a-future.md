@@ -1,4 +1,4 @@
-# 3.1. Stop Chasing Grades, Start Building a Future
+# 3.1. Stop Chasing Grades, Build Your Future
 
 Up until this point and especially during your time in high school—you probably haven’t had to seriously ask yourself why you're doing any of this.
 

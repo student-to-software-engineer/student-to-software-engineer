@@ -1,4 +1,4 @@
-# 3.2. Core Course Takeaways
+# 3.3. Core Course Takeaways
 
 While you are a student, it is difficult to see the big picture of how all the courses you take fit together.
 
