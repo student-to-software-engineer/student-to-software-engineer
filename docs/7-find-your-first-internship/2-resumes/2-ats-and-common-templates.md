@@ -1,4 +1,4 @@
-# 7.2.4. ATS and Common Templates
+# 7.2.2. ATS and Common Templates
 
 When it comes to formatting your resume, you should pay special attention to Applicant Tracking Systems (ATS) and the common templates that many candidates use.
 
