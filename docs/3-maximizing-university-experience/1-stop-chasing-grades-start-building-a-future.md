@@ -1,20 +1,24 @@
 # 3.1. Stop Chasing Grades, Build Your Future
 
-Up until this point and especially during your time in high school—you probably haven’t had to seriously ask yourself why you're doing any of this.
+Up until this point and especially during your time in high school—grades have probably been one of your primary motivators.
 
-You got good grades because you were supposed to. Because you needed them to get into university. That was the next step. It was obvious.
+Grades mattered because you needed them to get into university.
 
 But now you’re here. So… now what?
 
-For the first time, the path ahead isn’t so clear. You're not just working toward a grade anymore. You're working toward something. But what? A degree? A job? A life?
+For the first time in your life, grades are no longer the end goal. They’re just a means to an end.
 
-Most students don’t stop to think about this early enough. They treat university like high school: go to class, get good grades, move on. But here’s the problem—grades don’t matter nearly as much as you think they do. Not in the way they used to.
+Your real end goal is getting a job in tech, and you need to start thinking about what factors actually contribute to that goal.
 
-**Just getting good grades is less than the bare minimum.** It’s not enough to get you a job in tech. In fact, it’s not even enough to get you an interview at most companies.
+Most students don’t stop to think about this early enough. They treat university like high school: go to class, get good grades, move on.
+
+**Just getting good grades is less than the bare minimum.** It’s not enough to get you a job in tech.
+
+A company would much rather hire a C or B student with can actually build things, than an A student who can only memorize theory.
 
 Everyone around you is doing the same courses as you, so you need to do more to actually stand out.
 
-You may be getting a **As** in your courses, but in regards to the grade you would receive on your career growth, it's probably closer to a **C**.
+Think of it this way, you may be getting a **As** in your courses, but in regards to the grade you would receive on your career growth, it's probably closer to a **C**.
 
 That doesn’t mean skipping class or flunking your courses. It means rethinking what university is for.
 
@@ -31,6 +35,10 @@ There are a few clear situations where your grades do matter:
 - Many academic opportunities—like research positions, scholarships, or awards—use GPA as a first filter, often before even looking at your resume or portfolio.
 
 - Co-op programs and internships often have minimum GPA requirements and some companies do use GPA as a screening tool in their hiring process for entry-level positions.
+
+- If it is genuinely a requirement for a job you want, like some government positions or certain specialized roles, then grades can be a factor.
+
+- If you do feel that grades help motivate you to study and learn, then they can be a useful metric to keep you on track, however, it's not worth obsessing over.
 
 In these cases, grades do genuinely keep the doors open for these opportunities. So while you shouldn’t obsess over having a perfect GPA, don’t let your academics completely slide, especially if you’re keeping those doors open.
 
