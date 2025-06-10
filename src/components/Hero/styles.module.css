@@ -4,6 +4,15 @@
   height: 90vh;
 }
 
+:root[data-theme="light"] .heroBanner {
+  background-image: url(/static/img/background.png);
+  animation: slide 40s linear infinite;
+}
+
+:root[data-theme="dark"] .heroBanner {
+  background-color: var(--ifm-background-color);
+}
+
 .heroImage {
   max-width: 200px;
   margin-bottom: 1.5rem;
@@ -32,4 +41,19 @@
   margin-top: 0.5rem;
   color: var(--ifm-color-gray-600);
   font-size: 0.9rem;
+}
+
+@keyframes slide {
+  from {
+    background-position: 0 0;
+  }
+  to {
+    background-position: -400px 0;
+  }
+}
+
+@keyframes slidebg {
+  to {
+    background-position: 20vw;
+  }
 }

@@ -54,7 +54,7 @@ source ~/.zprofile
 `
 
 `bash
-pandoc -s -o book.pdf docs/**/*.md --pdf-engine=xelatex -V mainfont="Palatino"
+brew install inkscape
 `
 
 `bash
