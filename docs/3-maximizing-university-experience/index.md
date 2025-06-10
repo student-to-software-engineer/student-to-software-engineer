@@ -6,7 +6,7 @@ You are paying tens of thousands of dollars for this experience, so you should g
 
 The reality is that computer science is a self teachable field, so what is the point of going to university? Why not just learn on your own?
 
-The reality is if you think of university as just a place to learn, **you’re missing the point**.
+The reality is if you think of university as just for coursework, **you’re missing the point**.
 
 To really get the most out of it, you need to think beyond just getting good grades. There are three major pillars to focus on:
 
