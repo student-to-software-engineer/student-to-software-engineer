@@ -1,4 +1,4 @@
-# Header
+# 7.2.3.1. Header
 
 The header of your resume is the first thing employers see, so it should be clear and professional.
 

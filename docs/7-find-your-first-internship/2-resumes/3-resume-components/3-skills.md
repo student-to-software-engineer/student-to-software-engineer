@@ -1,4 +1,4 @@
-# Skills
+# 7.2.3.3. Skills
 
 List programming languages, frameworks, tools, and technologies you are proficient in.
 
@@ -6,7 +6,7 @@ Include as many relevant skills as you can to maximize for ATS.
 
 If the student job posting doesn't mention a specific skill, go look at full-time job postings for the same company and see what skills they are looking for in full-time employees.
 
-### Why Should This Section Be At the Top?
+### Why Should This Section Be Near The Top?
 
 This section is often the first thing recruiters look at. Non-technical recruiters may not understand the details of your projects, but will quickly scan for relevant skills.
 
