@@ -1,19 +1,19 @@
 # 6. Gain Experience Without a Job
 
-In today’s crowded tech job market, all internships have applicants who already have hands-on experience.
+In today’s competitive tech job market, **even entry-level roles and internships expect real-world experience**. It’s not enough to have just taken the right courses—you need to show that you’ve applied your knowledge to actual projects.
 
-Meaning, if your resume doesn’t showcase real-world development experience, it’s unlikely you’ll be considered.
+But that raises a frustrating question:
+**How do you get experience when every job already expects it?**
 
-So, how can you get real experience when every job demands it, but you don’t have any yet?
+You’ll likely need to build experience on your own time. This can feel daunting, especially if you’re still in school or just starting out. But the good news is that there are many ways to gain valuable experience without formal employment.
 
-The answer is simple—whether people want to admit it or not, you likely need to do something unpaid.
+## What Counts as "Experience"?
 
-Unpaid experience can take many forms:
+To actually help you get hired, the experience you gain should involve **real software development**, ideally aligned with the responsibilities of a full-time developer.
 
-- Personal projects – Build something that interests you, solve a real problem, or create a portfolio piece.
-- Open-source contributions – Collaborate with others, learn best practices, and get your name attached to real-world projects.
-- Volunteer work for a university club – Offer to build or improve their website, automate tasks, or contribute in a technical capacity.
-- Unpaid freelancing or internships with startups – Many early-stage startups welcome eager contributors, even if they can’t afford salaries yet.
-  Now, I’m not saying you should let a company exploit your time and skills. But, the reality is that everyone who has a job today got their start by working on something without being paid.
+Here are some ways to do that:
 
-The key is to do real work to showcase skills relevant to building production-quality software or the daily responsibilities of a full-time software engineer.
+- **Personal Projects** – Build something you care about. Solve a problem. Make a tool. Demonstrate your skills by creating a real application, even if it’s just for yourself.
+- **Open-Source Contributions** – Work with other developers, learn best practices, and have your work reviewed and merged into real-world projects.
+- **University Clubs or Organizations** – Volunteer your skills by improving internal tools, building websites, or automating tasks.
+- **Short-Term, Unpaid Freelance or Internship Work** – In some cases, helping out a small startup or nonprofit can offer valuable mentorship and experience.
