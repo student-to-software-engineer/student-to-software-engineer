@@ -1,12 +1,12 @@
 # 1. Introduction
 
-Landing your first software job has never been harder.
+Landing your first job as a software engineer has never been more challenging.
 
-A computer science degree is no longer a guaranteed ticket to employment and trying to learn everything on your own—through an endless sea of YouTube tutorials, blog posts, and conflicting advice—can feel overwhelming and directionless.
+A computer science degree no longer guarantees a job, and trying to piece everything together from scattered YouTube tutorials and blog posts can leave you overwhelmed and unsure of where to start.
 
-This book is here to help you cut through the noise.
+This guide is here to change that.
 
-Whether you're just beginning your university journey or already deep in the job hunt, this guide is designed to help you chart a clear, strategic path from student to software engineer.
+Whether you're just starting university or already deep in your job search, this guide will help you cut through the noise, avoid common pitfalls, and build a focused, strategic path from student to software engineer.
 
 ## What This Book Covers
 
