@@ -1,4 +1,4 @@
-# 1.2. Will there be jobs? Yes.
+# 1.2. Will There Be Jobs? Yes.
 
 Yes, there are jobs in tech—and there always will be.
 
