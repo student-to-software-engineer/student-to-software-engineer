@@ -22,14 +22,12 @@ Each platform offers dozens (or hundreds) of services, but most fall into a few 
 
 ## Common Archetypes of Cloud Services
 
-### 🖥 1. Compute (Run Code)
+### 1. Compute (Run Code)
 
 Used to run backend applications, APIs, or scheduled jobs.
 
 * **AWS EC2** – virtual machines (traditional servers)
 * **AWS Lambda / GCP Cloud Functions / Azure Functions** – serverless compute for short-lived tasks
-* **Elastic Beanstalk / Google App Engine** – simplified app deployment
-* **Render / Fly.io / Railway** – easier platforms for deploying apps
 
 Use this when: you want to run an Express.js, Django, or Flask server and expose it to the web.
 
