@@ -14,7 +14,7 @@ Chapter 5 of this book will cover how to do that, but for now, it's important to
 
 ## A Lack of Societal Understanding
 
-A key reason many computer science students are struggling to find employment is due to a lack of understanding of what computer science actually is.
+A key reason many computer science students are struggling to find employment is due to a lack of understanding of what computer science and software engineering are and how they differ.
 
 With computer science being a relatively new field, and given the rapid changes in the responsibilities of positions in the industry, most people including those pursuing a degree in computer science have a limited understanding of what the different roles in tech actually do.
 
