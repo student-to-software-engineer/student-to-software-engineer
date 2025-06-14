@@ -1,38 +1,40 @@
 # 6.3. University Opportunities
 
-If you’re a university student, there are a number of ways you can gain real-world development experience through organizations at your school.
+If you're a university student, there are a number of ways to gain real-world software development experience by getting involved with organizations and initiatives on campus.
 
 ## Joining a Club
 
-If you’re in some kind of tech program, it’s more than likely you will have an organization representing your student body or other adjacent tech clubs at your university that build work on development projects.
+Most tech-focused programs will have student-run clubs, societies, or project groups that work on development initiatives. These can be great places to apply your skills, collaborate with others, and build real experience outside of class.
 
-Here at Carleton University, the computer science student body is represented by the Carleton Computer Science Society (CCSS) which has a collection of open-source projects that are open for contribution.
+Look for:
 
-Beyond that, several student-led organizations actively work on projects including but not limited to:
+- A student society or association for your department or program
+- Hackathon clubs that host or participate in events
+- Engineering or software teams that build products or tools
+- Nonprofit or community organizations that do pro bono tech work
+- Recurring project work sessions or coding meetups
 
-- CuHacking – Organizes the university’s annual hackathon, bringing students together to collaborate on innovative projects.
-- CuBlueprint – A nonprofit student organization that develops pro bono software solutions for charities.
-- CuInSpace – Focuses on building and refining tools for rocket launches and space exploration.
-- Synchronize – Organizes recurring working sessions for artists, engineers, researchers, and makers.
-
-Your university likely has at least one organization you can contribute to, whether through their existing initiatives or other projects they may need help with.
-
-In the unlikely event there are really no existing organizations—start your own.
-
-Not only will this demonstrate social and leadership skills on your resume, but it will also help you build connections and further grow your program’s community.
+If your university doesn’t have many existing opportunities, you can always start your own initiative. Running a club or launching a collaborative project doesn’t just give you something to build—it also demonstrates leadership, initiative, and the ability to get others involved. All of which look great on a resume.
 
 ## Opportunities with Research Labs
 
-Although research labs typically look for grad students, there are often opportunities for interested undergrads to get involved.
+While most research labs prioritize graduate students, many still welcome undergraduates—especially those with technical skills or strong initiative.
 
-Send an email to whomever is leading the lab or try to find a precedent of undergrad students getting involved via the lab’s website.
+Even if no positions are posted, it's worth reaching out directly to the professor or lab lead. Express interest, share your background, and ask if there’s any way you can contribute—either as a volunteer or in a paid role.
 
-Although research positions are usually paid, it’s definitely worth inquiring with the research labs or teaching staff whether there is possibly an opportunity to volunteer with them if they need some extra help.
+Many schools also offer undergraduate research programs that provide funding or structured pathways for students to assist in faculty research or course development. Ask around or check your university's website for programs like:
 
-If you can, it’s obviously best to aim for a paid position. At Carleton, we have a few paid opportunities for undergrads to get involved with research such as DSRI and I-CUREUS. Carleton also has the Students as Partners Program (SAPP) where students can get paid to work with teaching staff on projects that improve a course.
+- Undergraduate research internships
+- Research assistant grants
+- Student-as-partner programs
+- Faculty-led special projects
 
-## Framing Volunteer Work As Experience
+Paid roles are obviously ideal, but even volunteering for a short period can give you hands-on experience, mentorship, and a valuable line on your resume.
 
-In contributing to projects—whether through clubs, open-source initiatives, or university-led research—you should aim to present this work on your resume just as you would a traditional job or internship.
+## Framing Volunteer Work as Experience
 
-Many students make the mistake of relegating their volunteer experience to a minor section, but if the work you did aligns with real-world software development, it deserves just as much emphasis as a paid job.
+Whether you’re contributing through a student club, a research lab, or an open-source initiative, you should treat this experience just like any job or internship.
+
+Don’t bury it in a separate “volunteer” section. If the work involved real development skills—building features, fixing bugs, collaborating on a codebase—it belongs in your main experience section. Emphasize what you built, how you worked with others, and what tools or technologies you used.
+
+Volunteer work can be just as impactful as paid experience if you frame it well.
