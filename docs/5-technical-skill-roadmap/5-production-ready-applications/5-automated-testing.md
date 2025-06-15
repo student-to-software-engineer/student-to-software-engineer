@@ -1,4 +1,4 @@
-# 5.4.5. Automated Testing
+# 5.5.5. Automated Testing
 
 Writing code is only half the job — the other half is making sure it works. Automated testing is one of the most important practices in software development, and it’s something every professional developer is expected to understand. It’s how we prevent bugs, safely refactor code, and confidently ship features.
 
