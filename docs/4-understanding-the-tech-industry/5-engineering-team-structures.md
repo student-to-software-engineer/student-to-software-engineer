@@ -70,11 +70,11 @@ At RBC, I was part of a team focused on an application that allows users to mana
 - 2 Business Analysts
 - 2 Designers
 
-With the work we we're doing required a strong understand of economics and finance, meaning we'd often work closely with subject matter experts to ensure we were building 
+With the work we we're doing required a strong understand of economics and finance, meaning we'd often work closely with subject matter experts to ensure we were building
 
 ### Platform Team @ Shopify
 
-At Shopify, I worked on a platform team that made it accessible for other teams and third-party developers to build apps on Shopify. 
+At Shopify, I worked on a platform team that made it accessible for other teams and third-party developers to build apps on Shopify.
 
 The team included:
 - 5 Developers (not specialized, but with a mix of frontend and backend skills)
