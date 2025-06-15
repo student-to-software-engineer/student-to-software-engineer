@@ -14,9 +14,8 @@ These teams are organized around **delivering features** to users.
 - Includes frontend, backend, PM, designer, and maybe QA all working together
 - Team is responsible for **building, testing, and maintaining** their piece of the app
 
-🔍 **Good for:** End-to-end ownership, learning how all parts of the stack connect
-
-⚠️ **Challenges:** You might have to work in areas you’re unfamiliar with (e.g. frontend and backend)
+**Good for:** End-to-end ownership, learning how all parts of the stack connect
+**Challenges:** You might have to work in areas you’re unfamiliar with (e.g. frontend and backend)
 
 ## Functional Teams
 
@@ -26,9 +25,8 @@ Organized by **discipline**, not by product area.
 - These teams often collaborate with other functions to deliver features
 - Leads to deep specialization and shared best practices within disciplines
 
-🔍 **Good for:** Mentorship within your skill set, consistent tooling
-
-⚠️ **Challenges:** Slower delivery—features need coordination across teams
+**Good for:** Mentorship within your skill set, consistent tooling
+**Challenges:** Slower delivery—features need coordination across teams
 
 ## Platform / Infrastructure Teams
 
@@ -38,9 +36,8 @@ Focus on **building internal tools** and enabling other developers.
 - Rarely user-facing—success is measured by how well they support product teams
 - Work with tools like Docker, Kubernetes, AWS, Terraform, etc.
 
-🔍 **Good for:** Deep systems knowledge, scaling, automation
-
-⚠️ **Challenges:** Less visibility, sometimes seen as “support” roles
+**Good for:** Deep systems knowledge, scaling, automation
+**Challenges:** Less visibility, sometimes seen as “support” roles
 
 ## Product vs. Platform Split
 
@@ -60,18 +57,28 @@ Some teams are **flat**—everyone is an engineer with equal say. Others are **h
 
 The right balance depends on team size, experience level, and culture.
 
-## Engineering Team Roles
+<!-- ## Team Structur Examples
 
-Regardless of the structure, most teams include a mix of these roles:
+Here are some examples from my time in the industry:
 
-<!-- | Role                    | Description                                               |
-| ----------------------- | --------------------------------------------------------- |
-| **Software Engineer**   | Writes code, reviews PRs, delivers features               |
-| **Tech Lead**           | Guides technical decisions, unblocks teammates            |
-| **Engineering Manager** | Manages people, team velocity, and career growth          |
-| **Product Manager**     | Decides what to build and why                             |
-| **Designer**            | Handles UX/UI and user research                           |
-| **QA / Test Engineer**  | Ensures quality through testing, automation, and feedback |
-| **DevOps / SRE**        | Maintains infrastructure, CI/CD, uptime                   | -->
+### Product Team @ RBC
 
-Some engineers wear multiple hats, especially on smaller teams.
+At RBC, I was part of a team focused on an application that allows users to manage their estates. The team included:
+
+- 3 Frontend Developers
+- 3 Backend Developers
+- 2 Business Analysts
+- 2 Designers
+
+With the work we we're doing required a strong understand of economics and finance, meaning we'd often work closely with subject matter experts to ensure we were building 
+
+### Platform Team @ Shopify
+
+At Shopify, I worked on a platform team that made it accessible for other teams and third-party developers to build apps on Shopify. 
+
+The team included:
+- 5 Developers (not specialized, but with a mix of frontend and backend skills)
+- 1 Designer (who supported multiple teams)
+- 1 Product Manager (who supported multiple teams)
+
+ -->
