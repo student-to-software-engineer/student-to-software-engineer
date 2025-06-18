@@ -35,9 +35,10 @@ Consider creating a private "notes" document with key points about your experien
 
 Recruiters often ask questions like “Tell me about your project on X” or “Walk me through your experience at Y.” Be ready to speak clearly about every item listed.
 
-### Practice Common Questions 
+### Practice Common Questions
 
 Practice answering common phone screen questions. Here are a few to get you started:
+
 - "Tell me about yourself."
 - "Why are you interested in this role?"
 - "What do you know about our company?"
@@ -50,7 +51,7 @@ Each time you answer a question, you need to leverage the opportunity to highlig
 
 ### Prepare Questions to Ask Them
 
-Asking thoughtful questions helps show your interest in the position. 
+Asking thoughtful questions helps show your interest in the position.
 
 Likewise, asking no questions can make you seem uninterested or unprepared.
 
