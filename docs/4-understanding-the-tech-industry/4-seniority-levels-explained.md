@@ -14,7 +14,7 @@ In many fields, you hear terms like **apprentice** and **journeyman** to describ
 
 An apprentice is someone who is just beginning their career. They're learning the craft by working under more experienced professionals, often doing small, supervised tasks to build basic skills.
 
-A journeyman is someone who knows how to do the job, but is still gaining depth. They’re not fully experts.
+A journeyman is someone who knows how to do the job, but is still gaining depth. They’re not fully experts. However,a journeyman is accepted as a final career destination in many trades.
 
 In software engineering, **intern, junior and intermediate** developers are often considered **apprentices**, while **senior** developers are **journeymen**.
 
