@@ -2,23 +2,25 @@
 
 A software engineer is someone who designs, develops, tests, and maintains software systems.
 
-Some examples of software systems include web applications, mobile apps, desktop software, cloud services and infrastructure, embedded systems, operating systems, developer tools, and a lot more.
+Some examples of software systems include web applications, mobile apps, desktop software, cloud services, embedded systems, operating systems, developer tools, and a lot more.
 
-Software engineers use programming languages and tools to build software that meets user needs and solves real-world problems. They collaborate with other team members, such as designers, product managers, and quality assurance testers, to create high-quality software products.
-
-We will dive deeper into the all of these different ideas in chapter 4: "understanding the tech workplace" but for now, it is important to understand that software engineering is an applied discipline.
+Software engineers use programming languages and tools to build software that meets user needs and solves real-world problems. They collaborate with other team members, such as designers, product managers, and more, to create high-quality software products.
 
 ## Computer Science vs Software Engineering
 
-A lot of the students and I talk to have the mindset of "just wanting a job in tech" and their idea of a "job in tech" is often a _programmer_.
+Due to computer science being a relatively new field, many people are still confused about what computer science and software engineering actually are, and how they relate to each other.
 
-While programming is a part of being a software engineer, it's one of many possible roles that are made possible with a background in computer science which is why It's important to understand that just having a degree in computer science does not make you a software engineer.
+In my opinion, it's this gap in understanding that is **the root of why many students struggle to find jobs**.
 
-Software engineering is a field that is built on top of computer science. They are not one in the same, but they are closely related.
+Without this understanding, students lack the context and direction when presenting themselves through resumes, projects, and in interviews.
 
-Computer science is a theoretical discipline that focuses on the principles of computation, algorithms, data structures, and the underlying mathematics of computing. It provides a foundation for understanding how computers work and how to solve problems using computational methods.
+So let's break it down.
 
-Software Engineers build software systems that solve real-world problems, while Computer Scientists study the theoretical aspects of computation and develop new algorithms and techniques that can be applied in software engineering.
+Software engineering is an applied discipline that is built on top of computer science, a theoretical discipline. **They are not one in the same**, but they are closely related.
+
+Computer science focusses on the theory behind the principles of computation, algorithms, data structures, and the underlying mathematics of computing. It provides a foundation for understanding how computers work and how to solve problems using computational methods.
+
+Software Engineers apply this knowledge to build software systems that solve real-world problems, while Computer Scientists study the theoretical aspects of computation and develop new techniques that can be applied in software engineering.
 
 For example, a Computer Scientist might develop a new algorithm for sorting data more efficiently, while a Software Engineer would utilize that algorithm in a real-world application.
 
