@@ -1,4 +1,4 @@
-# 5.3.8. The Terminal
+# 5.3.2. The Terminal
 
 The terminal — also called the command line, shell, or console — is a text-based interface that lets you interact directly with your computer’s operating system. While it can feel intimidating at first, the terminal is one of the most powerful tools in a developer’s toolbox.
 

@@ -1,4 +1,4 @@
-# 5.3.6. Git and Version Control
+# 5.3.8. Git and Version Control
 
 Version control is one of the most important skills for modern developers — and Git is the standard tool you need to know.
 

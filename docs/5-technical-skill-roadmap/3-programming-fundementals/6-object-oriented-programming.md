@@ -1,4 +1,4 @@
-# 5.3.4. Object-Oriented Programming
+# 5.3.6. Object-Oriented Programming
 
 Object-Oriented Programming (OOP) is one of the most widely used programming models — especially in large applications and enterprise software. It’s popular because it often maps well to real-world scenarios, making it easier to design systems that are organized, modular, and reusable.
 

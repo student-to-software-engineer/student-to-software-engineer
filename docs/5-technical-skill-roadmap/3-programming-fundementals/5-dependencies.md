@@ -1,4 +1,4 @@
-# 5.3.7. Dependencies
+# 5.3.5. Dependencies
 
 When you write code, you don’t want to reinvent the wheel every time. Need to send an HTTP request? There’s a library for that. Want to hash a password? Someone’s already written (and tested) a secure version.
 

@@ -1,4 +1,4 @@
-# 5.3.2. Data Structures
+# 5.3.4. Data Structures
 
 Data structures are the building blocks of how we store, organize, and access information in our programs. Choosing the right data structure can make your code cleaner, easier to write, and easier to understand.
 

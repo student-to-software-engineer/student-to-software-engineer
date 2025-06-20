@@ -1,4 +1,4 @@
-# 5.3.5. Pointers and Memory Management
+# 5.3.7. Pointers and Memory Management
 
 You won’t need to write low-level memory code every day, but understanding _how_ memory works under the hood is an important part of becoming a strong developer.
 
@@ -7,8 +7,8 @@ Most beginner-friendly languages like Python or JavaScript take care of memory m
 These include:
 
 - **C / C++** – Manual memory allocation and pointers
-- **Go** – Has garbage collection, but gives you control over memory layout
 - **Rust** – Enforces memory safety through ownership rules rather than garbage collection
+- **Go\*** – Has garbage collection, but gives you control over memory layout. Go's pointers are likely not the best way to learn about pointers.
 
 Even if you don’t plan on writing C or Rust full-time, learning one of these languages will teach you _how memory works_ — which will make you better at using all other languages too.
 
