@@ -12,15 +12,19 @@ Your real end goal is getting a job in tech, and you need to start thinking abou
 
 Most students don’t stop to think about this early enough. They treat university like high school: go to class, get good grades, move on.
 
-**Just getting good grades is less than the bare minimum.** It’s not enough to get you a job in tech.
+However, the reality is that **just getting good grades is less than the bare minimum.** It’s not enough to get you a job in tech.
 
-A company would much rather hire a C or B student with can actually build things, than an A student who can only memorize theory.
+A company would much rather hire a C or B student who can actually build things, than an A student who can only memorize theory.
 
 Everyone around you is doing the same courses as you, so you need to do more to actually stand out.
 
 Think of it this way, you may be getting a **As** in your courses, but in regards to the grade you would receive on your career growth, it's probably closer to a **C**.
 
 That doesn’t mean skipping class or flunking your courses. It means rethinking what university is for.
+
+Instead of obsessing over grades, you need to focus on building the skills and experiences that will actually help you get hired.
+
+[Joining the community](./2-join-the-community.md), [building a portfolio](./4-build-your-portfolio.md), and [gaining real-world experience](./5-coop-and-internships.md) are more important than your grades.
 
 ## When Do Grades Matter?
 

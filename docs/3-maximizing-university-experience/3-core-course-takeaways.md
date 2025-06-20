@@ -12,33 +12,15 @@ Here are some of the core courses you will likely take in a computer science pro
 
 This course is NOT about memorizing algorithms, data structures, and their runtimes. It's about learning the common patterns so that you are capable of designing your own algorithms and data structures to solve problems.
 
-Many students will tell you this course is important "because it teaches you how to code for job interviews." and while there is some truth to that, you will enivitable have to build some kind of performance critical system in your career, and this course will help give you the foundations for that.
+Many students will tell you this course is important "because it teaches you how to code for job interviews." and it is true that many companies will ask you to solve algorithmic problems "LeetCode style questions" in interviews.
 
-### What Is Typically Covered
-
-- Sorting and searching algorithms
-- Recursion and divide & conquer
-- Hash tables, trees, graphs, and heaps
-- Big-O complexity analysis
-- Greedy, dynamic programming, and backtracking techniques
-
-### What You Should Focus On
-
-- Pattern recognition: understand why and when to use certain algorithms
-- Tradeoffs between different data structures
-- Developing strong problem-solving habits and code clarity
-- Practicing writing code under constraints (interview prep can actually help with this!)
-
-### What Not to do
-
-- Don’t just memorize algorithms—focus on understanding the underlying principles
-- Don't get bogged down in theoretical proofs; focus on practical applications
+However the real value is in being able to design your own algorithms. You will inevitably have to build some kind of performance critical system in your career, and this course will help give you the foundations for that.
 
 ## Operating Systems Course
 
 This course usually focusses on the fundamentals of how operating systems work, including process management, memory management, file systems, and concurrency.
 
-Now do you need to be a linux kernel developer to be a good software engineer? No.
+Do you need to be a linux kernel developer to be a good software engineer? No.
 
 However, there are a lot of concepts related to operating systems that are very relevant to building software.
 
@@ -48,15 +30,9 @@ Concepts like resiliency, fault tolerance, and concurrency are all critical to b
 
 Additionally, containers and container orchestration (e.g. Kubernetes) technology critical to building horizontal scaling systems are built on top of operating system concepts, so having a solid understanding of operating systems will help you understand how these technologies work.
 
-## Computer Networks Course
-
 ## Database Course
 
 Every software engineer will work with databases at some point in their career, so this course is essential.
-
-### What Is Typically Covered
-
-### What You Should Focus On
 
 Do you need to memorize all the fancy proofs for relational algebra and normalization? No.
 
@@ -67,3 +43,39 @@ I also find that university database courses focus mostly on relational database
 Without the context of understanding these different database paradigms, you might be confused at why a course like this is spending an entire lecture to discuss what a B+ tree is. The reason why is not every database uses a B+ tree, and understanding the different data structures used in databases will help you understand how to choose the right database for your application.
 
 For example, Cassandra uses a log-structured merge tree (LSM tree) for its storage engine, which makes it better for write-heavy workloads, while MongoDB uses a B-tree for its storage engine, which makes it better for read-heavy workloads.
+
+## Computer Networks Course
+
+This course explores how data moves across the internet and between machines, including topics like protocols (TCP/IP, HTTP), routing, and sockets.
+
+Almost every modern software product relies on networks. Understanding how latency, packet loss, and protocol behavior affect your application will make you a better engineer — especially if you're building APIs, distributed systems, or any service that runs in the cloud.
+
+## Software Engineering Course
+
+It's probably obvious why this one would matter to you as a software engineer.
+
+## Programming Languages & Paradigms Course
+
+This course dives into how different types of programming languages work — functional, imperative, object-oriented, and logic-based languages.
+
+Learning different paradigms helps you think more flexibly about problems.
+
+Different tools solve different problems, and the same is true for the programming language you choose.
+
+Understanding the strengths and weaknesses of different languages will help you choose the right tool for the job, and it will also help you understand how to write better code in the languages you use every day.
+
+## Computer Architecture Course
+
+This course teaches you how computers actually execute the code you write — covering topics like instruction sets, memory hierarchies (cache, RAM, disk), CPU design, and hardware-level optimizations.
+
+Understanding the hardware helps you write more efficient software. It also helps demystify performance issues, especially in low-level systems programming, embedded devices, or optimization-heavy work (like graphics or games).
+
+Software engineers are expected to monitor systems and optimize performance, and understanding the parts of your computer and how they work together will help you do that.
+
+## Cybersecurity Courses
+
+All engineers are responsible for writing secure code. Knowing common attack vectors and how to avoid them will save you (and your company) from massive headaches.
+
+## Artificial Intelligence Courses
+
+AI is another component of modern software engineering. Understanding the basics of machine learning, neural networks, and AI frameworks will help you integrate AI into your applications.
