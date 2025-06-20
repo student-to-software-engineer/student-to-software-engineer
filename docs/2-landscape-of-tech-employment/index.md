@@ -24,42 +24,26 @@ At the same time, recent waves of tech layoffs have displaced many experienced d
 
 Meaning all these new graduates have little to no chance of getting a job.
 
-<!-- ## The Bigger Picture
+## The Bigger Picture
 
-The explanation above offers a solid starting point—but it only scratches the surface.
+Obviously, the explanation above only scratches the surface.
 
-There are deeper forces at play that make today’s job market especially hostile to new graduates. And some of those forces are uncomfortable to talk about. But if you want to understand what you’re up against—and what to do about it—you need the full picture.
+### 1. Misunderstanding What CS Actually Is
 
-### A Lack of Societal Understanding of What Computer Science Is
+Computer science is often mistaken for job training when it’s really an academic discipline. Many students enter the field thinking it will automatically make them employable in tech. But CS is closer to mathematics than it is to software engineering, and the degree alone doesn’t teach students how to build real-world systems or work in industry roles.
 
-Computer science is still a relatively young field, and as a result, it’s often misunderstood by the general public and the by students entering the program.
+This confusion isn’t entirely their fault. Tech is still new, and society hasn’t caught up with the variety of roles it offers. Students aren’t taught the difference between software development, data science, DevOps, or cybersecurity. As a result, they graduate with a solid theoretical foundation—but little sense of direction, and even less applied experience.
 
-The public perception of computer science is that it is synonymous with programming. But computer science is a theoretical discipline, not a job description. It’s more like mathematics or physics than it is like plumbing or accounting.
+### 2. Universities Are Producing Weaker Graduates
 
-This misunderstanding leads thousands of students to enter CS programs without a clear idea of what they’re actually studying or what kind of career they’re preparing for. They believe that simply getting a CS degree is enough to secure a job in tech. But that was only ever true during periods of explosive hiring, and it’s no longer the case.
+The explosion in enrollment has overwhelmed universities, leading to larger classes, fewer faculty, and watered-down assessments. COVID-19 stripped away years of hands-on learning and community-building, and AI tools like ChatGPT have made it easier than ever to pass courses without mastering the material.
 
-Students who do not understand the field they’re entering are at a disadvantage from the start. They do not know what is or isn't important to learn, and do not take advantage of everything university has to offer.
+At the same time, students now enter with wildly different backgrounds. Some have been coding for years. Others have never used a file system or installed software. But instead of adapting, most universities still follow a rigid, one-size-fits-all curriculum. Experienced students become bored and disengaged. Inexperienced students fall behind and struggle in silence.
 
-### Universities Are Producing Graduates Who Are Increasingly Less Capable
+The result? Students graduating today are less prepared than ever to meet the demands of real world jobs.
 
-At the same time that tech is becoming more competitive, many university programs are falling behind.
+### 3. The Job Market Has Collapsed for New Grads
 
-The rise in enrollment hasn’t been matched by a rise in teaching resources. Instructors and TAs are overburdened, lectures are overcrowded, and assignments are often simplified to make them easier to mark—not to maximize student learning.
+Just as students are struggling to gain real experience, the opportunities to do so are disappearing.
 
-COVID-19 only worsened this trend, stripping away years of in-person learning, peer mentorship, and community-building. And the sudden availability of tools like ChatGPT has made it easier than ever for students to complete assignments without understanding the material.
-
-The result? A growing percentage of CS grads don’t have the skills needed to contribute to real-world software teams.
-
-It’s not that students are lazy or incapable—it’s that they’re being pushed through a system that no longer guarantees competence. And the industry is noticing.
-
-### The Tech Industry Is Destroying the Entry-Level Job Market
-
-Meanwhile, the tech industry itself has become less friendly to junior developers.
-
-During the early 2010s and especially the 2020 pandemic boom, companies were hiring aggressively. There was a surplus of funding, and tech talent was hard to come by. That era is over.
-
-Today, hiring is slower, more cautious, and more selective. Internships are harder to justify when companies are laying off full-time staff. Entry-level roles are flooded with applicants. And when experienced developers are willing to take junior positions just to stay employed, guess who gets pushed out?
-
-Even worse, the rise of AI is starting to encroach on the kind of work that used to go to interns and new grads. Tasks like writing boilerplate code, fixing simple bugs, or building minor features can now be partially or fully automated. These were the exact tasks junior developers used to cut their teeth on.
-
-The bar for entry-level roles is rising to a level that is increasingly out of reach for what graduates and self-taught developers can do on their own without real-world experience. -->
+Entry-level hiring has slowed dramatically. Mass layoffs have pushed experienced developers into junior roles, internships are harder to justify when budgets are tight, and AI has begun to automate the kinds of tasks that used to be reserved for beginners.

@@ -10,7 +10,7 @@ Software engineers use programming languages and tools to build software that me
 
 Due to computer science being a relatively new field, many people are still confused about what computer science and software engineering actually are, and how they relate to each other.
 
-In my opinion, it's this gap in understanding that is **the root of why many students struggle to find jobs**.
+In my opinion, it's this gap in understanding that is one of **the root causes of why many students struggle to find jobs**.
 
 Without this understanding, students lack the context and direction when presenting themselves through resumes, projects, and in interviews.
 

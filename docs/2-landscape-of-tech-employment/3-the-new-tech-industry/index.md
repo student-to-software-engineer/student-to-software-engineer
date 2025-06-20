@@ -1,8 +1,10 @@
-# 2.1. Layoffs Explained
+# 2.3. Why There Are No Entry-Level Jobs
 
-The tech industry has undergone massive changes over the past few years and notably quite a few significant waves of layoffs.
+The tech industry recently gone through significant waves of layoffs resulted in more senior developers competing for the same entry-level roles aswell as making it harder to justify hiring interns and entry-level developers.
 
 ## Pandemic and User Growth
+
+Let's look at the recent history of the tech industry to understand what lead to the layoffs.
 
 As pandemic lock downs took effect, demand for digital services skyrocketed. Remote work, online education, and e-commerce became essential, leading to an unprecedented surge in user growth for tech companies.
 

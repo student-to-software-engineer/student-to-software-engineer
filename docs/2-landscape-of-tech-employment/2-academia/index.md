@@ -4,13 +4,17 @@ The rapid growth in enrollment in undergraduate computer science programs has ou
 
 University programs now serve students with a wider range of prior programming experience. The increasing accessibility of technology has led to more students with limited technical backgrounds entering these programs, while financial incentives have attracted some students with less intrinsic motivation. This influx strains resources and can diminish the experience for highly motivated students.
 
+It's these reasons that have lead me to believe that graduates are becoming less capable.
+
 ## Too Many Students, Too Few Educators
 
-According to the Computing Research Association, between 2005 and 2015, the average number of undergraduate CS majors at universities in the U.S. and Canada tripled [[0](https://cra.org/data/generation-cs/phenomenal-growth-cs-majors-since-2006/)], [while the tenure-track faculty in no way matched the same growth](https://cra.org/data/generation-cs/phenomenal-growth-cs-majors-since-2006/#:~:text=The%20increase%20in%20the%20number%20of%20tenure%2Dtrack%20faculty%20and%20teaching%20faculty%20in%20no%20way%20matches%20the%20growth%20in%20the%20number%20of%20undergraduate%20CS%20majors).
+According to the Computing Research Association, between 2005 and 2011, the average number of undergraduate CS majors at universities in the U.S. and Canada tripled [[0](https://cra.org/data/generation-cs/phenomenal-growth-cs-majors-since-2006/)], [while the tenure-track faculty in no way matched the same growth](https://cra.org/data/generation-cs/phenomenal-growth-cs-majors-since-2006/#:~:text=The%20increase%20in%20the%20number%20of%20tenure%2Dtrack%20faculty%20and%20teaching%20faculty%20in%20no%20way%20matches%20the%20growth%20in%20the%20number%20of%20undergraduate%20CS%20majors).
 
-Looking at enrollment numbers found between 2013 and 2023, you can tell that the number of students in computer science programs has only continued to skyrocket, easily doubling or tripling in many cases at prominent universities.
+![Cumulative percent growth of CS majors and instructional faculty since 2006-2015](./img/enrollment-vs-faculty.png)
 
-Here are enrollment numbers for some prominent North American computer science programs:
+As a result, faculty are teaching larger classes and more classes are taught by visitors, adjuncts, postdocs, and graduate students.
+
+Looking at the numbers you can derive online for enrollment between 2013 and 2023, you can tell that the number of students in computer science programs has only continued to skyrocket, easily doubling or tripling again in many cases at prominent universities.
 
 | University             | 2013                                                                                                          | 2023                                                                                                             |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -21,27 +25,34 @@ Here are enrollment numbers for some prominent North American computer science p
 
 _**NOTE:** Please feel free to contribute additional enrollment numbers for other universities, as this list is not exhaustive._
 
-## Faculty Numbers Aren’t Keeping Up
+It's worth noting that computing fields are grouped differently at different academic institutions, and that their boundaries will change over time, making it hard to compare numbers across universities. However, the trend is clear: enrollment in computer science programs has exploded over the past decade.
 
-While student numbers have exploded, the number of computer science educators hasn’t kept pace.
+## Less Faculty, Less Student Support
 
-According to the **Computing Research Association’s Taulbee Survey**, undergraduate enrollment in CS more than tripled from 2006 to 2021, but the number of tenure-track faculty only grew by around 30% during that time [11].
+[In the same CRA Enrollment Survey,](https://cra.org/data/generation-cs/units-response/) units were asked a wide range of questions about the impact of increased enrollment in undergraduate courses. They were asked to rate actions and management strategies explicitly taken or in process to manage the enrollment growth.
 
-This faculty bottleneck leads to overloaded classrooms and limited support. The **National Academies of Sciences** observed that introductory CS courses at large universities often enroll 300–800 students in a single class with minimal teaching assistance [12].
+![Enrollment related actions taken by units](./img/management-strategies.png)
+![Actions taken to manage course size and enrollments](./img/actions-taken.png)
 
-To cope with high enrollment and limited faculty resources, universities lean on multiple-choice exams and auto-graded coding assignments. These simplify grading at scale but offer little feedback or creative opportunities. It also means students rarely have space to ask questions, receive mentorship, or explore topics beyond the syllabus.
+Actions like "significantly increase class sizes", "increase the number of course sections", and "reduce the number of low enrollment courses" were the most common responses.
 
-The lack of depth and engagement in coursework leaves students unable to fully appreciate the value of higher education, diminishing their ability to make the most of their university years.
+It's widely accepted that the quality of education suffers when class sizes increase, and when faculty are stretched thin. The result is that students receive less individual attention, fewer opportunities for mentorship, and less feedback on their work.
+
+Anecdotally, what I've seen is, huge class sizes lead to faculty needing to resort to methods that require less individual attention, such as using multiple-choice or "autogradeable" assignments that don't assess deeper understanding or simplifying assignments to make them easier to grade at scale.
+
+The result is that the lack of depth and engagement in coursework leaves students unable to fully appreciate the value of higher education, diminishing their ability to make the most of their university years.
 
 Without opportunities to explore and challenge ideas, students may leave university unprepared for the complexities of the real world, and most will graduate today without ever having had an original idea about the field.
 
 ## Wide Spectrum of Entrance Experience
 
-While technology is more present in everyday life than ever before, the actual technical experience of students entering computer science programs has become increasingly polarized.
+While technology is more present in everyday life than ever before, the actual technical experience of students entering computer science programs has become increasingly varied.
 
 Some students arrive with years of programming experience, having built games, web apps, or completed online courses. Others have never written a single line of code and have little to no familiarity with basic computing concepts.
 
 And while this has always been the case to some extent, the gap has widened significantly in recent years thanks to the rise of simplified tech like iPads and Chromebooks, which have become common as early as elementary school.
+
+_NOTE: It's worth mentioning it's very hard to find statistics on the prior experience of students entering computer science programs, as most universities do not collect this data as there really isn't a standardized way to measure it._
 
 ### No Standardized Starting Line
 
@@ -120,8 +131,6 @@ But the reality is that many universities are struggling to adapt.
 
 ## Damaged Student Community
 
-University isn’t just about classes—it’s also about community.
-
 COVID disrupted one of the most valuable parts of the university experience: the informal peer-to-peer advice networks that pass down career strategies, resume tips, and survival guides from upper years to first years.
 
 Upper-year students often serve as:
@@ -132,9 +141,13 @@ Upper-year students often serve as:
 
 These casual relationships have tangible effects. For example, I only landed my first paid tech job because upper-year students made it clear that it was _possible_, and helped me figure out how to get there. Before that, I thought I’d be lucky to get an unpaid volunteer role.
 
-But students who started in **Fall 2020 and 2021** missed this entirely. When they returned in-person in Fall 2022, the students who had those experiences were graduating or gone. This created a knowledge vacuum—one that hasn’t been fully refilled.
+But students who started in Fall 2020 and 2021 missed this entirely. When they returned in-person in Fall 2022, the students who had those experiences were graduating or gone. This created a knowledge vacuum—one that hasn’t been fully refilled.
 
-Some students have never even heard advice as basic as “add personal projects to your resume,” and that’s left them less prepared to compete in today’s job market.
+This has resulted in a generations of students who are less connected, less informed, and less prepared to navigate the complexities of univeristy and the job market.
+
+## Conclusion
+
+This is why I believe graduates are becoming less capable. It’s not a matter of talent or potential, but of environment. Universities are overwhelmed, support is stretched thin, and students are either unchallenged or unequipped from the start. Add in the growing dependence on AI and the erosion of student communities, and it becomes clear: the system is failing to produce students who are ready for the real world.
 
 ## Sources:
 
@@ -146,3 +159,4 @@ Some students have never even heard advice as basic as “add personal projects 
 - [5] https://irds.stanford.edu/data-findings/enrollment
 - [6] https://www.cs.ucla.edu/wp-content/uploads/cs/Annual2013.pdf
 - [7] https://eecs.berkeley.edu/about/by-the-numbers/
+- [8] https://cra.org/data/generation-cs/phenomenal-growth-cs-majors-since-2006/#:~:text=The%20increase%20in%20the%20number%20of%20tenure%2Dtrack%20faculty%20and%20teaching%20faculty%20in%20no%20way%20matches%20the%20growth%20in%20the%20number%20of%20undergraduate%20CS%20majors

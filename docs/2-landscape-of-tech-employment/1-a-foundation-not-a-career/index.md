@@ -1,4 +1,4 @@
-# 2.3. CS Is Not Employable By Default
+# 2.1. CS Is Not Employable By Default
 
 Ask yourself, have you ever seen a job posting for a "Computer Scientist"? Probably not.
 
