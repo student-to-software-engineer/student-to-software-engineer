@@ -8,6 +8,10 @@ The following is the most common career ladder in software engineering:
 
 ![Software Engineering Career Ladder](./img/career-progression.png)
 
+It's worth noting the descriptions below are generalizations. Different companies may have slightly different expectations, but the core principles remain the same.
+
+It's also worth noting that as the industry evolves, so will these descriptions. It's known that right now there are very few entry level positions, and it's likely that the definition of entry level will change in the future as the industry adapts.
+
 ## Apprentice Vs Journeyman
 
 In many fields, you hear terms like **apprentice** and **journeyman** to describe different levels of expertise.
