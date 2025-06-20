@@ -1,11 +1,148 @@
-# 2.2. State of Academia
+# 2.2. Graduates Are Becoming Less Capable
 
-The rapid growth in enrollment in undergraduate computer science programs has outpaced the resources available to support students, leading to overcrowded classrooms, limited faculty attention, and a decline in the quality of education.
+The rapid growth in enrollment in undergraduate computer science programs has outpaced available resources, resulting in overcrowded classrooms, limited faculty attention, and a decline in educational quality. The COVID-19 pandemic and the emergence of AI tools like ChatGPT have further complicated the academic landscape, making it more challenging for students to receive the education needed for success in the tech industry.
 
-This mixed with COVID-19 disruptions and the rise of AI tools like ChatGPT has created a perfect storm that is making it increasingly difficult for students to get the education they need to succeed in the tech industry.
+University programs now serve students with a wider range of prior programming experience. The increasing accessibility of technology has led to more students with limited technical backgrounds entering these programs, while financial incentives have attracted some students with less intrinsic motivation. This influx strains resources and can diminish the experience for highly motivated students.
 
-To add more complexity, university programs must now accommodate a broader range of prior programming experience.
+## Too Many Students, Too Few Educators
 
-The increasing simplification of technology for everyday consumers has led to a surge in students with limited tech literacy entering these programs. Additionally, there is a sizeable subset of students who are enrolling primarily for financial incentives rather than out of genuine interest. The influx of less capable and less motivated students is adding a strain on resources and bringing down the quality of the experience for those who are genuinely passionate.
+According to the Computing Research Association, between 2005 and 2015, the average number of undergraduate CS majors at universities in the U.S. and Canada tripled [[0](https://cra.org/data/generation-cs/phenomenal-growth-cs-majors-since-2006/)], [while the tenure-track faculty in no way matched the same growth](https://cra.org/data/generation-cs/phenomenal-growth-cs-majors-since-2006/#:~:text=The%20increase%20in%20the%20number%20of%20tenure%2Dtrack%20faculty%20and%20teaching%20faculty%20in%20no%20way%20matches%20the%20growth%20in%20the%20number%20of%20undergraduate%20CS%20majors).
 
-To cope with these overpopulated classrooms, university programs are often forced to opt for course assessments that prioritize minimizing marking time over giving students creative freedom or meaningful feedback; this diminishes the quality of the university experience and leaves students less prepared for the job market.
+Looking at enrollment numbers found between 2013 and 2023, you can tell that the number of students in computer science programs has only continued to skyrocket, easily doubling or tripling in many cases at prominent universities.
+
+Here are enrollment numbers for some prominent North American computer science programs:
+
+| University             | 2013                                                                                                          | 2023                                                                                                             |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| UBC                    | 1,288 [[1](https://www.cs.ubc.ca/our-department/diversity/statistics)]                                        | 2,774 [[2](https://www.cs.ubc.ca/about/numbers)]                                                                 |
+| University of Waterloo | 2,128 [[3](https://uwaterloo.ca/institutional-analysis-planning/section-common-university-data-ontario-2013)] | 4,000+ [[4](https://cs.uwaterloo.ca/about/quick-facts#:~:text=More%20than%204%2C000%20undergraduate%20students)] |
+| Stanford University    | 452 [[5](https://irds.stanford.edu/data-findings/enrollment)]                                                 | 865 [[5](https://irds.stanford.edu/data-findings/enrollment)]                                                    |
+| UC Berkeley            | 718 [[7](https://eecs.berkeley.edu/about/by-the-numbers/)]                                                    | 2,022 [[7](https://eecs.berkeley.edu/about/by-the-numbers/)]                                                     |
+
+_**NOTE:** Please feel free to contribute additional enrollment numbers for other universities, as this list is not exhaustive._
+
+## Faculty Numbers Aren’t Keeping Up
+
+While student numbers have exploded, the number of computer science educators hasn’t kept pace.
+
+According to the **Computing Research Association’s Taulbee Survey**, undergraduate enrollment in CS more than tripled from 2006 to 2021, but the number of tenure-track faculty only grew by around 30% during that time [11].
+
+This faculty bottleneck leads to overloaded classrooms and limited support. The **National Academies of Sciences** observed that introductory CS courses at large universities often enroll 300–800 students in a single class with minimal teaching assistance [12].
+
+To cope with high enrollment and limited faculty resources, universities lean on multiple-choice exams and auto-graded coding assignments. These simplify grading at scale but offer little feedback or creative opportunities. It also means students rarely have space to ask questions, receive mentorship, or explore topics beyond the syllabus.
+
+The lack of depth and engagement in coursework leaves students unable to fully appreciate the value of higher education, diminishing their ability to make the most of their university years.
+
+Without opportunities to explore and challenge ideas, students may leave university unprepared for the complexities of the real world, and most will graduate today without ever having had an original idea about the field.
+
+## Wide Spectrum of Entrance Experience
+
+While technology is more present in everyday life than ever before, the actual technical experience of students entering computer science programs has become increasingly polarized.
+
+Some students arrive with years of programming experience, having built games, web apps, or completed online courses. Others have never written a single line of code and have little to no familiarity with basic computing concepts.
+
+And while this has always been the case to some extent, the gap has widened significantly in recent years thanks to the rise of simplified tech like iPads and Chromebooks, which have become common as early as elementary school.
+
+### No Standardized Starting Line
+
+Part of the issue stems from the fact that there is no universal or standardized high school curriculum for computer science.
+
+Across North America, some high schools offer AP Computer Science or teach Python and Java as early as Grade 10, while others offer no programming instruction whatsoever.
+
+Similarly, while programs like the International Baccalaureate (IB) or Advanced Placement (AP) exist, they are not universally recognized. Even students who complete these advanced high school courses often find that universities do not allow them to skip introductory material.
+
+The result is a fragmented pipeline: incoming university students might have vastly different levels of experience, and yet unless they go to one of the best schools on the continent, they are forced into a one-size-fits-all curriculum with few options for acceleration.
+
+### Increased Lack of Tech Literacy
+
+As a student mentor at Carleton University, I frequently meet first-year CS students who:
+
+- Have never used Windows or interacted with a file system
+- Don’t know how to install software or troubleshoot basic issues
+- Grew up using only Chromebooks, iPads, or locked-down school laptops
+
+Whereas I was introduced to concepts like files and executables in elementary school, the increase of simplified tech like iPads and Chromebooks has led to a generation of students who lack a good deal of foundational knowledge.
+
+This lack of foundational literacy creates a cascading effect:
+
+- Students struggle with basic tooling, slowing down their ability to pick up programming skills
+- They avoid extracurriculars like coding competitions or clubs, seeing them as too advanced
+- They lack the confidence or ability to build side projects—key experiences for internship applications
+
+And while most computer science programs are designed with the assumption that students have no prior programming experience, they are rarely designed to handle students with no practical computing experience at all. Many courses continue to assume students understand basic ideas like files, directories, or how to use a terminal, when a growing portion of students do not.
+
+### Experienced Students Are Systematically Held Back
+
+Ironically, the opposite problem also exists. Technological accessibility has allowed many students to gain significant programming experience before entering university—having built games, web apps, or completed online courses at even earlier ages than ever before.
+
+But because most university programs are built on the assumption of limited prior experience, all students—regardless of skill—are forced to start from the beginning.
+
+This creates several problems:
+
+- Advanced students sit through “kindergarten-level” courses that feel like a waste of time
+- They become disengaged, skipping lectures or doing the bare minimum to pass
+- They develop bad habits—overconfidence, laziness, ego, or resentment toward the program
+
+The ability to skip early courses or take accelerated paths is often limited or non-existent.
+
+### Lack of Acceleration in Canada
+
+In Canada, only the University of British Columbia (UBC) offers a placement exam that allows students to test out of introductory courses. Most other universities, including Waterloo—which is widely considered the top CS school in the country—only “strongly encourage” experienced students to take advanced introductory courses (e.g. CS 145 instead of CS 135). However, CS 145 is not a true acceleration path, it advertises that it covers the same material with only a more theoretical framing.
+
+Many of these students could be thriving if offered higher-level electives earlier or given opportunities to accelerate—but few programs offer formal pathways for this. As a result, high-potential students often go unchallenged and unsupported, drifting through their degree without any clear direction on how to continue growing.
+
+### Acceleration in the United States
+
+In the United States, there are slightly more options—but they vary dramatically from school to school.
+
+Some top universities accept AP Computer Science as a way to skip introductory CS courses. Others offer their own internal placement tests during orientation or in the summer prior to enrollment.
+
+For example:
+
+- **MIT** allows students to bypass introductory CS courses through placement exams or by demonstrating competency via prior coursework or projects.
+- **Stanford** provides placement diagnostics and gives credit for AP scores, though they often still recommend that students take their introductory series to align with the rest of the curriculum.
+- **UC Berkeley** accepts AP credit but does not allow it to substitute core CS major requirements, encouraging students to retake the material in more depth.
+- **Harvard** offers accelerated versions of intro courses (e.g. CS50x) but doesn't formally exempt students from prerequisites unless reviewed on a case-by-case basis.
+
+However, outside of these top-tier schools, many universities still do not offer robust acceleration options. Students with significant prior experience often find themselves stuck in introductory courses that do not challenge them or help them grow.
+
+## AI’s Educational Shift
+
+While the rise of large language models (LLMs) like ChatGPT offer new learning opportunities, it has also made _“cheating”_ more accessible and widespread than ever before.
+
+Assignments that were already simplified to accommodate overcrowded classes and limited TA support like multiple choice assessments, fill-in-the-blanks, auto-graded code problems—are now trivial to solve using AI.
+
+Students are increasingly relying on AI to do their assignments for them, often without any real understanding of the material. This is not just a problem of academic integrity; it’s a fundamental issue of learning and skill development.
+
+Like it or not, tools like ChatGPT are here to stay. And just like calculators were eventually accepted in math education, universities must evolve rather than resist.
+
+But the reality is that many universities are struggling to adapt.
+
+## Damaged Student Community
+
+University isn’t just about classes—it’s also about community.
+
+COVID disrupted one of the most valuable parts of the university experience: the informal peer-to-peer advice networks that pass down career strategies, resume tips, and survival guides from upper years to first years.
+
+Upper-year students often serve as:
+
+- Mentors for internships and co-ops
+- Guides on which professors to take or avoid
+- Referrers to job opportunities and companies
+
+These casual relationships have tangible effects. For example, I only landed my first paid tech job because upper-year students made it clear that it was _possible_, and helped me figure out how to get there. Before that, I thought I’d be lucky to get an unpaid volunteer role.
+
+But students who started in **Fall 2020 and 2021** missed this entirely. When they returned in-person in Fall 2022, the students who had those experiences were graduating or gone. This created a knowledge vacuum—one that hasn’t been fully refilled.
+
+Some students have never even heard advice as basic as “add personal projects to your resume,” and that’s left them less prepared to compete in today’s job market.
+
+## Sources:
+
+- [0] https://cra.org/data/generation-cs/phenomenal-growth-cs-majors-since-2006/
+- [1] https://www.cs.ubc.ca/our-department/diversity/statistics
+- [2] https://www.cs.ubc.ca/about/numbers
+- [3] https://uwaterloo.ca/institutional-analysis-planning/section-common-university-data-ontario-2013
+- [4] https://cs.uwaterloo.ca/about/quick-facts#:~:text=More%20than%204%2C000%20undergraduate%20students
+- [5] https://irds.stanford.edu/data-findings/enrollment
+- [6] https://www.cs.ucla.edu/wp-content/uploads/cs/Annual2013.pdf
+- [7] https://eecs.berkeley.edu/about/by-the-numbers/
