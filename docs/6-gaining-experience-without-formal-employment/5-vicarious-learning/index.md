@@ -1,13 +1,25 @@
 # 6.5. Vicarious Learning
 
-As mentioned in section 1.4, what matters at the end of the day is the skills and context you're slowly building up, not what is or isn't on your resume.
+Just because you can't put it on your resume doesn't mean it isn't experience.
 
-One area I find many students struggle with is gainning experience in how to properly articulate yourself in a technical way.
+There are so many ways to help learn about software development that don't involve writing code or building projects yourself.
 
-I believe that one of the best ways to do gain experience in this is through **vicarious learning**.
+Vicarious learning, also known as observational learning, is a process where individuals learn new behaviors, skills, or attitudes by observing others.
 
-Vicarious learning is the process of learning through the experiences of others. In the context of software development, this means absorbing knowledge from various sources—like books, articles, videos, and podcasts—without direct hands-on experience.
+Some great ways to engage in vicarious learning include:
 
-Listening to conference presentations or reading technical blogs will help you inanvertenly pick up the language and concepts used in the industry.
+- **Reading Technical Blogs** – Follow industry leaders and experts who share their insights, experiences, and lessons learned.
+- **Watching Conference Talks** – Many tech conferences post their talks online. These can provide deep dives into specific technologies, methodologies, or case studies.
+- **Listening to Podcasts** – There are many tech podcasts that discuss industry trends, interview experts, and share stories from the field.
 
-This is going to be especially helpful when you start interviewing, as you'll be able to speak more fluently about more complex technical topics, even if you haven't had industry experience working on those problems directly.
+# Learn To Present Yourself Technically
+
+One area I've found many students struggle is in presenting themselves in a technical way.
+
+Whether it's in the way they write their resume bullets, or how they communite in interviews, I find it's hard for students to know "what the right words are" and how they fit together.
+
+The best way to overcome this is by listening to other developers talk about their work.
+
+When you hear someone else explain a project, pay attention to the words they use, how they structure their explanations, and the technical details they include.
+
+This will help you build a mental library of phrases and concepts that you can draw from when it's your turn to explain your own work.

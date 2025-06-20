@@ -17,3 +17,4 @@ Here are some ways to do that:
 - **Open-Source Contributions** – Work with other developers, learn best practices, and have your work reviewed and merged into real-world projects.
 - **University Clubs or Organizations** – Volunteer your skills by improving internal tools, building websites, or automating tasks.
 - **Short-Term, Unpaid Freelance or Internship Work** – In some cases, helping out a small startup or nonprofit can offer valuable mentorship and experience.
+- **Vicarious Learning** – Learn from others by observing their work, listening to talks, and consuming educational content.
