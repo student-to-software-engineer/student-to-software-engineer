@@ -1,4 +1,4 @@
-# 5.5.5. Automated Testing
+# 5.5.5. The Test Pyramid
 
 Writing code is only half the job — the other half is making sure it works. Automated testing is one of the most important practices in software development, and it’s something every professional developer is expected to understand. It’s how we prevent bugs, safely refactor code, and confidently ship features.
 
@@ -46,19 +46,6 @@ These tests are the slowest and most expensive to write and maintain. Use them s
 ## The Test Pyramid
 
 A common way to think about test strategy is the **Test Pyramid**:
-
-```
-      ▲
-      │   E2E Tests
-      │   (few, slow, flaky)
-      │
-      │   Integration Tests
-      │   (some, medium speed)
-      │
-      │   Unit Tests
-      │   (many, fast, reliable)
-      └──────────────────────
-```
 
 The idea is to write lots of unit tests, a moderate number of integration tests, and only a small number of end-to-end tests. This gives you fast feedback and good test coverage without making your test suite painful to run.
 
