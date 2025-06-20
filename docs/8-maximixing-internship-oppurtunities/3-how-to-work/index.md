@@ -1,4 +1,4 @@
-# 8.4. How to Maximize Your Day-To-Day
+# 8.3. How to Maximize Your Day-To-Day
 
 When you start your internship, it’s natural to want to make a good impression. You want to show that you’re capable, eager to learn, and ready to contribute. But how do you do that in a way that stands out?
 
@@ -103,11 +103,7 @@ As an intern, you might not feel comfortable or ready to contribute to code revi
 
 A great way to get involved in code reviews is simply by asking thoughtful questions. If you’re unsure about why something was implemented a certain way, ask for clarification.
 
-If you’re struggling to think of questions, start small. Look for areas in the code where you could use more context, such as:
-
-- A function name or variable that seems unclear.
-- A logic flow that feels complex or unfamiliar.
-- A new pattern you don’t fully understand.
+Another way you can get involved is by QA-ing the change. Leaving a comment like, “I’ve tested this change in my local environment and it works as expected, but don't have context on (x,y,z) parts of the codebase. Can someone else confirm ...” is a great way to contribute without needing deep knowledge of the codebase.
 
 At the very least, just read code reviews. Pay attention to how other team members provide feedback during reviews. Notice the types of comments they leave and over time, you’ll gain confidence and start contributing more meaningfully.
 

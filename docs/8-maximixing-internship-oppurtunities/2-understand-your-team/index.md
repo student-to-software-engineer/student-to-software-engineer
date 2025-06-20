@@ -1,4 +1,4 @@
-# 8.3. Understand Your Team
+# 8.2. Understand Your Team
 
 Succeeding in your internship starts with understanding your team and how it operates.
 
