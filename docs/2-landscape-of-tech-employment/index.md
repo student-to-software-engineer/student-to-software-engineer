@@ -24,7 +24,7 @@ At the same time, recent waves of tech layoffs have displaced many experienced d
 
 Meaning all these new graduates have little to no chance of getting a job.
 
-## The Bigger Picture
+<!-- ## The Bigger Picture
 
 The explanation above offers a solid starting point—but it only scratches the surface.
 
@@ -62,4 +62,4 @@ Today, hiring is slower, more cautious, and more selective. Internships are hard
 
 Even worse, the rise of AI is starting to encroach on the kind of work that used to go to interns and new grads. Tasks like writing boilerplate code, fixing simple bugs, or building minor features can now be partially or fully automated. These were the exact tasks junior developers used to cut their teeth on.
 
-The bar for entry-level roles is rising to a level that is increasingly out of reach for what graduates and self-taught developers can do on their own without real-world experience.
+The bar for entry-level roles is rising to a level that is increasingly out of reach for what graduates and self-taught developers can do on their own without real-world experience. -->

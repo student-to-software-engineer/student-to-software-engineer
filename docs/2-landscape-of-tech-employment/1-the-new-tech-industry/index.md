@@ -18,15 +18,15 @@ The following is a graph showing new developer postings on Indeed:
 
 A subset of the tech industry is intrenched in a culture of growth at all costs, many of which prioritize rapid expansion over sustainable profitability.
 
-Some examples would be companies like Netflix, which take on massive debt to churn out original content, and Uber, which operate at a loss to undercut competition and gain market dominance, exemplify this strategy.
+Examples like Netflix, which take on massive debt to churn out original content, and Uber, which operate at a loss to undercut competition and gain market dominance, exemplify this strategy.
 
 As pandemic lock downs took effect, demand for digital services skyrocketed.
 
 At the same time, central banks worldwide slashed interest rates to near-zero levels in an effort to stabilize the economy. This made borrowing cheaper, fueling a wave of investment in the tech industry.
 
-To meet the demand of the newly projected pandemic growth, companies started aggressively hiring and inflating salaries to stay competitive for talent.
+To meet the demand of the newly projected pandemic growth, companies started aggressively hiring using the cheap capital available to them.
 
-Once the pandemic waned, user growth began to decline and interest rates rose faster than the industry expected; leading to the tech sector facing a stark reversal.
+However, once the pandemic waned, user growth began to decline and interest rates rose faster than the industry expected; leading to the tech sector facing a stark reversal.
 
 Companies with shrinking margins or burdened by massive debt were suddenly forced to cut costs, leading to widespread layoffs as the focus shifted from growth to survival.
 
