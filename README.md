@@ -35,7 +35,6 @@ This is a living project! If you're a student, grad, mentor, or professional wit
 
 Feel free to open an issue or submit a pull request.
 
-
 ## License
 
 [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
