@@ -4,13 +4,15 @@ There are thousands of free resources on how to write your tech resume already o
 
 So I won't go into too much detail here. Instead I want to focus on the philosophy of what students often get wrong when writing their resumes.
 
-_I'd highlight recommend Tech Interview Handbook's [resume guide](https://www.techinterviewhandbook.org/resume/), if you are looking for a more in-depth guide._
+I'd highly recommend Tech Interview Handbook's [resume guide](https://www.techinterviewhandbook.org/resume/), if you are looking for a more in-depth guide.
+
+_In the future, I do plan to add a student specific tech resume guide to this chapter._
 
 ## The Goal of Your Resume
 
 Resumes are a marketing exercise.
 
-You should write your resume with the goal of: **Marketing yourself as someone ready to work as a full-time software engineer** (even if you are just a student with no formal work experience).
+To get hired as a Software Developer Intern, you should write your resume with the goal of: **Marketing yourself as someone ready to work as a full-time software engineer** (even if you are just a student with no formal work experience).
 
 Let's recall the list of technical skills expected to build production-ready applications from [chapter 5](../../5-technical-skill-roadmap/index.md).
 
