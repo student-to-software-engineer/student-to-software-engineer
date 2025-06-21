@@ -31,9 +31,11 @@ Inside, you’ll find practical strategies for:
 
 ## Contributing
 
-This is a living project! If you're a student, grad, mentor, or professional with advice to share, we’d love your help expanding the content.  
+This is a living project! If you're a student, grad, mentor, or professional we'd love to hear your feedback, suggestions, or contributions.
 
-Feel free to open an issue or submit a pull request.
+For content suggestions, typos, or  grammar fixes, feel free to open an issue or submit a pull request on [GitHub](https://github.com/student-to-software-engineer/student-to-software-engineer/issues).
+
+To ask questions, give feedback, or discuss the content with the goal of improving it, please join the [Discord](https://discord.gg/mpRAUfdFSd) and open a feedback thread.
 
 ## License
 
@@ -41,24 +43,3 @@ Feel free to open an issue or submit a pull request.
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
-## Setup Notes (to be updated)
-`
-brew install pandoc
-`
-
-`bash
-brew install --cask mactex
-`
-
-`bash
-echo 'export PATH="/Library/TeX/texbin:$PATH"' >> ~/.zprofile
-source ~/.zprofile
-`
-
-`bash
-brew install inkscape
-`
-
-`bash
-./scripts/generate_book.sh
-`
