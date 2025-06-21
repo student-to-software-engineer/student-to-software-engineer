@@ -79,6 +79,26 @@ img[alt="Developer Jobs On Indeed Over Time"] {
   max-width: 30rem;
 }
 
+iframe {
+  width: 500px;
+  height: 300px;
+}
+
+@media (max-width: 600px) {
+  .markdown img,
+  img[alt="Developer Jobs On Indeed Over Time"] {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+  }
+
+  iframe {
+    width: 100%;
+  }
+}
+
 .main-wrapper {
   justify-content: center;
 }

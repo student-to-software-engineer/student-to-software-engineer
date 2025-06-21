@@ -64,4 +64,4 @@ There's a lot of great videos online that can help you with this, but the key is
 
 Here's one I've found helpful:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hU6BVxtGd5g?si=XzqkCu-E_s8AvulK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/hU6BVxtGd5g?si=XzqkCu-E_s8AvulK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
