@@ -35,9 +35,11 @@ This is a living project! If you're a student, grad, mentor, or professional wit
 
 Feel free to open an issue or submit a pull request.
 
-## License & Disclaimer
+## License
 
-All content in this repository is open source and free to use under the {TBD} license. Opinions and advice are personal and not affiliated with any employer.
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ## Setup Notes (to be updated)
 `
