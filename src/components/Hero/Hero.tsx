@@ -16,8 +16,8 @@ export default function HomepageHero(): ReactNode {
         <h1 className={styles.heroTitle}>Student To Software Engineer</h1>
         <p className={styles.heroSubtitle}>
           A free guide for students who want to land their first software job.
-          Learn how to stand out, build real skills, and take control of your
-          future in tech.
+          Learn how to stand out, build real skills, and launch your career in
+          software.
         </p>
         <div className={styles.buttons}>
           <Link

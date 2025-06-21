@@ -7,7 +7,7 @@
     A free guide for students who want to land their first software job.
   </h3>
   <p>
-    Learn how to stand out, build real skills, and take control of your future in tech.
+    A free guide for students who want to land their first software job. Learn how to stand out, build real skills, and launch your career in software.
   </p>
   <!-- <p>
     Follow along on <a href="https://discord.gg/yourserver" target="_blank">Discord</a> | <a href="https://twitter.com/yourhandle" target="_blank">𝕏 (Twitter)</a> | <a href="https://t.me/yourchannel" target="_blank">Telegram</a>
