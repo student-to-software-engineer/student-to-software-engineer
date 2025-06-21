@@ -37,7 +37,7 @@ Remember the workplace variables discussed in [chapter 4](../../4-understanding-
 
 Having experience with different company sizes and team structures will help you on a personal level understand what kind of environment you thrive in, and what kind of team structure you prefer.
 
-When you are later looking for a full-time job with different tech stacks, and different technical domains **will extremely increase your ability to get hired.** We'll discuss this more in [chapter 9](../../9-full-time-job-search/index.md)
+When you are later looking for a full-time job with different tech stacks, and different technical domains **will extremely increase your ability to get hired.** We'll discuss this more in [chapter 8](../../8-progressing-your-career/2-full-time-job-search/index.md)
 
 ## Corporate Ladder Climb
 
