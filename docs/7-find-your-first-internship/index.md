@@ -1,11 +1,11 @@
 # 7. Find Your First Internship
 
-To succeed in finding your first software job, you need to present yourself as someone who can actually build software.
+To land your first software job, you need to present yourself as someone who can actually build software.
 
-This might sound obvious, but most students fail to do this because they don't understand what skills are actually expected of a junior software engineer.
+That might sound obvious—but most students struggle with this because they don’t fully understand what skills are expected of a junior developer, or how to show they have them.
 
-- In chapter 4, we discussed what responsibilities are expected of a junior software engineer and
-- In chapter 5, we discussed the order in which you should learn the technical skills needed to fulfill those responsibilities.
-- In chapter 6, we discussed how to build projects that demonstrate those skills and responsibilities.
+- In [**Chapter 4**](../4-understanding-the-tech-industry/index.md), we broke down the day-to-day responsibilities of junior software engineers.
+- In [**Chapter 5**](../5-technical-skill-roadmap/index.md), we covered the technical skills needed to build production-ready applications.
+- In [**Chapter 6**](../6-gaining-experience-without-formal-employment/index.md), we looked at how to build projects that demonstrate those skills in action.
 
-Now finally in this chapter, we will cover how to present those skills and how to actually land your first job.
+Now, in this chapter, we’ll focus on how to present yourself professionally, craft a strong application, and actually land that first internship or entry-level role.
