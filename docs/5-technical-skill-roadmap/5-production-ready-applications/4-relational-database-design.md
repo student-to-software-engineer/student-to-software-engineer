@@ -1,4 +1,4 @@
-# 5.5.3. Relational Database Design
+# 5.5.4. Relational Database Design
 
 At some point, your programs will need to store data—user profiles, messages, products, posts, whatever. When that time comes, you’ll need a database.
 

@@ -1,4 +1,4 @@
-# 5.5.8. Continuous Integration & Deployment
+# 5.5.9. Continuous Integration & Deployment
 
 Once your project starts growing, testing and shipping changes manually becomes slow, error-prone, and stressful. That’s where **Continuous Integration** (CI) and **Continuous Deployment** (CD) come in.
 

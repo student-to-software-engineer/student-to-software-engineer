@@ -1,4 +1,4 @@
-# 5.5.1. Frontend Frameworks
+# 5.5.2. Frontend Frameworks
 
 Once you're comfortable with HTML, CSS, and JavaScript, the next step is learning a frontend framework—and for most students and new developers, **React** is the best place to start.
 

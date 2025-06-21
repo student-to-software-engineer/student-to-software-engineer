@@ -1,4 +1,4 @@
-# 5.5.2. OOP Design Patterns
+# 5.5.3. OOP Design Patterns
 
 Once you understand the basics of object-oriented programming (OOP), you’ll quickly realize that writing _working_ code is not the same as writing _good_ code. That’s where design patterns come in.
 

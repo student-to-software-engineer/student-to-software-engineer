@@ -1,4 +1,4 @@
-# 5.5.9. Common Security Vulnerabilities
+# 5.5.11. Common Security Vulnerabilities
 
 As a developer, it's your responsibility to not just build software that works—but software that’s safe. Even small mistakes in your code can lead to major security risks if you’re not careful.
 

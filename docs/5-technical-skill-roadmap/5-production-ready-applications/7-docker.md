@@ -1,4 +1,4 @@
-# 5.5.6. Docker
+# 5.5.7. Docker
 
 Docker allows you to package your application and its dependencies into a standardized unit called a container.
 
