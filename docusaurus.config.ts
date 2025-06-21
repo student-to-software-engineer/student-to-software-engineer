@@ -82,6 +82,14 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     image: 'https://student-to-softwcare-engineer.org/img/seo.png',
+    announcementBar: {
+      id: 'bete-notice-june-2025',
+      content:
+        '📢 This handbook is new! Some pages may contain typos and grammar errors. To contribute feedback, checkout the contributing guide!',
+      backgroundColor: '#F8D650', // light red/pink background
+      textColor: 'black',       // dark red text
+      isCloseable: true,
+    },
     docs: {
       sidebar: {
       hideable: true,
