@@ -56,14 +56,6 @@ This chapter answers the question: "How do I get experience if I can’t get a j
 
 This chapter covers how to apply for internships, what to include in your resume, how to prepare for interviews, and how to stand out from the competition. It also includes tips for networking and leveraging connections.
 
-### [Chapter 8: Maximizing Internships](../8-maximizing-internship-opportunities/index.md)
+### [Chapter 8: Progressing Your Career](../8-progressing-your-career/index.md)
 
-This chapter explains how to make the most of your internship experience, from onboarding effectively to building relationships with your team.
-
-### [Chapter 9: Full-Time Job Search](../9-full-time-job-search/index.md)
-
-This chapter how job searching for full-time roles differ from internships, how to leverage your internship experience, and how to prepare for full-time interviews.
-
-### [Chapter 10: How To Progress Towards Senior](../10-career-progression-and-long-term-growth/index.md)
-
-This chapter explains how to transition from a junior developer to a senior developer, including what skills and mindset you need to develop, how to take initiative, and how to own your career growth.
+This chapter covers how to continue growing your career after landing your first job. It includes tips for making the most of your first job, how searching for full-time roles differs from internships, and how to continue progressing towards more senior roles.

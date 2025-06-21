@@ -24,8 +24,8 @@ This is where the gap lies in how many students present themselves to employers.
 
 In this handbook, we will cover the key components of software systems, how they fit together, and how to present your skills in a way that resonates with employers.
 
-Chapter 5 will cover what parts make up apps and how you get get started learning each of them.
+[Chapter 5](../5-technical-skill-roadmap/index.md) will cover what parts make up apps and how you get get started learning each of them.
 
-Chapter 6 will cover the best ways to gain real experience building software without a job.
+[Chapter 6](../6-gaining-experience-without-formal-employment/index.md) will cover the best ways to gain real experience building software without a job.
 
-Chapter 7 will cover how to find your first internship and how to present your skills effectively.
+[Chapter 7](../7-find-your-first-internship/index.md) will cover how to find your first internship and how to present your skills effectively.
