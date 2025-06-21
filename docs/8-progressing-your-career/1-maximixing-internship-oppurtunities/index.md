@@ -33,11 +33,11 @@ While you are an intern, try to work in as many different environments as possib
 - **Different tech stacks**: Work with different programming languages, frameworks, and tools. This will broaden your skill set and make you more adaptable.
 - **Different technical domains**: Work on teams that focus on different areas: authentication, payments, messaging, etc.
 
-Remember the workplace variables discussed in [chapter 4](../4-understanding-the-tech-industry/1-workplace-variables.md). Each internship is an opportunity to explore these variables in different contexts.
+Remember the workplace variables discussed in [chapter 4](../../4-understanding-the-tech-industry/1-workplace-variables.md). Each internship is an opportunity to explore these variables in different contexts.
 
-Having expereince with different company sizes and team structures will help you on a personal level understand what kind of environment you thrive in, and what kind of team structure you prefer.
+Having experience with different company sizes and team structures will help you on a personal level understand what kind of environment you thrive in, and what kind of team structure you prefer.
 
-When you are later looking for a full-time job with different tech stacks, and different technical domains **will extremely increase your ability to get hired.** We'll discuss this more in [chapter 9](../9-full-time-job-search/index.md)
+When you are later looking for a full-time job with different tech stacks, and different technical domains **will extremely increase your ability to get hired.** We'll discuss this more in [chapter 9](../../9-full-time-job-search/index.md)
 
 ## Corporate Ladder Climb
 
