@@ -28,6 +28,14 @@ My advice with these is to make sure you are searching every "permutation" of th
 
 For example, if you are looking for a "Software Engineer Intern" position, make sure you also search for "Software Developer Intern", "Software Intern", "Software Developer Co-op", "Developer Intern", "Developer Co-op", etc.
 
+### LinkedIn as a Job Search Tool
+
+One of the signal best ways I've bypassed black box applicant tracking systems is by reaching out to recruiters directly on LinkedIn.
+
+The signal best way to do this is by finding posts made by recruiters when they are looking for candidates. These posts often include a link to apply, but this is a great excuse to try and connect with them and ask them a question about the role.
+
+LinkedIn will be discussed more in depth in the [LinkedIn chapter](../4-linkedin/index.md).
+
 ### Online Communities
 
 Online communities like Reddit, Discord, and Slack can be great places to find internship opportunities. Many tech-focused communities have dedicated job boards or channels where companies post openings.

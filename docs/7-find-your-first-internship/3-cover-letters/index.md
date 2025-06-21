@@ -2,10 +2,6 @@
 
 As a university student with little to no experience, you may be wondering how to write a cover letter that stands out.
 
-## Example Cover Letter
-
-TODO: Add example cover letter
-
 ## Show Interest in the Company
 
 A cover letter is your chance to show that you care about the company and the role. It’s an opportunity to explain why you want to work there and how you can contribute.
@@ -18,9 +14,9 @@ Your cover letter should not simply repeat what’s on your resume. Instead, it 
 
 Use your cover letter to explain how your background interests align with the company’s mission and values.
 
-Example: "I am particularly drawn to (company) because of its commitment to (value or mission). My experience in (relevant experience) has prepared me to contribute to this goal."
+Example: "I'm drawn to (company) because of its commitment to (value or mission). My experience in (relevant experience) has prepared me to contribute to (this goal)."
 
-## Do I Need a Cover Letter?
+## Do I Event Need a Cover Letter?
 
 Will every company read your cover letter? No.
 
