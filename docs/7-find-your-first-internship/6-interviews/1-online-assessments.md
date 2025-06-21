@@ -1,6 +1,6 @@
 # 7.6.1. Online Assessments (OAs)
 
-The most popular form of online assesment is the **automated online assessment**, typically a code challenge where you will be given a problem and asked to solve it within a set time limit. These assessments are often conducted through platforms like HackerRank, LeetCode, or Codility.
+When you think of online assessments, you probably think of the **automated online assessment**, typically a code challenge where you will be given a problem and asked to solve it within a set time limit. These assessments are often conducted through platforms like HackerRank, LeetCode, or Codility.
 
 The code you write is then automatically evaluated against a set of test cases, and you receive immediate feedback on whether your solution passed or failed. You may even be expected to complete a series of problems within a set time frame.
 
