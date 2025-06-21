@@ -81,7 +81,7 @@ const config: Config = {
   themes: ['@docusaurus/theme-mermaid'],
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'https://student-to-softwcare-engineer.org/img/seo.png',
     docs: {
       sidebar: {
       hideable: true,
