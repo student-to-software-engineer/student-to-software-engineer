@@ -1,4 +1,4 @@
-# 8. Maximizing Internships
+# 8.1. Maximizing Internships
 
 Starting your first internship is a huge milestone, but it’s just the beginning.
 

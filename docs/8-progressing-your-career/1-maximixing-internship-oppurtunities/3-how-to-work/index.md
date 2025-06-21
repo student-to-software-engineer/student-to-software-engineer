@@ -1,4 +1,4 @@
-# 8.3. How to Maximize Your Day-To-Day
+# 8.1.3. How to Maximize Your Day-To-Day
 
 When you start your internship, it’s natural to want to make a good impression. You want to show that you’re capable, eager to learn, and ready to contribute. But how do you do that in a way that stands out?
 

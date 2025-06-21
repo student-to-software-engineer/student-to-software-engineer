@@ -1,4 +1,4 @@
-# 8.1. Internship Duration Tradeoffs
+# 8.1.1. Internship Duration Tradeoffs
 
 Internships usually come in 4 or 3-month chunks, depending on whether your school uses quarters, semesters, or trimesters. For simplicity, I’ll just refer to internships in 4-month blocks—but the same ideas apply either way.
 
