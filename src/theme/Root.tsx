@@ -17,7 +17,11 @@ export default function Root({ children }: RootProps) {
   const location = useLocation();
 
   useEffect(() => {
-    if (typeof window !== "undefined" && window?.Shynet) {
+    if (
+      typeof window !== "undefined" &&
+      window?.Shynet &&
+      window?.Shynet?.newPageLoad
+    ) {
       window?.Shynet?.newPageLoad();
     }
   }, [location.pathname]);
