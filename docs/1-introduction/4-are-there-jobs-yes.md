@@ -73,4 +73,3 @@ Based on how the industry is shifting right now, it's fairly easy to predict tha
 It's also important to keep in mind that your degree is not just about pure knowledge. Going through university is about learning how to learn and how to think critically. It's about building a network of peers and mentors who can support you throughout your career.
 
 In chapter 3, we'll discuss how to make the most of university, both academically and socially, so you can build the skills and connections that will help you succeed in your career.
-
