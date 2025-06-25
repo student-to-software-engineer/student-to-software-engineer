@@ -18,6 +18,8 @@ Although we’re seeing some layoffs that are likely linked to AI, they’re mos
 
 As AI tools become more common, it’s becoming a growing expectation that software engineers know how to use them to improve their work — and how to integrate AI into the products they build. At the end of the day, these fancy models are really just another component of modern software that needs to be integrated, maintained, and optimized, much like databases, messaging queues, or APIs.
 
+AI might raise the bar for what it means to be a software engineer, but it also speeds up the rate at which new developers can become productive. You as a student will be able to learn how to build complex systems faster than ever before, and you’ll be expected to leverage these tools in your work.
+
 ## Abstraction and The Rise of "Operators"
 
 One possibility for the future is that companies will be less focused on writing new code from scratch and instead care more about how well their systems are monitored and maintained.
