@@ -22,7 +22,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'student-to-software-engineer', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -81,7 +81,7 @@ const config: Config = {
   themes: ['@docusaurus/theme-mermaid'],
   themeConfig: {
     // Replace with your project's social card
-    image: 'https://student-to-softwcare-engineer.org/img/seo.png',
+    image: 'https://student-to-software-engineer.org/img/seo.png',
     announcementBar: {
       id: 'bete-notice-june-2025',
       content:
