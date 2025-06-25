@@ -83,11 +83,11 @@ const config: Config = {
     // Replace with your project's social card
     image: 'https://student-to-software-engineer.org/img/seo.png',
     announcementBar: {
-      id: 'bete-notice-june-2025',
+      id: 'beta-notice-june-2025',
       content:
-        '📢 This handbook is new! Some pages may contain typos and grammar errors. To contribute feedback, checkout the contributing guide!',
-      backgroundColor: '#F8D650', // light red/pink background
-      textColor: 'black',       // dark red text
+        '📢 This handbook is new! Some pages may contain typos and grammar errors. To contribute feedback, <a href="https://github.com/student-to-software-engineer/student-to-software-engineer?tab=readme-ov-file#contributing" target="_blank" rel="noopener noreferrer">check out the contributing guide</a>!',
+      backgroundColor: '#F8D650', // yellow background
+      textColor: 'black',
       isCloseable: true,
     },
     docs: {

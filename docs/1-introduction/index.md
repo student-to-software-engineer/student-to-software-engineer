@@ -12,7 +12,7 @@ Whether you're just starting university or already deep into your job search, th
 
 If you're thinking "I don't have time to read 200+ pages", I get it.
 
-This is the key takeaway:
+This is the key takeaway of the book:
 
 > _If you want to be hired as a software engineer, you need to show that you can build, test, deploy, and maintain **real software**._ This is what actual software engineers do every day, and this is what employers want to see.
 
@@ -27,14 +27,16 @@ To stand out, show employers that you understand:
 - **Datastores**: Relational Databases, Caches, Search Engines
 - **Background Tasks**: Cron Jobs, Message Queues, etc
 - **Cloud Services**: S3, EC2, AWS, Azure, GCP, etc
-- **Continuous Integration and Continuous Deployment (CI/CD)**: Jenkins, GitHub Actions, CircleCI, etc
+- **CI / CD**: Jenkins, GitHub Actions, CircleCI, etc
 - **Containerization**: Docker, Kubernetes, etc
-- **Observability tools**: Logging, Monitoring, and Alerting
-- **Architecture Patterns**: Microservices, Monoliths, Serverless, etc
+- **Observability Tools**: Logging, Monitoring, and Alerting
+- **Patterns and Best Practices**: MVC, SOLID, GOF, DRY, KISS, YAGNI, etc.
+- **Architecture Patterns**: Microservices, Monoliths, Serverless, Event-Driven, etc
+- **Collaborative Coding Practices**: Code Reviews, Pair Programming, etc
 
 If these concepts are new to you, **great** — now you have a clear path to grow into what employers want.
 
-Yes, It is without question really hard to get hired as an entry level software engineer right now. Economic instability, mass layoffs, AI disruption, and soaring university enrollment have all raised the bar.
+Yes, It is without question really hard to get hired as an entry level software engineer right now. Economic instability, mass layoffs, AI disruption, and soaring university enrollment have all contributed to a saturated job market.
 
 However, another root of the problem is students having the perception the theoretical knowledge from their computer science degree is enough to get hired. The bar is higher now that developers are in less demand and university does not give students the applied in-demand skills needed to present themselves effectively to employers and stand out from the competition.
 

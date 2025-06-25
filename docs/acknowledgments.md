@@ -10,6 +10,8 @@ I want to especially thank: **[Forest Anderson](https://github.com/AngelOnFira),
 
 Without their guidance during my first year at Carleton University, I'd never be where I am today.
 
+I'd also like to thank [Tech Interview Handbook](https://www.techinterviewhandbook.org/) as my project was heavily inspired by their work and format.
+
 Additionally, here is a list of people who have helped me along the way. Either through mentorship, "just giving me a chance", putting up with me, helping me solve a bug, teaching me something, influencing some aspect of my career, or even just being a great friend. Whether big or small, or whether you even remember or know you helped me, I want to thank you all for your support and guidance.
 
 **NOTE:** By including their names here, I am **NOT** implying that they endorse this book or its contents. I just want to acknowledge the impact they have had on my life and career.
