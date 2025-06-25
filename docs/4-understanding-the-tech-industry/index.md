@@ -37,7 +37,7 @@ You might be part of a cross-functional team that includes other engineers, desi
 
 Good communication is essential. You’ll collaborate through technical design documents, documentation, code reviews, and regular team discussions. Giving and receiving feedback is a core part of the job.
 
-We’ll explore team structures in more detail in [Chapter 4.5](./4-5-team-structures.md).
+We’ll explore team structures in more detail in [Chapter 4.5](../4-understanding-the-tech-industry/5-engineering-team-structures.md).
 
 ## It’s Not About Tech — It’s About Solving Problems
 
