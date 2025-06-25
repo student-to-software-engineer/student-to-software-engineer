@@ -4,6 +4,17 @@ Personal projects are a quintessential aspect of being a Computer Science studen
 
 Including a project on your resume is the easiest way to demonstrate proficiency with in-demand skills.
 
+## Why are Personal Projects Expected?
+
+The tech industry is uniquely accessible. With just a laptop and an internet connection, anyone can learn to code and build software. This low barrier to entry means employers expect candidates to take initiative—to experiment, build, and practice on their own.
+Think about it:
+
+- If you were training to be a dentist, it’s not like you could practice on your own teeth or set up a clinic at home.
+- If you were studying mechanical or electrical engineering, you’d have to buy parts and equipment, which can get expensive, just to build something.
+- But software is different. You don’t need expensive gear, special permissions, or materials. You can prototype, iterate, and deploy real, working systems from your bedroom.
+
+This is why personal projects aren’t just encouraged—they’re assumed. They show you’ve taken advantage of the incredible opportunity that software offers: to learn by doing, without waiting for someone to hand you the tools.
+
 ## Why Personal Projects Matter
 
 There are several reasons personal projects are so valuable:
