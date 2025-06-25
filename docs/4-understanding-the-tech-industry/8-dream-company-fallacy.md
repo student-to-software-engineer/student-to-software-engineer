@@ -11,7 +11,7 @@ This mindset is extremely common—especially among students or early-career dev
 The company name on your resume **matters far less** than the people you work with and the work you do every day.
 
 When someone says “I want to work at Google,” I usually ask, _“What do you want to do at Google?”_
-Most of the time, they don’t know. They’ve never worked in tech. They’ve never worked on a n engineering team. They just know that Google sounds impressive.
+Most of the time, they don’t know. They just know that Google sounds impressive.
 
 This isn’t judgment—this is inexperience. And it’s totally normal. But if you never question this dream, it can become a distraction.
 

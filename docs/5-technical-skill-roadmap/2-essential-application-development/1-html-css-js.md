@@ -40,6 +40,12 @@ This is a simple HTML document that includes some basic CSS for styling and a Ja
 
 Open this file in a web browser to see your first web page in action. You can edit the HTML, CSS, and JavaScript directly in the file and refresh the page to see your changes.
 
+## Why The Web?
+
+A lot of software systems need user interfaces, and the web is not the only way to build one, but it is the most accessible and widely used.
+
+By learning HTML, CSS, and JavaScript, you can create applications that run in any modern web browser, meaning your user interface can be accessed from any device with internet access. This is a huge advantage over other platforms that may require specific operating systems or installations.
+
 ## Knowledge Checklist
 
 ### HTML

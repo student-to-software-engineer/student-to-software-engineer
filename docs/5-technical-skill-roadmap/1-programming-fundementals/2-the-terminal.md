@@ -55,16 +55,6 @@ Many tools you'll use as a developer are terminal-first:
 
 These tools give you more control, and some only work via the terminal.
 
-## Pro Tip: Use a Modern Terminal
-
-You can improve your experience by using better terminal apps:
-
-- macOS: [iTerm2](https://iterm2.com/)
-- Windows: [Windows Terminal](https://aka.ms/terminal)
-- Linux: GNOME Terminal, Alacritty, etc.
-
-Pair it with a modern shell like [zsh](https://ohmyz.sh/) or [fish](https://fishshell.com/) for extra productivity.
-
 ## Knowledge Checklist
 
 - [ ] I understand what the terminal is and when to use it.

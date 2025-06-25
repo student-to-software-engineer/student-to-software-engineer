@@ -58,3 +58,14 @@ Understanding how to represent and traverse graphs (e.g., with **BFS** or **DFS*
 - Practice problems involving sorting, searching, and recursion
 - Explore trees and graphs once you're comfortable with the basics
 - Use platforms like [LeetCode](https://leetcode.com/), [HackerRank](https://www.hackerrank.com/), or [VisuAlgo](https://visualgo.net/) to practice and visualize
+
+## Knowledge Checklist
+
+- [ ] I understand what a data structure is and why different data structures suit different tasks.
+- [ ] I can explain when to use arrays, lists, stacks, queues, hash maps, trees, and graphs.
+- [ ] I understand what an algorithm is and can give examples of common algorithms (e.g., sorting, searching).
+- [ ] I know what Big O notation is and how it describes algorithm performance as input size grows.
+- [ ] I can identify the time and space complexity of my own code using Big O notation.
+- [ ] I understand what a graph is and can describe real-world examples where graphs are useful.
+- [ ] I know basic graph traversal methods like breadth-first search (BFS) and depth-first search (DFS).
+- [ ] I can identify when a performance problem might be due to an inefficient data structure or algorithm.

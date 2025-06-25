@@ -1,14 +1,16 @@
 # 5.2.2. Webservers and RESTful APIs
 
-Websites with trillions of records do not store their data on your browser or in HTML — they retrieve these records by making requests through the internet to a web server.
+Websites that display vast amounts of data — like those with trillions of records — don’t store all that data in your browser or inside HTML files. Instead, they retrieve it on demand by making requests over the internet to **web servers**.
 
-A **web server** is a program that listens for incoming requests from clients (like web browsers) and responds with the requested data.
+A **web server** is a program that listens for requests from clients (like your web browser) and responds with the requested data.
 
-A request or HTTP request is how a client asks a server for information or to perform an action. HTTP stands for Hypertext Transfer Protocol, which is the foundation of data communication on the web.
+**Servers** are called _servers_ because they _serve_ responses back to clients.
 
-**REST** (Representational State Transfer) is a standardization of how web servers and clients communicate.
+These requests — called **HTTP requests** — are how clients ask servers for information or request that they perform certain actions.
 
-A **RESTful API** (Application Programming Interface) is an interface that allows clients to interact with a web server.
+**HTTP** (Hypertext Transfer Protocol) is the standard that defines how this communication happens across the web.
+
+**REST** (Representational State Transfer) is a popular standard for structuring how web servers and clients communicate. A **RESTful API** (Application Programming Interface) provides a predictable and consistent way for clients (like browsers or apps) to interact with a server.
 
 An HTTP request to a RESTful API typically includes:
 

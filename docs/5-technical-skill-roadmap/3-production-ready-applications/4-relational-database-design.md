@@ -31,7 +31,7 @@ Here are some important terms you need to know:
 
 Good relational design is about **breaking your data into logical pieces**, then **connecting them with keys** so that you can efficiently query across them.
 
-## Normalization: Don't Repeat Yourself (DRY)
+## Normalization
 
 **Normalization** is the process of organizing your database to reduce duplication and improve integrity.
 

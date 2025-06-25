@@ -64,3 +64,10 @@ These tools provide ways to write tests, run them, and see which ones pass or fa
 - **Repeatable** – Tests should always give the same result every time.
 - **Fast** – Good unit tests run in milliseconds, so you can run them constantly.
 - **Descriptive** – A test that fails should make it obvious what went wrong.
+
+## Knowledge Checklist
+
+- [ ] I understand what a unit test is and what it’s for.
+- [ ] I can explain how unit tests help prevent bugs and make code safer to change.
+- [ ] I can write a simple unit test for a pure function in my language of choice.
+- [ ] I can set up and use a basic testing tool (like pytest, Jest, or JUnit).

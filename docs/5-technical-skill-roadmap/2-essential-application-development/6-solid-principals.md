@@ -47,3 +47,13 @@ High-level modules should not depend on low-level modules. Both should depend on
 Instead of hardcoding concrete dependencies, classes should rely on **abstractions** (e.g., interfaces). This makes your code more flexible and easier to test.
 
 **Why it matters:** Improves modularity and allows swapping out parts of your system (e.g., different databases or APIs) with minimal changes.
+
+## Knowledge Checklist
+
+- [ ] I can explain what each letter in SOLID stands for.
+- [ ] I understand why the Single Responsibility Principle makes code easier to maintain.
+- [ ] I know how the Open/Closed Principle helps prevent breaking existing features when adding new functionality.
+- [ ] I understand what it means to follow the Liskov Substitution Principle and why it matters for subclass behavior.
+- [ ] I can describe why the Interface Segregation Principle helps keep code modular and focused.
+- [ ] I understand how the Dependency Inversion Principle makes code easier to test and more flexible.
+- [ ] I can identify when a piece of code violates one of the SOLID principles.
