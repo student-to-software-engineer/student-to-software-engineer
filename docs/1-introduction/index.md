@@ -38,11 +38,11 @@ The bar is higher now that developers are in less demand and university students
 
 However, it's not hopeless. Tech is an extremely accessible field to self-educate in, **the biggest challenge is not being overwhelmed by the sheer volume** of information and conflicting advice.
 
-This guide aims to give you the words to research in a logical order that builds on itself, so you can learn the skills that employers actually care about.
+That's where this book comes in.
 
 ## What This Book Covers
 
-The chapters are structured to build on each other. Each one answers a different set of questions that students commonly face on their career journey:
+The chapters are structured to build on each other. Each one answering a different set of questions that students commonly face on their career journey:
 
 ### [Chapter 1: Introduction](./index.md)
 
@@ -50,7 +50,7 @@ This chapter explains what a software engineer is, the difference between comput
 
 ### [Chapter 2: Why It’s So Hard To Get Hired](../2-landscape-of-tech-employment/index.md)
 
-This chapter explains why the job market is saturated with developers, and most aren't getting hired. This chapter explains the big-picture reasons why: skyrocketing university enrollment, AI, industry shifts, and a mismatch between what schools teach and what employers need.
+This chapter explains why becoming a software developer has become so challenging. This chapter explains the big-picture reasons why: skyrocketing university enrollment, economic instability, AI, and a mismatch between what schools teach and what employers need.
 
 ### [Chapter 3: How To Make The Most Of University](../3-maximizing-university-experience/index.md)
 
@@ -70,7 +70,7 @@ This chapter answers the question: "How do I get experience if I can’t get a j
 
 ### [Chapter 7: Find Your First Internship](../7-find-your-first-internship/index.md)
 
-This chapter covers how to apply for internships, what to include in your resume, how to prepare for interviews, and how to stand out from the competition. It also includes tips for networking and leveraging connections.
+This chapter covers how to apply for internships, what to include in your resume, how to prepare for interviews, and how to stand out from the competition.
 
 ### [Chapter 8: Progressing Your Career](../8-progressing-your-career/index.md)
 

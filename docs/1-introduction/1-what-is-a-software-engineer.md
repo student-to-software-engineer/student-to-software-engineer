@@ -4,19 +4,15 @@ A software engineer is someone who designs, develops, tests, and maintains softw
 
 Some examples of software systems include web applications, mobile apps, desktop software, cloud services, embedded systems, operating systems, developer tools, and a lot more.
 
-Software engineers use programming languages and tools to build software that meets user needs and solves real-world problems. They collaborate with other team members, such as designers, product managers, and more, to create high-quality software products.
+It is the job closest to society's perception of a "programmer" or "coder," and it's the role most people have in mind when they start studying computer science.
+
+Software engineers use programming languages and tools to build software to solve real-world problems. They work closely with teammates — like designers, product managers, and others — to create software products that meet user needs and business goals.
+
+However, software engineering is not the exact same as computer science (the degree you are likely pursuing).
 
 ## Computer Science vs Software Engineering
 
-Due to computer science being a relatively new field, many people are still confused about what computer science and software engineering actually are, and how they relate to each other.
-
-In my opinion, it's this gap in understanding that is one of **the root causes of why many students struggle to find jobs**.
-
-Without this understanding, students lack the context and direction when presenting themselves through resumes, projects, and in interviews.
-
-So let's break it down.
-
-Software engineering is an applied discipline that is built on top of computer science, a theoretical discipline. **They are not one in the same**, but they are closely related.
+Software engineering is an applied discipline built on top of computer science. Many students mix up the two, and this misunderstanding often leads to frustration when they realize a computer science degree doesn’t directly prepare them for a software engineering job.
 
 Computer science focusses on the theory behind the principles of computation, algorithms, data structures, and the underlying mathematics of computing. It provides a foundation for understanding how computers work and how to solve problems using computational methods.
 
@@ -26,8 +22,12 @@ For example, a Computer Scientist might develop a new algorithm for sorting data
 
 Here's a simple analogy to help clarify the difference:
 
-Software Engineering is built off of Computer Science in the same way Physics is built off of Mathematics.
+_Software Engineering is built off of Computer Science in the same way Physics is built off of Mathematics._
 
 Knowing how to do complicated math proofs doesn't mean you know the physics to build a bridge, and knowing how to write a sorting algorithm doesn't mean you can build an app.
 
 ![Fields as Foundations](./img/fields.png)
+
+A common mistake I see is students overemphasizing theoretical knowledge over practical skills when presenting themselves through resumes, projects, and in interviews.
+
+You have to understand that most of the jobs in tech are applied roles and employers are looking for people who can build real software systems, not just those who can recite algorithms or data structures.
