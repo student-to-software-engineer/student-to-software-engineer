@@ -36,7 +36,7 @@ To stand out, show employers that you understand:
 - **Architecture Patterns**: Microservices, Monoliths, Serverless, Event-Driven, etc
 - **Collaborative Coding Practices**: Code Reviews, Pair Programming, etc
 
-If these concepts are new to you, **great** — now you have a clear path to grow into what employers want.
+Do you need to know all of these to get hired for entry level positons, **NO**. However, if these concepts are new to you, **great** — now you have a clear path to grow into what employers want.
 
 Yes, It is without question really hard to get hired as an entry level software engineer right now. Economic instability, mass layoffs, AI disruption, and soaring university enrollment have all contributed to a saturated job market.
 
