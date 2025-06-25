@@ -1,59 +1,51 @@
 # 3.4. Build Your Portfolio
 
-You're going to build some projects during university and (especially during your upper year electives) your going to often have the ability to choose what you want to build.
+During your time at university, you’ll work on a number of projects — especially in your upper-year electives, where you often have the freedom to choose what you want to build.
 
-You should take these opportunities to not just fulfill the course requirements, but also build your portfolio.
+Don’t just see these projects as assignments to complete for a grade. See them as opportunities to grow your portfolio.
 
-When you get an opportunity to build something, ask yourself:
+Whenever you have the chance to build something, ask yourself:
 
 - Can I use this to learn a new skill or technology?
-- Can I use this to build something that I can show off to employers?
-- Can make something that won't just get thrown away after the course is over?
+- Can I turn this into something I’d be proud to show an employer?
+- Can I create something that’s useful beyond this course, instead of something I’ll just throw away after?
 
-Students often say they don't have time to build projects outside of their coursework, and while coursework does take time, if you find it hard to find time to build projects, it's actually a time safer if you knock out two birds with one stone.
+A lot of students say they don’t have time to build extra projects outside of class. That’s fair — coursework does take time. But if you approach your coursework strategically, you can kill two birds with one stone: fulfill the course requirements _and_ build something that strengthens your portfolio. It actually saves you time in the long run.
 
-We will be doing a deep dive into building good projects in chapter 6.1np.
+(We’ll take a deeper dive into what makes a great project in [Chapter 6.1](../6-gaining-experience-without-formal-employment/1-personal-projects/index.md).
 
 ## Personal Examples
 
-Here are some personal examples of mine that I built during my time at Carleton University.
+Here are a few examples of projects I built at Carleton University where I went beyond the basic requirements and created something valuable for my portfolio:
 
 ### Bookstore Application
 
-During my 2nd year at Carleton University, I took a databases course where our final project was to make a simple "Bookstore" application.
+In my second year, I took a databases course where the final project was to build a simple “Bookstore” app. Most students just made a basic CLI tool that could add, remove, and search books in a database — that’s all you needed to pass.
 
-To pass, all you had to do was make a simple CLI application that could add, remove, and search for books in a database.
+Instead, I used it as an opportunity to build my first full-stack web app. I chose Golang (which I had never used before) for the backend, React for the frontend, and PostgreSQL for the database. I even tried out Docker and Kubernetes for the first time to deploy it to the cloud.
 
-However, I decided to take this opportunity to build a full-stack web application using Golang (which I had never used before), React, and PostgreSQL.
-
-I also decided to play with Docker and Kubernetes for the first time to deploy it to a cloud provider.
-
-You can still find the code for this project on my GitHub: [MathyouMB/Bookstore](https://github.com/MathyouMB/bookstore). It's not good code by any means, but it was a great learning experience.
+The code isn’t perfect — but I learned a ton. You can still find it on my GitHub: [MathyouMB/Bookstore](https://github.com/MathyouMB/bookstore).
 
 ![Bookstore Application](img/bookstore.png)
 
 ### Discrete Math Practice App
 
-In my 2nd year, I took a discrete math course that had multiple choice midterms and finals.
+In my second year, I took a discrete math course where exams were multiple choice. The professor provided practice questions, but flipping between the question PDF and the answer PDF was tedious.
 
-The professor provided a set of practice questions, but I found it tedious to go back and forth between the questions pdf and the answers pdf.
+So I built a simple web app to make practicing easier. Over time, I iterated on it, and today it’s been used by **thousands of Carleton students**.
 
-So I decided to build a simple web application that would allow me to practice the questions in a more interactive way.
-
-The website has gone through 3 different iterations, over the past 7 years, but it still is online to this day and has been used by **thousands of students** studying this course at Carleton University.
-
-Here is the link to the latest version: [CarletonComputerScienceSociety/questions](https://github.com/CarletonComputerScienceSociety/questions).
+Check out the latest version here: [CarletonComputerScienceSociety/questions](https://github.com/CarletonComputerScienceSociety/questions).
 
 ![Computer Science Questions Repository](img/questions-repository.png)
 
 ### Microservice Search Engine
 
-During my 4th year, I took a course with a project that involved building a search engine.
+In my fourth year, I took a course that involved building a search engine. The assignment only required a single Express.js server that searched pre-indexed data.
 
-The course only required a single express.js webserver that searched pre indexed data, but I decided to take it a step further and build a microservice architecture with services in Elixir, Python, Javascript, Ruby, and a Kafka message broker.
+But I wanted to challenge myself. I built a microservice architecture with services in Elixir, Python, JavaScript, Ruby, and a Kafka message broker to tie it together.
 
-Did this take more time than just building a single webserver? Yes, but I got way more out of this than just some grade. I might have even gotten a worst grade than I would have if I just built the single webserver, but I learned so much more.
+Did it take more time? Absolutely. Did I get a better grade? Maybe not. But I learned so much more than I would have by taking the simpler route.
 
-You can find the code for this project on my GitHub: [MathyouMB/comp4601-a1](https://github.com/MathyouMB/comp4601-a1).
+You can find the code here: [MathyouMB/comp4601-a1](https://github.com/MathyouMB/comp4601-a1).
 
 ![Microservice Search Engine](img/search-engine.png)

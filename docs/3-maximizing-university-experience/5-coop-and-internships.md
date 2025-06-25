@@ -1,25 +1,23 @@
 # 3.5. Co-op and Internships
 
-One of the biggest advantages you have as a university student is access to co-op and internship opportunities. These roles aren’t just great for experience—they’re often **subsidized** by the government, meaning companies are financially incentivized to hire students. In other words, being a student makes you cheaper to hire, which opens doors that won’t be there once you graduate.
+One of the biggest advantages you have as a university student is access to co-op and internship opportunities.
 
-Most universities have an official co-op program, and it’s one of the most valuable resources you can use during your degree. These programs are often staffed by people whose full-time job is to help students connect with employers, prep for interviews, and get hired. They also typically maintain long-term partnerships with companies who come back every term to hire students.
+The staff behind these programs maintain long-term partnerships with companies specifically to hire students — including for roles that are **never publicly posted**.
 
-If your university offers a co-op program, **you should absolutely take advantage of it**.
+The salary of accredited co-op programs students are often **subsidized** by the government, which means companies are financially incentivized to hire students. In other words, being a student makes you cheaper to hire, and that opens doors that won’t be there once you graduate.
 
-Even if co-op means extending your degree by a term or two, it’s worth it. A student who takes five years to graduate with three internships is in a far better position than someone who graduates in four with none.
+If your university offers a co-op program, you should absolutely take advantage of it.
 
-Of course, getting a co-op job isn’t always easy, especially in your first or second year. You might not get your dream internship right away, and that’s okay. What matters is that you start early, treat every application and interview as practice, and use each experience to refine your strategy.
+Even if joining co-op extends your degree by a term or two, it’s worth it. A student who graduates in five years with three internships is in a much stronger position than one who finishes in four with none.
 
-The tech industry values experience. Co-op is your best shot at getting it _before_ graduation.
+The tech industry values experience. Co-op is your best chance to gain it _before_ you graduate.
 
 ## Co-op Staff Are Not Usually Technical
 
-It’s important to remember that the people running your university’s co-op program are not technical experts.
+It’s important to understand that the people who run your university’s co-op office are career advisors — not software engineers.
 
-They’re career advisors, not software engineers. Their job is to help you navigate the hiring process, but they may not fully understand what makes a candidate stand out in tech.
+They’re there to help guide you through applications and hiring processes, but they may not fully grasp what makes a candidate stand out in tech. Their resume tips, mock interviews, and job search advice can be helpful — but often generic or geared toward all fields, not specifically software engineering.
 
-For services like resume reviews, mock interviews, and job search strategies, they may not be able to provide the most relevant advice for software engineering roles.
+Don’t rely solely on them for technical interview prep or resume feedback. Their guidance might overemphasize academic achievements or fail to highlight what tech employers really care about: practical skills, real projects, and hands-on experience.
 
-Do not rely solely on your co-op program staff for technical interview prep or resume feedback. They may give you generic advice that doesn’t apply to the tech industry, like focusing too much on academic achievements or not emphasizing practical skills and projects.
-
-Instead, you should seek out advice from upper-year students, mentors, or professionals in the industry. They can give you insights into what employers are really looking for and help you tailor your application materials accordingly.
+Instead, seek advice from upper-year students, mentors, or professionals already working in the industry. They’ll help you understand what employers are actually looking for — and how to present yourself in a way that gets results.
