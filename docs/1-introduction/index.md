@@ -40,7 +40,7 @@ Yes, It is without question really hard to get hired as an entry level software 
 
 However, another root of the problem is students having the perception the theoretical knowledge from their computer science degree is enough to get hired. The bar is higher now that developers are in less demand and university does not give students the applied in-demand skills needed to present themselves effectively to employers and stand out from the competition.
 
-However, it's not hopeless. Tech is an extremely accessible field to self-educate in, the biggest challenge is not being overwhelmed by the sheer volume\* of information and conflicting advice.
+However, it's not hopeless. Tech is an extremely accessible field to self-educate in, the biggest challenge is not being overwhelmed by the sheer volume of information and conflicting advice.
 
 That's where this book comes in.
 
