@@ -6,37 +6,39 @@ A computer science degree no longer guarantees a job and self teaching is overwh
 
 This guide is here to change that.
 
-Whether you're just starting university or already deep in your job search, this guide will give you a clear roadmap from student to software engineer.
+Whether you're just starting university or already deep into your job search, this book will give you a clear roadmap—from student to software engineer.
 
-## I Don't Have Time To Read 200+ Pages
+## Don’t Have Time to Read It All?
 
 If you're thinking "I don't have time to read 200+ pages", I get it.
 
-This is the key takeaway: _If you want to be hired as a software engineer, you need to show that you can build, test, deploy, and maintain **real software**._ This is what actual software engineers do every day, and this is what employers want to see.
+This is the key takeaway:
 
-Of the thousands of students I've talked to, so many have unfocused resumes and no understanding of what employers actually want. They build projects, but do not demonstrate skills past an understanding of how to build some "frontend, backend, database CRUD app".
+> _If you want to be hired as a software engineer, you need to show that you can build, test, deploy, and maintain **real software**._ This is what actual software engineers do every day, and this is what employers want to see.
 
-Your "frontend, backend, database CRUD app" is just the tip of the iceberg.
+Of the thousands of students I've talked to, so many have resumes that fail to highlight the skills employers are looking for. They build projects, but stop at “frontend, backend, database CRUD app” without showcasing deeper, practical skills.
 
-Show employers you can build real software by demonstrating your understanding of:
+Your CRUD app is just the tip of the iceberg.
 
-- Automated Testing: Unit Tests, Integration Tests, End-to-End Tests
-- API Protocols: REST, GraphQL, gRPC, WebSockets
-- Datastores: Relational Databases, Caches, Search Engines
-- Background Tasks: Cron Jobs, Message Queues, etc
-- Cloud Services: S3, EC2, AWS, Azure, GCP, etc
-- Continuous Integration and Continuous Deployment (CI/CD)
-- Containerization: Docker, Kubernetes, etc
-- Observability tools: Logging, Monitoring, and Alerting
-- Architecture Patterns: Microservices, Monoliths, Serverless, etc
+To stand out, show employers that you understand:
 
-If these are new to you, **great** — now you have a clear path to grow into what employers want.
+- **Automated Testing**: Unit Tests, Integration Tests, End-to-End Tests
+- **API Protocols**: REST, GraphQL, gRPC, WebSockets
+- **Datastores**: Relational Databases, Caches, Search Engines
+- **Background Tasks**: Cron Jobs, Message Queues, etc
+- **Cloud Services**: S3, EC2, AWS, Azure, GCP, etc
+- **Continuous Integration and Continuous Deployment (CI/CD)**: Jenkins, GitHub Actions, CircleCI, etc
+- **Containerization**: Docker, Kubernetes, etc
+- **Observability tools**: Logging, Monitoring, and Alerting
+- **Architecture Patterns**: Microservices, Monoliths, Serverless, etc
 
-Yes, there are less entry level jobs. Economic instability, overwhelming growth in university enrollment, mass layoffs, and the rise of AI are definitely contributing factors, but another root of the problem is students having the perception the theoretical knowledge from their computer science degree is enough to get hired.
+If these concepts are new to you, **great** — now you have a clear path to grow into what employers want.
 
-The bar is higher now that developers are in less demand and university students lack the context and skills needed to present themselves effectively to employers and stand out from the competition.
+Yes, It is without question really hard to get hired as an entry level software engineer right now. Economic instability, mass layoffs, AI disruption, and soaring university enrollment have all raised the bar.
 
-However, it's not hopeless. Tech is an extremely accessible field to self-educate in, **the biggest challenge is not being overwhelmed by the sheer volume** of information and conflicting advice.
+However, another root of the problem is students having the perception the theoretical knowledge from their computer science degree is enough to get hired. The bar is higher now that developers are in less demand and university does not give students the applied in-demand skills needed to present themselves effectively to employers and stand out from the competition.
+
+However, it's not hopeless. Tech is an extremely accessible field to self-educate in, the biggest challenge is not being overwhelmed by the sheer volume\* of information and conflicting advice.
 
 That's where this book comes in.
 
