@@ -31,6 +31,8 @@ To stand out, show employers that you understand:
 - **Containerization**: Docker, Kubernetes, etc
 - **Observability Tools**: Logging, Monitoring, and Alerting
 - **Patterns and Best Practices**: MVC, SOLID, GOF, DRY, KISS, YAGNI, etc.
+- **Common Problem Spaces**: IAM, messaging systems, data storage, payments, search, etc.
+- **Profiling and Optimization**: CPU/memory usage, query tuning, caching, concurrency, load testing, etc.
 - **Architecture Patterns**: Microservices, Monoliths, Serverless, Event-Driven, etc
 - **Collaborative Coding Practices**: Code Reviews, Pair Programming, etc
 
