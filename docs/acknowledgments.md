@@ -83,12 +83,14 @@ Additionally, here is a list of people who have helped me along the way. Either 
 - Mumtahin Farabi
 - Nadia Khan
 - Nathan Coulas
+- Nicolas Perez
 - Nicole Simone
 - Nick Kazan
 - Nguyen-Hanh Nong
 - Noah Yi
 - Omar Flores
 - Pat Morin
+- Petra DeBat
 - Quayce Thomas
 - Rebecca Kempe
 - Richard Kim

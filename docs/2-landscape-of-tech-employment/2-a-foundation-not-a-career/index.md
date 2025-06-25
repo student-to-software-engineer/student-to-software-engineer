@@ -1,4 +1,4 @@
-# 2.1. CS Is Not Employable By Default
+# 2.2. A CS Degree Doesn’t Guarantee a Job
 
 Ask yourself, have you ever seen a job posting for a "Computer Scientist"? Probably not.
 

@@ -1,4 +1,4 @@
-# 2.2. Graduates Are Becoming Less Capable
+# 2.1. Graduates Are Becoming Less Capable
 
 The rapid growth in enrollment in undergraduate computer science programs has outpaced available resources, resulting in overcrowded classrooms, limited faculty attention, and a decline in educational quality. The COVID-19 pandemic and the emergence of AI tools like ChatGPT have further complicated the academic landscape, making it more challenging for students to receive the education needed for success in the tech industry.
 
@@ -31,10 +31,9 @@ It's worth noting that computing fields are grouped differently at different aca
 
 [In the same CRA Enrollment Survey,](https://cra.org/data/generation-cs/units-response/) units were asked a wide range of questions about the impact of increased enrollment in undergraduate courses. They were asked to rate actions and management strategies explicitly taken or in process to manage the enrollment growth.
 
-![Enrollment related actions taken by units](./img/management-strategies.png)
 ![Actions taken to manage course size and enrollments](./img/actions-taken.png)
 
-Actions like "significantly increase class sizes", "increase the number of course sections", and "reduce the number of low enrollment courses" were the most common responses.
+Actions like "significantly increase class sizes", "increase the number of course sections", and "reduce the number of low enrollment courses" were common responses.
 
 It's widely accepted that the quality of education suffers when class sizes increase, and when faculty are stretched thin. The result is that students receive less individual attention, fewer opportunities for mentorship, and less feedback on their work.
 
@@ -42,7 +41,7 @@ Anecdotally, what I've seen is, huge class sizes lead to faculty needing to reso
 
 The result is that the lack of depth and engagement in coursework leaves students unable to fully appreciate the value of higher education, diminishing their ability to make the most of their university years.
 
-Without opportunities to explore and challenge ideas, students may leave university unprepared for the complexities of the real world, and most will graduate today without ever having had an original idea about the field.
+Without opportunities to explore and challenge ideas, students may leave university unprepared for the complexities of the real world, and most may graduate without ever having had an original idea about the field.
 
 ## Wide Spectrum of Entrance Experience
 
@@ -50,9 +49,15 @@ While technology is more present in everyday life than ever before, the actual t
 
 Some students arrive with years of programming experience, having built games, web apps, or completed online courses. Others have never written a single line of code and have little to no familiarity with basic computing concepts.
 
-And while this has always been the case to some extent, the gap has widened significantly in recent years thanks to the rise of simplified tech like iPads and Chromebooks, which have become common as early as elementary school.
+While this has always been the case to some extent, the gap has widened significantly in recent years thanks to the rise of simplified tech like iPads and Chromebooks, which have become common as early as elementary school. I regularly meet first-year students who have never used Windows, interacted with a file system, or installed software. These students are no where near the same level as those who have been programming for years.
 
-_NOTE: It's worth mentioning it's very hard to find statistics on the prior experience of students entering computer science programs, as most universities do not collect this data as there really isn't a standardized way to measure it._
+The result is that incoming university students have vastly different levels of experience, and yet unless they go to one of the best schools on the continent, they are forced into a one-size-fits-all curriculum.
+
+The reality is that it's near impossible to design a curriculum that effectively serves both students who have never coded before and those who have been programming for years.
+
+It's like putting kindergarteners and high school students in the same classroom and expecting them to learn at the same pace. The disparity in prior knowledge leads to frustration for both groups, as neither feels adequately challenged or supported.
+
+<!-- It's worth mentioning it's very hard to find statistics on the prior experience of students entering computer science programs, as most universities do not collect this data as there really isn't a standardized way to measure it. -->
 
 ### No Standardized Starting Line
 
@@ -61,8 +66,6 @@ Part of the issue stems from the fact that there is no universal or standardized
 Across North America, some high schools offer AP Computer Science or teach Python and Java as early as Grade 10, while others offer no programming instruction whatsoever.
 
 Similarly, while programs like the International Baccalaureate (IB) or Advanced Placement (AP) exist, they are not universally recognized. Even students who complete these advanced high school courses often find that universities do not allow them to skip introductory material.
-
-The result is a fragmented pipeline: incoming university students might have vastly different levels of experience, and yet unless they go to one of the best schools on the continent, they are forced into a one-size-fits-all curriculum with few options for acceleration.
 
 ### Increased Lack of Tech Literacy
 
@@ -117,6 +120,18 @@ For example:
 
 However, outside of these top-tier schools, many universities still do not offer robust acceleration options. Students with significant prior experience often find themselves stuck in introductory courses that do not challenge them or help them grow.
 
+### Students Who "Just Want a Job / Money"
+
+There is also a sizeable portion of students who only entered computer science with the sole goal of getting a job or making money, rather than a genuine interest in the field.
+
+This is not a new phenomenon, but it has become more pronounced in recent years as the tech industry has grown and the potential for high salaries has attracted more students.
+
+While there is nothing inherently wrong with wanting a job or making money, this mindset can lead to a lack of intrinsic motivation and curiosity about the field.
+
+I see these students struggle the most because they lack the drive to put in the work neccessary to develop the applied skills university often doesn't provide, let alone do well in their courses.
+
+The reality is that software engineering is really a "craft" that requires practice, patience, and a genuine interest in building things. Students who do not have a genuine interest in the craft are unlikely to succeed in the long run, regardless of how much they want a job or money.
+
 ## AI’s Educational Shift
 
 While the rise of large language models (LLMs) like ChatGPT offer new learning opportunities, it has also made _“cheating”_ more accessible and widespread than ever before.
@@ -145,9 +160,11 @@ But students who started in Fall 2020 and 2021 missed this entirely. When they r
 
 This has resulted in a generations of students who are less connected, less informed, and less prepared to navigate the complexities of univeristy and the job market.
 
-## Conclusion
+## COVID Disrupted Growth
 
-This is why I believe graduates are becoming less capable. It’s not a matter of talent or potential, but of environment. Universities are overwhelmed, support is stretched thin, and students are either unchallenged or unequipped from the start. Add in the growing dependence on AI and the erosion of student communities, and it becomes clear: the system is failing to produce students who are ready for the real world.
+Having interacted with university students before and after the pandemic, it’s very clear that on average, students today are less capable than those who came before them — not because they lack talent or drive, but because they were denied the environment and opportunities that previous generations had.
+
+It feels like everyone is essentially 1–2 years behind in their personal development. COVID disrupted the development of basic study skills, time management, and the ability to focus and work independently. These are core habits that students usually have some what figured out before university, however it’s much harder for these students to now catch up.
 
 ## Sources:
 
