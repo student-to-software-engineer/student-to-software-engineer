@@ -15,8 +15,8 @@ Think of it this way:
 A computer scientist who doesn't know the components of a software is like:
 
 - a mechanic who doesn't know what an engine is
-- a doctor who doesn't know the parts of the human
-- a chef who doesn't know what ingredients exist
+- a doctor who doesn't know what your lungs are or your heart does
+- a chef who uses salt instead of sugar in a dessert
 
 Why would you want to hire a **software engineer who doesn't know how to build software?**
 
