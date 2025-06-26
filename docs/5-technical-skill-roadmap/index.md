@@ -21,7 +21,7 @@ The skills are organized in a chronological order that reflects how I believe yo
 You should complete all the skills in each level before moving on to the next.
 
 - **Level 1: Programming Fundamentals** - The core concepts and skills you need to write basic code.
-- **Level 2: Beginner Applications** - How to build simple applications with a frontend, backend, and database.
+- **Level 2: Simple Web Applications** - How to build simple applications with a frontend, backend, and database.
 - **Level 3: Production-Ready Applications** - The tools and practices needed to build real-world applications that are maintainable, scalable, and deployable.
 
 ## How To Use This Chapter
@@ -36,7 +36,7 @@ You will need to do your own research and find your own resources. But this chap
 
 **No,** you don’t need to learn everything in this chapter to get hired.
 
-It's completely possible to get your first job with likely just a bit more than Level 2: Beginner Applications.
+It's completely possible to get your first job with likely just a bit more than Level 2: Simple Web Applications.
 
 However, if you find that you are struggling to get interviews or offers, it would definitely help if your resume articulated that you have the skills in Level 3: Production-Ready Applications.
 

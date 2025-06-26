@@ -1,4 +1,4 @@
-# 5.2. L2: Beginner Applications
+# 5.2. L2: Simple Web Applications
 
 Level 1 is about writing code that runs. Level 2 is about writing code that people can actually use—over the web, with a real interface, data that persists, and maybe even some users.
 
@@ -68,9 +68,13 @@ graph TD
     click O "/docs/essential-application-development/data-structures-and-algorithms"
 ```
 
-<br/>
+## Why Web Applications?
 
-#### Do I Need To Know Frontend and Backend?
+Web applications are a popular development choice because anyone with a browser can use them. In contrast, native applications require users to install software and are often tied to a specific device or operating system.
+
+Instead of having to build a separate app for each platform (iOS, Android, Windows, etc.), you can build a single web application that runs on any device with a web browser. This makes web applications more accessible and easier to maintain.
+
+## Do I Need To Know Frontend and Backend?
 
 As you'll recall from chapter 4, the answer is no. You don't need to specialize in both to get hired.
 
