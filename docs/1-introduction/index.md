@@ -18,7 +18,7 @@ This is the key takeaway of the book:
 
 I’ve spoken to thousands of students, and many fail to realize that employers aren’t looking for the computer science theory from their classes—they want proof of the real skills software engineers use on a daily basis.
 
-Even students who understand the need to build real software often lack a roadmap or the context to go beyond simple projects like a "frontend, backend, database app with CRUD functionality". As a result, they rarely focus on learning the deeper practical skills employers would actually value.
+Even students who understand the need to build real software often lack a roadmap to go beyond basic projects like a CRUD app with a frontend, backend, and database. As a result, they rarely develop the deeper practical skills employers actually value.
 
 Your CRUD app is just the tip of the iceberg.
 
