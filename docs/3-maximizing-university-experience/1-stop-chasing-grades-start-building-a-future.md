@@ -4,7 +4,7 @@ Up until now — especially in high school — grades have probably been one of 
 
 But now you’re here. So… now what?
 
-For the first time, grades are no longer the end goal. Your real goal is to build the skills, experience, and network that will actually help you buid your career.
+For the first time, grades are no longer the end goal. Your real goal is to build the skills, experience, and the network that will actually help you build your career.
 
 Most students don’t realize this early enough. They fall into the trap of treating university like high school: go to class, get good grades, move on.
 
