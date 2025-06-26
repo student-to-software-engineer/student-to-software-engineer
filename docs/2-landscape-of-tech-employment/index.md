@@ -1,6 +1,6 @@
 # 2. Why It’s So Hard to Get Hired
 
-The reason it’s so hard to get a junior developer job is actually quite simple.
+The reason there are less open developer positions is actually quite simple.
 
 It comes down to two notions:
 
