@@ -8,7 +8,7 @@ This guide is here to change that.
 
 Whether you're just starting university or already deep into your job search, this book will give you a clear roadmap—from student to software engineer.
 
-## Don’t Have Time to Read It All?
+## If You Only Read One Thing, Read This
 
 If you're thinking "I don't have time to read 200+ pages", I get it.
 
@@ -16,7 +16,9 @@ This is the key takeaway of the book:
 
 > _If you want to be hired as a software engineer, you need to show that you can build, test, deploy, and maintain **real software**._ This is what actual software engineers do every day, and this is what employers want to see.
 
-Of the thousands of students I've talked to, so many have resumes that fail to highlight the skills employers are looking for. They build projects, but stop at “frontend, backend, database CRUD app” without showcasing deeper, practical skills.
+I’ve spoken to thousands of students, and many fail to realize that employers aren’t looking for the computer science theory from their classes—they want proof of the real skills software engineers use every day.
+
+Even students who understand the need to build real software often lack a roadmap or the context to go beyond simple projects like a "frontend, backend, database app with CRUD functionality". As a result, they rarely focus on learning the deeper practical skills employers would actually value.
 
 Your CRUD app is just the tip of the iceberg.
 
@@ -27,7 +29,7 @@ To stand out, show employers that you understand:
 - **Datastores**: Relational Databases, Caches, Search Engines
 - **Background Tasks**: Cron Jobs, Message Queues, etc
 - **Cloud Services**: S3, EC2, AWS, Azure, GCP, etc
-- **CI / CD**: Jenkins, GitHub Actions, CircleCI, etc
+- **CI/CD**: Jenkins, GitHub Actions, CircleCI, etc
 - **Containerization**: Docker, Kubernetes, etc
 - **Observability Tools**: Logging, Monitoring, and Alerting
 - **Patterns and Best Practices**: MVC, SOLID, GOF, DRY, KISS, YAGNI, etc.
@@ -36,7 +38,7 @@ To stand out, show employers that you understand:
 - **Architecture Patterns**: Microservices, Monoliths, Serverless, Event-Driven, etc
 - **Collaborative Coding Practices**: Code Reviews, Pair Programming, etc
 
-Do or should you need to know all of these to get hired for entry level positons, **NO**. However, if these concepts are new to you, **great** — now you have a clear path to grow into what employers want.
+Do or should you need to know all of these to get hired for entry level positons, **NO**. However, if these concepts are new to you, **great** — now you have a clear idea of how you can stand out from the competition.
 
 Yes, It is without question really hard to get hired as an entry level software engineer right now. Economic instability, mass layoffs, AI disruption, and soaring university enrollment have all contributed to a saturated job market.
 
