@@ -17,9 +17,9 @@ export default function HomepageIntro() {
           that’s never been more competitive—or more confusing.
         </p>
         <p>
-          It explains why getting hired is so hard, what schools don’t teach
-          you, and how to actually become employable—without burning out or
-          wasting time.
+          It explains why getting hired is so hard, what school won’t teach you,
+          and how to actually become employable—without burning out or wasting
+          time.
         </p>
         <p>
           No vague advice. No “just learn to code.” Just clear strategies from
