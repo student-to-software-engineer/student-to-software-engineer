@@ -12,7 +12,7 @@ The goal of this chapter is to give a roadmap of the technical skills real softw
 
 ## The Structure of This Chapter
 
-In this chapter I have broken down the skills you need to learn into three levels of technical proficiency, each building on the last.
+In this chapter, I have broken down the skills you need to learn into three levels of technical proficiency, each building on the last.
 
 These levels are of my design and are not official industry standards. I am not a professional educator, so I cannot guarantee that this is the best way to learn these skills.
 

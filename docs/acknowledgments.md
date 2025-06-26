@@ -19,23 +19,23 @@ Additionally, here is a list of people who have helped me along the way. Either 
 - Aaditya Chopra
 - Adam Payzant
 - Aditya "Jacc" Padmakar
+- Ahmed El-Roby
+- Alain Robineau
+- Alexa De Grandmont
+- Alexa Liaskovski
+- Alex Mulvey
 - Andrei Pivkine
 - Andrew Garneau
 - Andrew Pullin
 - Andy Bui
-- Alain Robineau
-- Alex Mulvey
-- Alexa De Grandmont
-- Alexa Liaskovski
-- Ahmed El-Roby
 - Ava McKenney
 - Austin Chamney
 - Benjamin Yu
 - Ben Karstad
 - Ben Emdon
 - Brontë Sobotka
-- Cameron Stirrup
 - Caleb Berry
+- Cameron Stirrup
 - Chantal Brousseau
 - Christie Felker
 - Christine Laurendeau
@@ -69,6 +69,7 @@ Additionally, here is a list of people who have helped me along the way. Either 
 - John Lu
 - Jordan St Jacques
 - Josue Perez
+- Joshua Arts
 - Juan Karamoy
 - Justin Chang
 - Justin Zhang

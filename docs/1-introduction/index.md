@@ -16,7 +16,7 @@ This is the key takeaway of the book:
 
 > _If you want to be hired as a software engineer, you need to show that you can build, test, deploy, and maintain **real software**._ This is what actual software engineers do every day, and this is what employers want to see.
 
-I’ve spoken to thousands of students, and many fail to realize that employers aren’t looking for the computer science theory from their classes—they want proof of the real skills software engineers use every on a daily basis.
+I’ve spoken to thousands of students, and many fail to realize that employers aren’t looking for the computer science theory from their classes—they want proof of the real skills software engineers use on a daily basis.
 
 Even students who understand the need to build real software often lack a roadmap or the context to go beyond simple projects like a "frontend, backend, database app with CRUD functionality". As a result, they rarely focus on learning the deeper practical skills employers would actually value.
 
