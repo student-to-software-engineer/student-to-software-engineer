@@ -24,6 +24,7 @@ Additionally, here is a list of people who have helped me along the way. Either 
 - Andrew Pullin
 - Andy Bui
 - Alain Robineau
+- Alex Mulvey
 - Alexa De Grandmont
 - Alexa Liaskovski
 - Ahmed El-Roby
@@ -56,6 +57,7 @@ Additionally, here is a list of people who have helped me along the way. Either 
 - Frank Wu
 - Gasser Aly
 - Gianluca Dibadj
+- Gina Bak
 - Henry Morris
 - Hugh Xie
 - Iain Mcilveen
@@ -102,6 +104,7 @@ Additionally, here is a list of people who have helped me along the way. Either 
 - Richard Ositashvili
 - Robert Babaev
 - Robert Collier
+- Robert Young
 - Ryan Chung
 - Sarah Ali
 - Salim Chabou
@@ -111,6 +114,7 @@ Additionally, here is a list of people who have helped me along the way. Either 
 - Shirley Zhan
 - Steve Lind
 - Steve Low
+- Stephanie Ade
 - Soumen Nath
 - Sydney Hass
 - Taha Hawa
