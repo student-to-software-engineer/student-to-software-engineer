@@ -80,7 +80,7 @@ Users being able to access or modify things they shouldn’t—like editing some
 - Always check if the current user has permission before allowing access
 - Don’t rely on the frontend to protect sensitive actions—**validate everything on the server**
 
-## How To Get Staryed
+## How To Get Started
 
 - Use libraries and frameworks that help protect against these risks
 - Read the [OWASP Top 10](https://owasp.org/www-project-top-ten/) for a deeper understanding
