@@ -75,6 +75,17 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
+  plugins: [
+    [
+        'docusaurus-pushfeedback',{
+            project: 'zc0kpnwsf5',
+            buttonPosition: 'bottom-right',
+            modalPosition: 'center',
+            buttonStyle: 'dark',
+            modalTitle: 'Share your thoughts'
+        }
+    ]
+],
   markdown: {
     mermaid: true,
   },
