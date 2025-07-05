@@ -20,7 +20,7 @@ A computer scientist who doesn't know the components of a software is like:
 
 Why would you want to hire a **software engineer who doesn't know how to build software?**
 
-Your degree focuses on the fundamentals of computer science, it will likely **NOT** focus on teaching you industry standards for utilizing the different components of software systems or how to build real-world applications.
+Your degree focuses on the fundamentals of computer science, and it will likely **NOT** focus on teaching you industry standards for utilizing the different components of software systems or how to build real-world applications.
 
 In this handbook, we will cover the key components of software systems, how they fit together, and how to present your skills in a way that resonates with employers.
 
