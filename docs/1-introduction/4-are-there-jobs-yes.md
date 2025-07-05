@@ -6,7 +6,7 @@ However, that doesn’t mean things are staying the same. The types of roles tha
 
 Let’s take a closer look at where the industry is heading.
 
-## Is AI Replaceing Engineers?
+## Is AI Replacing Engineers?
 
 No — but also, kind of.
 
@@ -34,7 +34,7 @@ This shift doesn’t mean software engineers are becoming obsolete — it means 
 
 Roles like Site Reliability Engineer (SRE) and Platform Engineer have existed for some time, but I believe we’ll see their responsibilities gradually become standard expectations for most software engineering positions. Just as quality assurance (QA) was once a separate role but is now often integrated into the expectations of developers writing their own tests, the skills associated with SREs and platform engineers — like diagnosing issues, optimizing performance, and ensuring reliability — may soon be seen as core parts of a typical software engineer’s job.
 
-The reality is today's software engineers already spend a good percentage of their time just _wiring everything together_. Some already sarcastically throw around the words "digital plumber" for menual labor like connecting APIs, configuring services, and managing infrastructure.
+The reality is today's software engineers already spend a good percentage of their time just _wiring everything together_. Some already sarcastically throw around the words "digital plumber" for menial labor like connecting APIs, configuring services, and managing infrastructure.
 
 Software engineers aren’t going extinct. However, it's likely some of their "coding time" is going to be replaced by configuring and maintaining existing systems, rather than writing new code from scratch.
 
@@ -76,4 +76,4 @@ In chapter 3, we'll discuss how to make the most of university, both academicall
 
 Yes. But they might not necessarily be the jobs you imagined when you started studying computer science. They're not all about building the next big app from scratch.
 
-The opportunity is still there—but to seize it, you need to understand the direction the industry is heading.
+The opportunity is still there — but to seize it, you need to understand the direction the industry is heading.
