@@ -4,7 +4,7 @@ The rapid growth in enrollment in undergraduate computer science programs has ou
 
 University programs now serve students with a wider range of prior programming experience. The increasing accessibility of technology has led to more students with limited technical backgrounds entering these programs, while financial incentives have attracted some students with less intrinsic motivation. This influx strains resources and can diminish the experience for highly motivated students.
 
-It's these reasons that have lead me to believe that graduates are becoming less capable.
+It's these reasons that have led me to believe that graduates are becoming less capable.
 
 ## Too Many Students, Too Few Educators
 
@@ -49,7 +49,7 @@ While technology is more present in everyday life than ever before, the actual t
 
 Some students arrive with years of programming experience, having built games, web apps, or completed online courses. Others have never written a single line of code and have little to no familiarity with basic computing concepts.
 
-While this has always been the case to some extent, the gap has widened significantly in recent years thanks to the rise of simplified tech like iPads and Chromebooks, which have become common as early as elementary school. I regularly meet first-year students who have never used Windows, interacted with a file system, or installed software. These students are no where near the same level as those who have been programming for years.
+While this has always been the case to some extent, the gap has widened significantly in recent years thanks to the rise of simplified tech like iPads and Chromebooks, which have become common as early as elementary school. I regularly meet first-year students who have never used Windows, interacted with a file system, or installed software. These students are nowhere near the same level as those who have been programming for years.
 
 The result is that incoming university students have vastly different levels of experience, and yet unless they go to one of the best schools on the continent, they are forced into a one-size-fits-all curriculum.
 

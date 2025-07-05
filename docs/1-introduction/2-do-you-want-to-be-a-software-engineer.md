@@ -14,7 +14,7 @@ For **software engineering**, that means demonstrating you can build, test, depl
 
 For **data science**, it might mean building models, analyzing datasets, and working with machine learning tools.
 
-The reason this book focuses on software engineering is because most students I meet come into their computer science degree thinking their going to be programmer — and that's essentially what a software engineer is.
+The reason this book focuses on software engineering is because most students I meet come into their computer science degree thinking they're going to be programmer — and that's essentially what a software engineer is.
 
 It's also the domain where my experience lies. Having now spent years as a full-time software engineer, it's clear to me what’s missing from most student resumes — and what skills employers actually care about.
 
