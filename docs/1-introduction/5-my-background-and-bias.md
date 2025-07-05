@@ -1,6 +1,6 @@
 # 1.5. My Background and Bias
 
-I’m not a professor. I’m not an author. And I haven’t been in the industry for decades.
+I’m not a professor. I’m not an author. And I haven’t spent decades in the industry.
 
 I’m just a student who has been through the same struggles you’re facing right now and I know first hand how overwhelming it can be to navigate the tech job market as a student.
 
