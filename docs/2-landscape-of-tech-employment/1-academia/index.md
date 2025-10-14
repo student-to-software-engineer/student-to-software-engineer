@@ -158,7 +158,7 @@ These casual relationships have tangible effects. For example, I only landed my 
 
 But students who started in Fall 2020 and 2021 missed this entirely. When they returned in-person in Fall 2022, the students who had those experiences were graduating or gone. This created a knowledge vacuum—one that hasn’t been fully refilled.
 
-This has resulted in a generations of students who are less connected, less informed, and less prepared to navigate the complexities of univeristy and the job market.
+This has resulted in a generations of students who are less connected, less informed, and less prepared to navigate the complexities of university and the job market.
 
 ## COVID Disrupted Growth
 
