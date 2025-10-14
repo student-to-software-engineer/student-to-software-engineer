@@ -2,7 +2,7 @@
 
 While you are a student, it is difficult to see the big picture of how all the courses you take fit together.
 
-Additionally, not everthing in university is mission critical to your goal of becoming a software engineer.
+Additionally, not everything in university is mission critical to your goal of becoming a software engineer.
 
 Knowing what to focus on in each course will help you get the most out of your time in university.
 
@@ -40,7 +40,7 @@ But you should understand the basics of how databases work, including SQL, datab
 
 I also find that university database courses focus mostly on relational databases, but in the real world, you will need to understand many different database paradigms.
 
-Without the context of understanding these different database paradigms, you might be confused at why a course like this is spending an entire lecture to discuss what a B+ tree is. The reason why is not every database uses a B+ tree, and understanding the different data structures used in databases will help you understand how to choose the right database for your application.
+Without the context of understanding these different database paradigms, you might be confused at why a course like this is spending an entire lecture to discuss what a B+ tree is. The reason why is that not every database uses a B+ tree, and understanding the different data structures used in databases will help you understand how to choose the right database for your application.
 
 For example, Cassandra uses a log-structured merge tree (LSM tree) for its storage engine, which makes it better for write-heavy workloads, while MongoDB uses a B-tree for its storage engine, which makes it better for read-heavy workloads.
 
