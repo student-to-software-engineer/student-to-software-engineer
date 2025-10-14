@@ -50,7 +50,7 @@ This further narrows the path for students and recent graduates, who rely on int
 
 The reality is that AI does not fully replace developers—at least, not yet.
 
-Today, AI is simple a tool that saves developers time, kind of like how a calculator saves time in performing complex calculations. According to the 2024 Stack Overflow survey, 81% of developers agree that AI significantly boosts productivity.
+Today, AI is simply a tool that saves developers time, kind of like how a calculator saves time in performing complex calculations. According to the 2024 Stack Overflow survey, 81% of developers agree that AI significantly boosts productivity.
 
 Although it does not fully replace the duties of an entry level developer, it is able to generate code that could have previously been delegated to interns or new grad level employees.
 
