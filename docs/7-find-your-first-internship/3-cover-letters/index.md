@@ -6,7 +6,7 @@ As a university student with little to no experience, you may be wondering how t
 
 A cover letter is your chance to show that you care about the company and the role. It’s an opportunity to explain why you want to work there and how you can contribute.
 
-Do not suck up to hard, but a simple statement like "... and I'd be excited to help (organization) achieve (companies goal)." can go a long way.
+Do not suck up too hard, but a simple statement like "... and I'd be excited to help (organization) achieve (companies goal)." can go a long way.
 
 ## Don't Duplicate Your Resume
 
@@ -16,7 +16,7 @@ Use your cover letter to explain how your background interests align with the co
 
 Example: "I'm drawn to (company) because of its commitment to (value or mission). My experience in (relevant experience) has prepared me to contribute to (this goal)."
 
-## Do I Event Need a Cover Letter?
+## Do I Even Need a Cover Letter?
 
 Will every company read your cover letter? No.
 
