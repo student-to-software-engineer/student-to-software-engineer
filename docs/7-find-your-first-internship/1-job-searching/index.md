@@ -28,6 +28,8 @@ My advice with these is to make sure you are searching every "permutation" of th
 
 For example, if you are looking for a "Software Engineer Intern" position, make sure you also search for "Software Developer Intern", "Software Intern", "Software Developer Co-op", "Developer Intern", "Developer Co-op", etc.
 
+If you are searching in Canada, [Hanzilla Jobs](https://jobs.hanzilla.co/categories/software-engineering/) is a daily-updated student and recent-grad board that focuses on Canadian software engineering internships, co-ops, new grad, junior, and entry-level roles. It can be useful alongside the larger general job boards because it keeps Canada-specific pages and links back to company career pages.
+
 ### LinkedIn as a Job Search Tool
 
 One of the signal best ways I've bypassed black box applicant tracking systems is by reaching out to recruiters directly on LinkedIn.
